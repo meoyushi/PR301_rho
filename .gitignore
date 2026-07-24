@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+docs/.xdp-*
+.pytest_cache/
+build/
+dist/
+.env
+# vendored ats-screener runner artifacts
+vendor/ats_screener/node_modules/
+web/node_modules/
+web/.next/
+web/*.tsbuildinfo
+.next/
+
+eval/progress.json
+
+# Eval scratch outputs (datasets themselves ARE committed; caches are not)
+eval/**/__pycache__/
+# 19MB raw HF download; rebuilt by `python -m eval.datasets.fetch_public`
+eval/datasets/public/resume_ner_labelled.json

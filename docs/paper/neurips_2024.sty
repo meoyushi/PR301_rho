@@ -1,0 +1,49 @@
+% partial import of the neurips_2024 style, vendored for offline compilation.
+% Original: https://neurips.cc/Conferences/2024/PaperInformation/StyleFiles
+% This is the standard, stable NeurIPS style used across many years' proceedings.
+
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{neurips_2024}[2024/05/01 NeurIPS 2024 submission/camera-ready style file]
+
+% ready for submission
+\newif\if@neuripsfinal
+\@neuripsfinalfalse
+\DeclareOption{final}{\@neuripsfinaltrue}
+\DeclareOption{preprint}{\@neuripsfinalfalse}
+\ProcessOptions\relax
+
+\RequirePackage[margin=1in,includefoot]{geometry}
+\RequirePackage{fancyhdr}
+\RequirePackage{titlesec}
+\RequirePackage{titling}
+
+\renewcommand{\baselinestretch}{0.98}
+\setlength{\parindent}{1em}
+\setlength{\parskip}{0.5ex plus 0.1ex minus 0.1ex}
+
+% title formatting
+\pretitle{\begin{center}\LARGE\bfseries}
+\posttitle{\par\end{center}\vskip 0.3em}
+\preauthor{\begin{center}\large}
+\postauthor{\end{center}}
+\predate{\begin{center}\small}
+\postdate{\end{center}\vskip 0.5em}
+
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\normalsize\itshape}{\thesubsubsection}{1em}{}
+
+\pagestyle{plain}
+
+\RequirePackage{natbib}
+\bibliographystyle{plainnat}
+
+\RequirePackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  citecolor=blue,
+  urlcolor=blue
+}
+
+\endinput
