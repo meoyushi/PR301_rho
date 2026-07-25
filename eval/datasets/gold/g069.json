@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Malik Hyun",
+    "headline": "Registered Nurse",
+    "summary": "Registered Nurse with 14 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "ACLS",
+      "Triage",
+      "Phlebotomy",
+      "Patient Care",
+      "EPIC"
+    ],
+    "work": [
+      {
+        "company": "Copperfield Retail",
+        "title": "Registered Nurse",
+        "start_date": "2022",
+        "end_date": "2024",
+        "bullets": [
+          "Trained 29 new graduate nurses on EPIC charting workflows.",
+          "Maintained medication accuracy above 39% across audits.",
+          "Managed a 55 bed unit across rotating night shifts."
+        ]
+      },
+      {
+        "company": "Ironwood Robotics",
+        "title": "Associate Registered Nurse",
+        "start_date": "2021",
+        "end_date": "2022",
+        "bullets": [
+          "Maintained medication accuracy above 36% across audits.",
+          "Trained 34 new graduate nurses on EPIC charting workflows.",
+          "Managed a 54 bed unit across rotating night shifts."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2021"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      10
+    ],
+    "skills[0]": [
+      237,
+      241
+    ],
+    "skills[1]": [
+      243,
+      249
+    ],
+    "skills[2]": [
+      251,
+      261
+    ],
+    "skills[3]": [
+      263,
+      275
+    ],
+    "skills[4]": [
+      277,
+      281
+    ],
+    "work[0].company": [
+      299,
+      317
+    ],
+    "work[0].title": [
+      320,
+      336
+    ],
+    "work[0].date": [
+      338,
+      342
+    ],
+    "work[0].bullets[0]": [
+      351,
+      409
+    ],
+    "work[0].bullets[1]": [
+      412,
+      467
+    ],
+    "work[0].bullets[2]": [
+      470,
+      521
+    ],
+    "work[1].company": [
+      523,
+      540
+    ],
+    "work[1].title": [
+      543,
+      569
+    ],
+    "work[1].date": [
+      571,
+      575
+    ],
+    "work[1].bullets[0]": [
+      584,
+      639
+    ],
+    "work[1].bullets[1]": [
+      642,
+      700
+    ],
+    "work[1].bullets[2]": [
+      703,
+      754
+    ],
+    "education[0].institution": [
+      766,
+      782
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Malik Hyun",
+    "skills[0]": "ACLS",
+    "skills[1]": "Triage",
+    "skills[2]": "Phlebotomy",
+    "skills[3]": "Patient Care",
+    "skills[4]": "EPIC",
+    "work[0].company": "Copperfield Retail",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Trained 29 new graduate nurses on EPIC charting workflows.",
+    "work[0].bullets[1]": "Maintained medication accuracy above 39% across audits.",
+    "work[0].bullets[2]": "Managed a 55 bed unit across rotating night shifts.",
+    "work[1].company": "Ironwood Robotics",
+    "work[1].title": "Associate Registered Nurse",
+    "work[1].date": "2021",
+    "work[1].bullets[0]": "Maintained medication accuracy above 36% across audits.",
+    "work[1].bullets[1]": "Trained 34 new graduate nurses on EPIC charting workflows.",
+    "work[1].bullets[2]": "Managed a 54 bed unit across rotating night shifts.",
+    "education[0].institution": "State University"
+  }
+}

@@ -1,0 +1,26 @@
+Ellis Fairbanks
+Data Engineer
+ellis.fairbanks@example.com
+
+PROFESSIONAL SUMMARY
+Data Engineer with 15 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+CORE COMPETENCIES
+Kafka, Python, Airflow, Spark, AWS
+
+EXPERIENCE
+Northwind Systems — Data Engineer (2021–2024)
+- Built streaming ingestion pipelines processing 36 TB of event data daily.
+- Migrated 30 legacy ETL jobs from cron to Airflow, cutting failures by 35%.
+
+Blue Harbor Energy — Junior Data Engineer (2020–2021)
+- Modelled the warehouse layer in dbt across 4 source systems.
+- Built streaming ingestion pipelines processing 5 TB of event data daily.
+- Migrated 6 legacy ETL jobs from cron to Airflow, cutting failures by 42%.
+
+Copperfield Retail — Associate Data Engineer (2018–2020)
+- Modelled the warehouse layer in dbt across 29 source systems.
+- Migrated 33 legacy ETL jobs from cron to Airflow, cutting failures by 34%.
+
+EDUCATION AND TRAINING
+Fairmont State College — B.S. Mechanical Engineering, 2018

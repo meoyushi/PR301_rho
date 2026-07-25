@@ -1,0 +1,26 @@
+Priya Fairbanks
+Data Engineer
+priya.fairbanks@example.com
+
+PROFESSIONAL SUMMARY
+Data Engineer with 7 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+SKILL HIGHLIGHTS
+Airflow, SQL, AWS, Python
+
+EMPLOYMENT HISTORY
+Blue Harbor Energy — Data Engineer (2017–2021)
+- Built streaming ingestion pipelines processing 52 TB of event data daily.
+- Modelled the warehouse layer in dbt across 43 source systems.
+- Migrated 9 legacy ETL jobs from cron to Airflow, cutting failures by 40%.
+
+Silverpine Media — Associate Data Engineer (2014–2016)
+- Built streaming ingestion pipelines processing 5 TB of event data daily.
+- Migrated 42 legacy ETL jobs from cron to Airflow, cutting failures by 43%.
+
+Brightline Analytics — Junior Data Engineer (2010–2014)
+- Built streaming ingestion pipelines processing 30 TB of event data daily.
+- Modelled the warehouse layer in dbt across 45 source systems.
+
+EDUCATION AND TRAINING
+Fairmont State College — B.S. Mechanical Engineering, 2010

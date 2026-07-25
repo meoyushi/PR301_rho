@@ -1,0 +1,168 @@
+{
+  "gold": {
+    "name": "Omar Castellanos",
+    "headline": "Registered Nurse",
+    "summary": "Hands-on Registered Nurse who has spent 5 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "EPIC",
+      "Phlebotomy",
+      "Triage",
+      "ACLS",
+      "Patient Care"
+    ],
+    "work": [
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Registered Nurse",
+        "start_date": "2021",
+        "end_date": "2025",
+        "bullets": [
+          "Trained 12 new graduate nurses on EPIC charting workflows.",
+          "Maintained medication accuracy above 27% across audits."
+        ]
+      },
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Associate Registered Nurse",
+        "start_date": "2018",
+        "end_date": "2021",
+        "bullets": [
+          "Managed a 17 bed unit across rotating night shifts.",
+          "Maintained medication accuracy above 24% across audits."
+        ]
+      },
+      {
+        "company": "Cobalt Interactive",
+        "title": "Associate Registered Nurse",
+        "start_date": "2017",
+        "end_date": "2018",
+        "bullets": [
+          "Trained 17 new graduate nurses on EPIC charting workflows.",
+          "Maintained medication accuracy above 32% across audits."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2017"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      16
+    ],
+    "skills[0]": [
+      234,
+      238
+    ],
+    "skills[1]": [
+      240,
+      250
+    ],
+    "skills[2]": [
+      252,
+      258
+    ],
+    "skills[3]": [
+      260,
+      264
+    ],
+    "skills[4]": [
+      266,
+      278
+    ],
+    "work[0].company": [
+      291,
+      315
+    ],
+    "work[0].title": [
+      318,
+      334
+    ],
+    "work[0].date": [
+      336,
+      340
+    ],
+    "work[0].bullets[0]": [
+      349,
+      407
+    ],
+    "work[0].bullets[1]": [
+      410,
+      465
+    ],
+    "work[1].company": [
+      467,
+      491
+    ],
+    "work[1].title": [
+      494,
+      520
+    ],
+    "work[1].date": [
+      522,
+      526
+    ],
+    "work[1].bullets[0]": [
+      535,
+      586
+    ],
+    "work[1].bullets[1]": [
+      589,
+      644
+    ],
+    "work[2].company": [
+      646,
+      664
+    ],
+    "work[2].title": [
+      667,
+      693
+    ],
+    "work[2].date": [
+      695,
+      699
+    ],
+    "work[2].bullets[0]": [
+      708,
+      766
+    ],
+    "work[2].bullets[1]": [
+      769,
+      824
+    ],
+    "education[0].institution": [
+      836,
+      856
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Omar Castellanos",
+    "skills[0]": "EPIC",
+    "skills[1]": "Phlebotomy",
+    "skills[2]": "Triage",
+    "skills[3]": "ACLS",
+    "skills[4]": "Patient Care",
+    "work[0].company": "Vantage Point Consulting",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Trained 12 new graduate nurses on EPIC charting workflows.",
+    "work[0].bullets[1]": "Maintained medication accuracy above 27% across audits.",
+    "work[1].company": "Vantage Point Consulting",
+    "work[1].title": "Associate Registered Nurse",
+    "work[1].date": "2018",
+    "work[1].bullets[0]": "Managed a 17 bed unit across rotating night shifts.",
+    "work[1].bullets[1]": "Maintained medication accuracy above 24% across audits.",
+    "work[2].company": "Cobalt Interactive",
+    "work[2].title": "Associate Registered Nurse",
+    "work[2].date": "2017",
+    "work[2].bullets[0]": "Trained 17 new graduate nurses on EPIC charting workflows.",
+    "work[2].bullets[1]": "Maintained medication accuracy above 32% across audits.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

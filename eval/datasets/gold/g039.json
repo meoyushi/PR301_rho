@@ -1,0 +1,151 @@
+{
+  "gold": {
+    "name": "Amara Novak",
+    "headline": "Marketing Manager",
+    "summary": "Hands-on Marketing Manager who has spent 9 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Salesforce",
+      "Copywriting",
+      "A/B Testing",
+      "Google Analytics",
+      "HubSpot",
+      "SEO"
+    ],
+    "work": [
+      {
+        "company": "Cobalt Interactive",
+        "title": "Marketing Manager",
+        "start_date": "2021",
+        "end_date": "2022",
+        "bullets": [
+          "Grew organic traffic 34% year over year through an SEO content programme.",
+          "Ran 47 A/B tests on lifecycle email, lifting conversion 37%.",
+          "Managed a 25 million dollar annual paid media budget."
+        ]
+      },
+      {
+        "company": "Copperfield Retail",
+        "title": "Associate Marketing Manager",
+        "start_date": "2018",
+        "end_date": "2021",
+        "bullets": [
+          "Managed a 18 million dollar annual paid media budget.",
+          "Grew organic traffic 30% year over year through an SEO content programme.",
+          "Ran 51 A/B tests on lifecycle email, lifting conversion 28%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2018"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      226,
+      236
+    ],
+    "skills[1]": [
+      238,
+      249
+    ],
+    "skills[2]": [
+      251,
+      262
+    ],
+    "skills[3]": [
+      264,
+      280
+    ],
+    "skills[4]": [
+      282,
+      289
+    ],
+    "skills[5]": [
+      291,
+      294
+    ],
+    "work[0].company": [
+      320,
+      338
+    ],
+    "work[0].title": [
+      341,
+      358
+    ],
+    "work[0].date": [
+      360,
+      364
+    ],
+    "work[0].bullets[0]": [
+      373,
+      446
+    ],
+    "work[0].bullets[1]": [
+      449,
+      509
+    ],
+    "work[0].bullets[2]": [
+      512,
+      565
+    ],
+    "work[1].company": [
+      567,
+      585
+    ],
+    "work[1].title": [
+      588,
+      615
+    ],
+    "work[1].date": [
+      617,
+      621
+    ],
+    "work[1].bullets[0]": [
+      630,
+      683
+    ],
+    "work[1].bullets[1]": [
+      686,
+      759
+    ],
+    "work[1].bullets[2]": [
+      762,
+      822
+    ],
+    "education[0].institution": [
+      834,
+      867
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Amara Novak",
+    "skills[0]": "Salesforce",
+    "skills[1]": "Copywriting",
+    "skills[2]": "A/B Testing",
+    "skills[3]": "Google Analytics",
+    "skills[4]": "HubSpot",
+    "skills[5]": "SEO",
+    "work[0].company": "Cobalt Interactive",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Grew organic traffic 34% year over year through an SEO content programme.",
+    "work[0].bullets[1]": "Ran 47 A/B tests on lifecycle email, lifting conversion 37%.",
+    "work[0].bullets[2]": "Managed a 25 million dollar annual paid media budget.",
+    "work[1].company": "Copperfield Retail",
+    "work[1].title": "Associate Marketing Manager",
+    "work[1].date": "2018",
+    "work[1].bullets[0]": "Managed a 18 million dollar annual paid media budget.",
+    "work[1].bullets[1]": "Grew organic traffic 30% year over year through an SEO content programme.",
+    "work[1].bullets[2]": "Ran 51 A/B tests on lifecycle email, lifting conversion 28%.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

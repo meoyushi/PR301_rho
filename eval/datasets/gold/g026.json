@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Idris Okonkwo",
+    "headline": "Data Engineer",
+    "summary": "Hands-on Data Engineer who has spent 15 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "dbt",
+      "Snowflake",
+      "Airflow",
+      "Python",
+      "Spark"
+    ],
+    "work": [
+      {
+        "company": "Northwind Systems",
+        "title": "Data Engineer",
+        "start_date": "2020",
+        "end_date": "2023",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 31 TB of event data daily.",
+          "Migrated 39 legacy ETL jobs from cron to Airflow, cutting failures by 20%.",
+          "Modelled the warehouse layer in dbt across 52 source systems."
+        ]
+      },
+      {
+        "company": "Meridian Health Group",
+        "title": "Associate Data Engineer",
+        "start_date": "2018",
+        "end_date": "2019",
+        "bullets": [
+          "Migrated 26 legacy ETL jobs from cron to Airflow, cutting failures by 44%.",
+          "Modelled the warehouse layer in dbt across 19 source systems.",
+          "Built streaming ingestion pipelines processing 52 TB of event data daily."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2018"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      236,
+      239
+    ],
+    "skills[1]": [
+      241,
+      250
+    ],
+    "skills[2]": [
+      252,
+      259
+    ],
+    "skills[3]": [
+      261,
+      267
+    ],
+    "skills[4]": [
+      269,
+      274
+    ],
+    "work[0].company": [
+      292,
+      309
+    ],
+    "work[0].title": [
+      312,
+      325
+    ],
+    "work[0].date": [
+      327,
+      331
+    ],
+    "work[0].bullets[0]": [
+      340,
+      413
+    ],
+    "work[0].bullets[1]": [
+      416,
+      490
+    ],
+    "work[0].bullets[2]": [
+      493,
+      554
+    ],
+    "work[1].company": [
+      556,
+      577
+    ],
+    "work[1].title": [
+      580,
+      603
+    ],
+    "work[1].date": [
+      605,
+      609
+    ],
+    "work[1].bullets[0]": [
+      618,
+      692
+    ],
+    "work[1].bullets[1]": [
+      695,
+      756
+    ],
+    "work[1].bullets[2]": [
+      759,
+      832
+    ],
+    "education[0].institution": [
+      854,
+      887
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Idris Okonkwo",
+    "skills[0]": "dbt",
+    "skills[1]": "Snowflake",
+    "skills[2]": "Airflow",
+    "skills[3]": "Python",
+    "skills[4]": "Spark",
+    "work[0].company": "Northwind Systems",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Built streaming ingestion pipelines processing 31 TB of event data daily.",
+    "work[0].bullets[1]": "Migrated 39 legacy ETL jobs from cron to Airflow, cutting failures by 20%.",
+    "work[0].bullets[2]": "Modelled the warehouse layer in dbt across 52 source systems.",
+    "work[1].company": "Meridian Health Group",
+    "work[1].title": "Associate Data Engineer",
+    "work[1].date": "2018",
+    "work[1].bullets[0]": "Migrated 26 legacy ETL jobs from cron to Airflow, cutting failures by 44%.",
+    "work[1].bullets[1]": "Modelled the warehouse layer in dbt across 19 source systems.",
+    "work[1].bullets[2]": "Built streaming ingestion pipelines processing 52 TB of event data daily.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

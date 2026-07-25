@@ -1,0 +1,25 @@
+Rowan Lindqvist
+Financial Analyst
+rowan.lindqvist@example.com
+
+SUMMARY
+Financial Analyst with 3 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+SKILLS
+SQL, Tableau, Excel, Forecasting
+
+PROFESSIONAL EXPERIENCE
+Ironwood Robotics — Financial Analyst (2020–2024)
+- Presented monthly results to a committee of 55 executives.
+- Automated variance reporting in SQL, saving 55 analyst hours per month.
+
+Northwind Systems — Junior Financial Analyst (2017–2019)
+- Owned the quarterly forecast for a 28 million dollar product line.
+- Presented monthly results to a committee of 46 executives.
+
+Copperfield Retail — Junior Financial Analyst (2013–2017)
+- Automated variance reporting in SQL, saving 48 analyst hours per month.
+- Owned the quarterly forecast for a 38 million dollar product line.
+
+EDUCATION
+Lakeshore University — M.B.A. Business Administration, 2013

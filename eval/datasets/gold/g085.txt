@@ -1,0 +1,22 @@
+Beatriz Kowalski
+Mechanical Engineer
+beatriz.kowalski@example.com
+
+PROFILE
+Mechanical Engineer with 14 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+TECHNICAL SKILLS
+GD&T, FEA, AutoCAD, MATLAB, SolidWorks
+
+EMPLOYMENT HISTORY
+Meridian Health Group — Mechanical Engineer (2024–2025)
+- Ran FEA validation on 55 structural components.
+- Designed 42 injection-moulded assemblies released to production.
+- Cut part cost 18% through a design-for-manufacture review.
+
+Vantage Point Consulting — Associate Mechanical Engineer (2021–2024)
+- Designed 22 injection-moulded assemblies released to production.
+- Ran FEA validation on 35 structural components.
+
+EDUCATION
+Riverside Institute of Technology — B.S. Mechanical Engineering, 2021

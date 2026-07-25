@@ -1,0 +1,174 @@
+{
+  "gold": {
+    "name": "Rowan Novak",
+    "headline": "Registered Nurse",
+    "summary": "Registered Nurse with 4 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "EPIC",
+      "ACLS",
+      "IV Therapy",
+      "Patient Care",
+      "Triage"
+    ],
+    "work": [
+      {
+        "company": "Brightline Analytics",
+        "title": "Registered Nurse",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Managed a 59 bed unit across rotating night shifts.",
+          "Trained 12 new graduate nurses on EPIC charting workflows."
+        ]
+      },
+      {
+        "company": "Lantern Software",
+        "title": "Associate Registered Nurse",
+        "start_date": "2020",
+        "end_date": "2022",
+        "bullets": [
+          "Maintained medication accuracy above 45% across audits.",
+          "Managed a 21 bed unit across rotating night shifts."
+        ]
+      },
+      {
+        "company": "Meridian Health Group",
+        "title": "Junior Registered Nurse",
+        "start_date": "2017",
+        "end_date": "2019",
+        "bullets": [
+          "Managed a 39 bed unit across rotating night shifts.",
+          "Maintained medication accuracy above 12% across audits.",
+          "Trained 8 new graduate nurses on EPIC charting workflows."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2017"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      251,
+      255
+    ],
+    "skills[1]": [
+      257,
+      261
+    ],
+    "skills[2]": [
+      263,
+      273
+    ],
+    "skills[3]": [
+      275,
+      287
+    ],
+    "skills[4]": [
+      289,
+      295
+    ],
+    "work[0].company": [
+      316,
+      336
+    ],
+    "work[0].title": [
+      339,
+      355
+    ],
+    "work[0].date": [
+      357,
+      361
+    ],
+    "work[0].bullets[0]": [
+      370,
+      421
+    ],
+    "work[0].bullets[1]": [
+      424,
+      482
+    ],
+    "work[1].company": [
+      484,
+      500
+    ],
+    "work[1].title": [
+      503,
+      529
+    ],
+    "work[1].date": [
+      531,
+      535
+    ],
+    "work[1].bullets[0]": [
+      544,
+      599
+    ],
+    "work[1].bullets[1]": [
+      602,
+      653
+    ],
+    "work[2].company": [
+      655,
+      676
+    ],
+    "work[2].title": [
+      679,
+      702
+    ],
+    "work[2].date": [
+      704,
+      708
+    ],
+    "work[2].bullets[0]": [
+      717,
+      768
+    ],
+    "work[2].bullets[1]": [
+      771,
+      826
+    ],
+    "work[2].bullets[2]": [
+      829,
+      886
+    ],
+    "education[0].institution": [
+      898,
+      915
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Rowan Novak",
+    "skills[0]": "EPIC",
+    "skills[1]": "ACLS",
+    "skills[2]": "IV Therapy",
+    "skills[3]": "Patient Care",
+    "skills[4]": "Triage",
+    "work[0].company": "Brightline Analytics",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Managed a 59 bed unit across rotating night shifts.",
+    "work[0].bullets[1]": "Trained 12 new graduate nurses on EPIC charting workflows.",
+    "work[1].company": "Lantern Software",
+    "work[1].title": "Associate Registered Nurse",
+    "work[1].date": "2020",
+    "work[1].bullets[0]": "Maintained medication accuracy above 45% across audits.",
+    "work[1].bullets[1]": "Managed a 21 bed unit across rotating night shifts.",
+    "work[2].company": "Meridian Health Group",
+    "work[2].title": "Junior Registered Nurse",
+    "work[2].date": "2017",
+    "work[2].bullets[0]": "Managed a 39 bed unit across rotating night shifts.",
+    "work[2].bullets[1]": "Maintained medication accuracy above 12% across audits.",
+    "work[2].bullets[2]": "Trained 8 new graduate nurses on EPIC charting workflows.",
+    "education[0].institution": "Northgate College"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "gold": {
+    "name": "Priya Lindqvist",
+    "headline": "Registered Nurse",
+    "summary": "Registered Nurse with 11 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "ACLS",
+      "IV Therapy",
+      "Patient Care",
+      "EPIC",
+      "Phlebotomy"
+    ],
+    "work": [
+      {
+        "company": "Harborview Logistics",
+        "title": "Registered Nurse",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Managed a 26 bed unit across rotating night shifts.",
+          "Maintained medication accuracy above 37% across audits."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2022"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      222,
+      226
+    ],
+    "skills[1]": [
+      228,
+      238
+    ],
+    "skills[2]": [
+      240,
+      252
+    ],
+    "skills[3]": [
+      254,
+      258
+    ],
+    "skills[4]": [
+      260,
+      270
+    ],
+    "work[0].company": [
+      296,
+      316
+    ],
+    "work[0].title": [
+      319,
+      335
+    ],
+    "work[0].date": [
+      337,
+      341
+    ],
+    "work[0].bullets[0]": [
+      350,
+      401
+    ],
+    "work[0].bullets[1]": [
+      404,
+      459
+    ],
+    "education[0].institution": [
+      471,
+      487
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Priya Lindqvist",
+    "skills[0]": "ACLS",
+    "skills[1]": "IV Therapy",
+    "skills[2]": "Patient Care",
+    "skills[3]": "EPIC",
+    "skills[4]": "Phlebotomy",
+    "work[0].company": "Harborview Logistics",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Managed a 26 bed unit across rotating night shifts.",
+    "work[0].bullets[1]": "Maintained medication accuracy above 37% across audits.",
+    "education[0].institution": "State University"
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "gold": {
+    "name": "Malik Delgado",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 6 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Salesforce",
+      "A/B Testing",
+      "HubSpot",
+      "Copywriting"
+    ],
+    "work": [
+      {
+        "company": "Cobalt Interactive",
+        "title": "Marketing Manager",
+        "start_date": "2022",
+        "end_date": "2024",
+        "bullets": [
+          "Managed a 54 million dollar annual paid media budget.",
+          "Ran 5 A/B tests on lifecycle email, lifting conversion 11%."
+        ]
+      },
+      {
+        "company": "Brightline Analytics",
+        "title": "Junior Marketing Manager",
+        "start_date": "2020",
+        "end_date": "2021",
+        "bullets": [
+          "Managed a 10 million dollar annual paid media budget.",
+          "Ran 19 A/B tests on lifecycle email, lifting conversion 29%."
+        ]
+      },
+      {
+        "company": "Cobalt Interactive",
+        "title": "Junior Marketing Manager",
+        "start_date": "2019",
+        "end_date": "2020",
+        "bullets": [
+          "Ran 58 A/B tests on lifecycle email, lifting conversion 18%.",
+          "Managed a 20 million dollar annual paid media budget."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      244,
+      254
+    ],
+    "skills[1]": [
+      256,
+      267
+    ],
+    "skills[2]": [
+      269,
+      276
+    ],
+    "skills[3]": [
+      278,
+      289
+    ],
+    "work[0].company": [
+      315,
+      333
+    ],
+    "work[0].title": [
+      336,
+      353
+    ],
+    "work[0].date": [
+      355,
+      359
+    ],
+    "work[0].bullets[0]": [
+      368,
+      421
+    ],
+    "work[0].bullets[1]": [
+      424,
+      483
+    ],
+    "work[1].company": [
+      485,
+      505
+    ],
+    "work[1].title": [
+      508,
+      532
+    ],
+    "work[1].date": [
+      534,
+      538
+    ],
+    "work[1].bullets[0]": [
+      547,
+      600
+    ],
+    "work[1].bullets[1]": [
+      603,
+      663
+    ],
+    "work[2].company": [
+      665,
+      683
+    ],
+    "work[2].title": [
+      686,
+      710
+    ],
+    "work[2].date": [
+      712,
+      716
+    ],
+    "work[2].bullets[0]": [
+      725,
+      785
+    ],
+    "work[2].bullets[1]": [
+      788,
+      841
+    ],
+    "education[0].institution": [
+      866,
+      886
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Malik Delgado",
+    "skills[0]": "Salesforce",
+    "skills[1]": "A/B Testing",
+    "skills[2]": "HubSpot",
+    "skills[3]": "Copywriting",
+    "work[0].company": "Cobalt Interactive",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Managed a 54 million dollar annual paid media budget.",
+    "work[0].bullets[1]": "Ran 5 A/B tests on lifecycle email, lifting conversion 11%.",
+    "work[1].company": "Brightline Analytics",
+    "work[1].title": "Junior Marketing Manager",
+    "work[1].date": "2020",
+    "work[1].bullets[0]": "Managed a 10 million dollar annual paid media budget.",
+    "work[1].bullets[1]": "Ran 19 A/B tests on lifecycle email, lifting conversion 29%.",
+    "work[2].company": "Cobalt Interactive",
+    "work[2].title": "Junior Marketing Manager",
+    "work[2].date": "2019",
+    "work[2].bullets[0]": "Ran 58 A/B tests on lifecycle email, lifting conversion 18%.",
+    "work[2].bullets[1]": "Managed a 20 million dollar annual paid media budget.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

@@ -1,0 +1,23 @@
+Viktor Delgado
+Mechanical Engineer
+viktor.delgado@example.com
+
+PROFILE
+Hands-on Mechanical Engineer who has spent 12 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+SKILL HIGHLIGHTS
+GD&T, Six Sigma, MATLAB, AutoCAD
+
+WORK EXPERIENCE
+Meridian Health Group — Mechanical Engineer (2020–2024)
+- Designed 10 injection-moulded assemblies released to production.
+- Cut part cost 37% through a design-for-manufacture review.
+- Ran FEA validation on 9 structural components.
+
+Ironwood Robotics — Associate Mechanical Engineer (2018–2019)
+- Designed 59 injection-moulded assemblies released to production.
+- Ran FEA validation on 57 structural components.
+- Cut part cost 13% through a design-for-manufacture review.
+
+ACADEMIC BACKGROUND
+Lakeshore University — M.S. Data Science, 2018

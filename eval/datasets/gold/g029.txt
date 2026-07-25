@@ -1,0 +1,25 @@
+Tomas Novak
+Registered Nurse
+tomas.novak@example.com
+
+PROFESSIONAL SUMMARY
+Registered Nurse with 7 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+SKILLS
+ACLS, Phlebotomy, IV Therapy, Triage, EPIC, Patient Care
+
+EXPERIENCE
+Vantage Point Consulting — Registered Nurse (2020–2022)
+- Maintained medication accuracy above 22% across audits.
+- Trained 44 new graduate nurses on EPIC charting workflows.
+
+Vantage Point Consulting — Associate Registered Nurse (2018–2019)
+- Maintained medication accuracy above 42% across audits.
+- Managed a 21 bed unit across rotating night shifts.
+
+Cobalt Interactive — Junior Registered Nurse (2013–2017)
+- Managed a 39 bed unit across rotating night shifts.
+- Maintained medication accuracy above 29% across audits.
+
+EDUCATION
+Ashford Polytechnic — M.S. Data Science, 2013

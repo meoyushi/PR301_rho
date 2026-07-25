@@ -1,0 +1,228 @@
+{
+  "_README": {
+    "what": "Hand-written labels for the 30-résumé real-corpus subset (C1 Table 1b).",
+    "who": "Labelled by the implementing agent (Claude) against the .txt rendering of each résumé, reading the full document. NOT independently human-verified — stated as a limitation in eval/RESULTS.md.",
+    "scored_fields": ["skills", "work[].title", "education[].institution", "summary"],
+    "unlabelable_fields": {
+      "name": "The corpus is anonymised: no résumé carries a candidate name. The first line is the job title, not a person.",
+      "work[].company": "Every employer is redacted to the literal string 'Company Name'. There is no company to extract, so scoring it would measure the extractor's willingness to echo a placeholder.",
+      "emails/phones/urls": "Stripped by the corpus anonymisation."
+    },
+    "skills_rule": "Labelled as the résumé's OWN skills/highlights/qualifications section, verbatim items, in document order. Where a résumé has no such section, skills is [] and that empty is a real label (the section is genuinely absent), not a missing annotation.",
+    "title_rule": "Job titles as written in the experience section, in document order, deduplicated only when the same title appears for the same date range.",
+    "summary_rule": "The text under the résumé's summary/profile/overview header, verbatim. Scored with long_text_f1 (token overlap), never exact match."
+  },
+
+  "r000": {
+    "category": "SALES",
+    "summary": "Experienced Retail Sales Manager, known for hiring and training solid, long-term staff, adept at problem solving, who posses a strong background in Visual Merchandising.",
+    "skills": ["Master at executing and enhancing Game-plans", "Proficient in opening and closing store procedures, including cash office execution."],
+    "work_titles": ["Softlines Manager", "Apparel Sales Leader", "Nike Brand Coordinator"],
+    "institutions": ["Mount Everett Regional High School"]
+  },
+  "r001": {
+    "category": "TEACHER",
+    "summary": "To secure a position where I can utilize my skills, work ethic, achievement where we it can be an asset to your company.",
+    "skills": ["academic", "autism", "book", "clients", "customer service", "database", "Internet Explorer", "director", "Excel", "PowerPoint", "Windows", "Microsoft Word", "purchasing", "quick", "Read", "sabre", "Sales", "Staffing", "Inspect vehicles"],
+    "work_titles": ["Lead Teacher", "Passenger Service", "Teachers Aide", "Direct Support Professional"],
+    "institutions": ["Medgar Evers College", "Thomas Jefferson High School"]
+  },
+  "r002": {
+    "category": "DESIGNER",
+    "summary": "Successful Design Consultant with over 26 years of experience. Who manages large-scale interior and exterior projects from low to high-end residential homes. Capable Interior Designer equipped with a can-do attitude who leverages the valuable design insight gained from past creations. Enthusiastic and confident demeanor enables customers to feel at ease with the design process. Exhibits sophisticated taste and a unique design style.",
+    "skills": ["Concept development", "Space planning", "Color and material application", "Strong leader", "Product specifications", "Interior architectural detailing", "Proficient with furniture systems"],
+    "work_titles": ["Interior Designer", "International Representative"],
+    "institutions": ["Roosevelt University"]
+  },
+  "r003": {
+    "category": "SALES",
+    "summary": "To obtain a position where I can utilize my skills and work in an environment that will enhance my knowledge and career. Great organization and communication skills that will aid in excellent customer service and satisfaction.",
+    "_note": "Two skill sections (Highlights near the top, Skills near the bottom). Both are the résumé's own skill lists, so both are labelled.",
+    "skills": ["Bi-lingual", "Multi-line system expert", "Superior communication skills", "Data entry", "Claims expert", "Install coordinator", "Proficient in ordering materials", "Payroll", "Cheerful and energetic", "Effective team player", "Superior organization skills", "Dependable and reliable", "Goal oriented", "Self motivated", "Excellent communication skills", "Outstanding people skills", "Creative, insightful, innovative, assertive", "Leadership- result oriented and goals achiever", "Efficient under pressure", "Proficient phone skills"],
+    "work_titles": ["Sales", "Install Sales Coordinator", "Keyholder/Sales Associate/Copy Center Supervisor", "Cashier/ Customer Services"],
+    "institutions": ["Truckee Meadows Community College", "West High School"]
+  },
+  "r004": {
+    "category": "CHEF",
+    "summary": "Sous Chef, Lead Cook and Supervisor with 4 years experience in high-pressure culinary environments. Skilled in preparing large volumes of food quickly and efficiently. Seeking to use culinary skills and expertise to prepare a special variety of dishes in a professional, rewarding environment.",
+    "_note": "Highlights section plus a short trailing Skills line; both labelled.",
+    "skills": ["Food Cost", "ServSafe certified", "Bilingual", "Rational Degree", "Inventory management familiarity", "Focus on portion and cost control", "Sous vide technique", "Strong butchery skills", "Food handlers card", "Focused and disciplined", "High volume production capability", "Well-tuned palette", "Cost control", "Customer service"],
+    "work_titles": ["Chef de Partie", "Sous Chef", "Lead Cook"],
+    "institutions": ["Culinary Arts California"]
+  },
+  "r005": {
+    "category": "DIGITAL-MEDIA",
+    "summary": "Dynamic and highly enthusiastic individual with keen business acumen seeking a position in Marketing and Advertising to apply advanced customer service skills and uncommon creative mindset to bring a positive initiative to your business operations and an upward curve to your company revenue growth",
+    "skills": ["Account Management", "Brand Development", "Sales Promotion", "Multi-Media Marketing", "Campaign Planning & Execution", "CRM & Profit Maximization", "Strategic Media Placement", "Market Analysis", "Customer Service", "Advertising"],
+    "work_titles": ["Digital Marketing Associate", "Account Manager"],
+    "institutions": []
+  },
+  "r006": {
+    "category": "AGRICULTURE",
+    "summary": "Service-oriented Process Operator with 5 years background working in the Industrial Industry. Core competencies include Processing, Observing, Analyzing chemicals and other matters, as well as excellent communication and time management skills. Handle tasks with accuracy and efficiency.",
+    "skills": ["Production and Processing", "Industrial and Environmental safety", "Mechanical aptitude and equipment troubleshooting ability.", "Basic math skills and the ability to compute decimals and perentage.", "Basic computer skills", "Good oral and written communication skills", "Previous manufacturing skills", "Able to lift up to 70 pounds, use tools", "Team work"],
+    "work_titles": ["Federal Grain Inspector", "Process Operator Intern", "B Class Electrician"],
+    "institutions": ["ITI Technical College"]
+  },
+  "r007": {
+    "category": "BUSINESS-DEVELOPMENT",
+    "summary": "Business Analyst versed in data mapping and user acceptance testing, as well as solving complex problems in high-pressure environments. Excels at cultivating, managing and leveraging client relationships.",
+    "skills": ["Business process improvement", "Business requirements matrixes", "Project management", "Advanced problem solving abilities", "Business systems analysis", "Ability to produce executive level reports and presentations", "User acceptance testing", "Forecasting and planning"],
+    "work_titles": ["Project Analyst", "Portfolio Management Administrator II, Officer", "Commercial Custom Analyst"],
+    "institutions": ["Keller School of Management", "DeVry University"]
+  },
+  "r008": {
+    "category": "DIGITAL-MEDIA",
+    "summary": "Broadcast Management, Media Sales, Radio Station Programming and On-Air Broadcast execution is where my success has been the most dominate.",
+    "skills": ["Affiliate Sales Manager", "Local Brand Manager", "On-Air Personality", "Social Media Integrator", "Digital Content Developer", "Email Marketer"],
+    "work_titles": ["Consultant", "Sr. Director", "Operations Director, Brand Manager and On-Air Personality"],
+    "institutions": ["Lincoln College"]
+  },
+  "r009": {
+    "category": "CONSTRUCTION",
+    "summary": "Carpenter Foreman Position where I can effectively utilize my expertise and skills.",
+    "skills": ["Thorough knowledge of safety practices and occupational hazards related to construction work.", "Solid understanding of supervising, planning, delegating, and performing tasks", "Remarkable ability to comprehend, blueprints, drawings and sketches", "Certified rigger and signal person", "Proficient with welding and cutting"],
+    "work_titles": ["Carpenter", "Foreman"],
+    "institutions": []
+  },
+  "r010": {
+    "category": "FINANCE",
+    "summary": "Marketing Manager accomplished in all aspects of campaign development, including copywriting and editing, list selection, email, social media marketing and production. Excited to grow with a company that is innovative, groundbreaking and revolutionary in the fields of journalism and social media.",
+    "skills": [],
+    "work_titles": ["Finance Director"],
+    "institutions": ["Southern Illinois University", "Lincoln College"]
+  },
+  "r011": {
+    "category": "DIGITAL-MEDIA",
+    "summary": null,
+    "skills": ["advertisements", "approach", "content", "Customer Service", "databases", "direct mail", "direction", "editing", "email", "graphic", "managing", "marketing strategies", "marketing", "marketing collateral", "materials", "newsletter", "online marketing", "press releases", "production manager", "Research", "sales", "script", "stories", "video", "website", "articles"],
+    "work_titles": ["Marketing Coordinator", "Customer Support Specialist", "Public Relations and Marketing Intern"],
+    "institutions": []
+  },
+  "r012": {
+    "category": "BPO",
+    "summary": "Highly enthusiastic customer service professional with 6 years client interface experience.",
+    "skills": ["Ability to work well under pressure.", "Ability to adapt to a changing work environment.", "Very client and people oriented.", "Ability to work well with any size team.", "Always very cheerful and happy to help anyone.", "Constantly maintains a positive attitude.", "Can learn well from failures and take criticisms.", "Always happy to be challenged."],
+    "work_titles": ["Customer Service Specialist", "Framing Expert"],
+    "institutions": []
+  },
+  "r013": {
+    "category": "DESIGNER",
+    "summary": "Versatile professional and hands-on leader who motivates, trains and coaches employees to drive progress toward project and company milestones.",
+    "skills": ["Customer-oriented", "Employee training and development", "Client and vendor relations", "Invoicing and purchase orders", "MS Office", "Advanced problem solving skills", "Driven", "Strategic thinker", "Superb communication skills", "Detail oriented", "Microsoft Word, Excel, PowerPoint", "Proficiency in web designing", "Professional demeanor", "bilingual"],
+    "work_titles": ["Graphic Designer", "clerk"],
+    "institutions": ["Fresno City College"]
+  },
+  "r014": {
+    "category": "ACCOUNTANT",
+    "summary": "Experienced accounting professional with proficient, analytical and problem solving abilities. Results oriented and flexible in a rapidly changing environment.",
+    "skills": ["Microsoft Office", "Outlook"],
+    "work_titles": ["Accountant", "Accounting Manager"],
+    "institutions": ["Normandale Community College"]
+  },
+  "r015": {
+    "category": "CONSTRUCTION",
+    "summary": "With 17 years' experience in the field, I have accumulated an extensive working experience, education and team building abilities in safety. I will aid in the most effective implementation of procedures to my fullest ability.",
+    "skills": [],
+    "work_titles": ["Construction Safety Manager"],
+    "institutions": []
+  },
+  "r016": {
+    "category": "CONSTRUCTION",
+    "summary": "A motivated hard working individual that is willing to learn and accomplish any task that is giving to me, I've always been dependable and reliable. Motivated to get along well with others and exceed expectations. Thrives in a fast-paced environment and works to complete projects quickly and efficiently. Experienced Construction Laborer knowledgeable about the tools, materials and methods used in road construction.",
+    "skills": ["Painting"],
+    "work_titles": ["Construction Worker", "Construction worker/ Painter"],
+    "institutions": ["West Fulton High School", "Drexel J. Thrash Training Center"]
+  },
+  "r017": {
+    "category": "ACCOUNTANT",
+    "summary": "Experienced, detail-oriented Accountant who effectively manages multiple projects, and possesses superior organizational and communication skills is seeking a challenging position.",
+    "skills": ["Billing and Collections", "MS Office Suite", "Accounts Payable", "Accounting software", "Accounts Receivable", "Written and Verbal Communication Skills", "Job Costing", "Journal entries", "Reconciliations", "Pivot Tables", "Notary Commissioned"],
+    "work_titles": ["Accountant", "Administrative Assistant", "Accounting Manager"],
+    "institutions": []
+  },
+  "r018": {
+    "category": "ENGINEERING",
+    "summary": "Creative and innovative draftsman, passionate about building designs and advanced construction solutions. Seeking the best opportunity to further enhance present professional experience and expand knowledge base on architectural designs, while growing with an organization.",
+    "skills": ["3D modeling", "architectural drafting", "AutoCAD", "read blueprints", "carpentry", "Detail oriented", "drafting", "email", "floor plans", "frame", "3dsMax", "mechanical", "messaging", "Microsoft Office applications", "Multi-tasking", "painting", "problem solving skills", "reading", "renovation", "Revit", "self-motivated", "supervisor"],
+    "work_titles": ["Engineering Technician", "Material Handler", "Laborer", "Janitorial/Construction Laborer"],
+    "institutions": ["ITT Technical Institute"]
+  },
+  "r019": {
+    "category": "HEALTHCARE",
+    "summary": "My objective is to obtain a successful career with your company by bringing enthusiasm, dedication, responsibility, good work ethic and customer service, combined with a desire to utilize my skills obtained through my experience.",
+    "skills": ["Customer satisfaction", "Software:Word Outlook", "Word", "AS400", "Knowledge of medical equipment", "Physical therapy", "Advanced problem-solving", "Enthusiastic people person", "Great organizational skills", "Multi-task management."],
+    "work_titles": ["Physical Therapist Technician", "Construction Worker", "Floor Worker/Cashier"],
+    "institutions": ["Glencoe High School", "Gadsden State Community College"]
+  },
+  "r020": {
+    "category": "SALES",
+    "summary": "Seeking a full-time opportunity that relates to Business Administration",
+    "skills": ["Critical thinking", "Eye for detail", "Effective multi-tasker", "Verbal communication", "Territory growth", "Business development", "Strategic planning", "Time management ability"],
+    "work_titles": ["Product Specialist", "Sales Representative", "Fitness Coach", "Assistant Manager"],
+    "institutions": ["AIB College of Business", "Des Moines Area Community College"]
+  },
+  "r021": {
+    "category": "SALES",
+    "summary": "Accomplished and energetic sales representative with a solid history of achievement in retail. Motivated leader with strong organizational and prioritization abilities.",
+    "skills": ["Fluent in Spanish", "Enthusiasm", "Team player", "Organized", "Cash handling accuracy", "Time management", "Detail-oriented", "Excellent multi-tasker", "Customer- and service-oriented", "Reliable and punctual"],
+    "work_titles": ["Sales representative"],
+    "institutions": []
+  },
+  "r022": {
+    "category": "INFORMATION-TECHNOLOGY",
+    "summary": "IT support specialist with experience across multiple disciplines including technical support, customer service, computer repair, and military service. I am hard working, willing to learn, team oriented, and comfortable working independently as well.",
+    "skills": ["Active Directory", "Hardware", "Customer Service", "inventory management", "inventory", "logistics", "Mac", "Windows", "Problem Solving", "receiving", "Research", "shipping", "software installation", "technical support", "User Training", "phone", "troubleshooting"],
+    "work_titles": ["Geek Squad Agent", "Shipping & Receiving Associate", "Assembler/Shipping & Receiving Associate", "Aviation Electrician"],
+    "institutions": ["Purdue University"]
+  },
+  "r023": {
+    "category": "ADVOCATE",
+    "summary": null,
+    "skills": ["Active Listening", "Curriculum Development", "Group Facilitation", "Crisis Counseling"],
+    "work_titles": ["Sexual Assault Crisis Counselor / Victim Advocate", "Clinical Social Work Intern", "Community Educator Intern", "Supervisor", "Social Work Intern"],
+    "institutions": ["Fordham University", "Quinnipiac University", "Naugatuck Valley CC"]
+  },
+  "r024": {
+    "category": "HR",
+    "summary": "Solutions and results driven professional with over 10 years of high volume recruitment experience across multiple disciplines and industries. Recognized and known for commitment to excellence and delivering high quality service.",
+    "skills": ["Full Life-Cycle", "Policy Development", "Organization and Project Management", "Social Media Recruiting", "Behavioral Interviews", "EEO and OFFC Competent", "Profitability Analysis", "Skype and Adobe Connect Interviews", "Manage and Facilitate University Information Session", "Metrics Reporting", "SWOT Analysis", "CRM Proficient", "Pre-screening", "Reference and Background", "Coaching and Supervision", "Virtual Recruitment", "Facilitate and Manage Open House Events", "80% Peak Season Travel", "Recruitment Planning"],
+    "work_titles": ["Sr. Campus Recruiter", "Lead Recruiter (Seasonal)", "Sr. Recruiter"],
+    "institutions": []
+  },
+  "r025": {
+    "category": "INFORMATION-TECHNOLOGY",
+    "summary": "A versatile, analytic IT Specialist with a proven record of success within large institutions as well as entrepreneurial organizations. Thrives on challenge and solves problems with creativity and persistence. A data-driven team leader skilled in both producing and communicating results.",
+    "skills": [],
+    "work_titles": ["Information Technology Consultant, Managing Member", "Chief Technology Officer, Partner", "CTO, Partner", "IT Manager"],
+    "institutions": []
+  },
+  "r026": {
+    "category": "BUSINESS-DEVELOPMENT",
+    "summary": "Energetic, motivated and organized sales representative with results in the oil and gas industry. Accomplished professional with strong background in technical sales and product development.",
+    "skills": ["Excellent communicator", "Excellent sales techniques", "Strategic account development", "Exceptional customer service skills", "Upselling and consultative selling", "Relationship selling", "Skilled multi-tasker", "Proven sales track record"],
+    "work_titles": ["Business Development Manager", "Global Sales Manager", "Technical Sales Representative / Key Account Team Leader"],
+    "institutions": []
+  },
+  "r027": {
+    "category": "HR",
+    "summary": "Highly driven Recruiter who maintains a positive attitude under pressure and welcomes the challenge and responsibility of producing results quickly for clients.",
+    "skills": [],
+    "work_titles": ["HR Intern", "Human Resources Assistant", "Freelancer", "Recruiter"],
+    "institutions": []
+  },
+  "r028": {
+    "category": "HEALTHCARE",
+    "summary": "Service focused and strong knowledge of healthcare management, client services, healthcare systems, management, Social Security, DFCS and various other platforms and services.",
+    "skills": ["Microsoft Office Suite ( Excel,Word and Powerpoint)", "Knowledgeable in various healthcare information systems to include( Meditech, EMR, Mckesson/Stars, Artiva ,Onbase and Host).", "Licensed Navigator # 2984352", "Affordable Care Act Certified", "Knowledeable in CPT Coding", "Knowledgeable in ICD-10"],
+    "work_titles": ["Manager Field", "Healthcare Representative"],
+    "institutions": ["Albany State College"]
+  },
+  "r029": {
+    "category": "CONSTRUCTION",
+    "summary": "To find an internship in the profession where I can gain experience in and exposure to the practice of product design.",
+    "skills": ["Adobe Photoshop and Illustrator", "AutoCAD and Revit", "Microsoft Word, Excel and PowerPoint"],
+    "work_titles": ["High Value Residential Insurance Appraiser", "Construction", "Accounts Payable Assistant"],
+    "institutions": ["University of Oregon", "University of Washington"]
+  }
+}

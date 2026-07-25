@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Priya Hyun",
+    "headline": "Data Engineer",
+    "summary": "Hands-on Data Engineer who has spent 10 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Python",
+      "AWS",
+      "Kafka",
+      "SQL"
+    ],
+    "work": [
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Data Engineer",
+        "start_date": "2022",
+        "end_date": "2025",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 9 TB of event data daily.",
+          "Migrated 44 legacy ETL jobs from cron to Airflow, cutting failures by 41%."
+        ]
+      },
+      {
+        "company": "Silverpine Media",
+        "title": "Junior Data Engineer",
+        "start_date": "2017",
+        "end_date": "2021",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 39 source systems.",
+          "Migrated 36 legacy ETL jobs from cron to Airflow, cutting failures by 39%.",
+          "Built streaming ingestion pipelines processing 43 TB of event data daily."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2017"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      10
+    ],
+    "skills[0]": [
+      217,
+      223
+    ],
+    "skills[1]": [
+      225,
+      228
+    ],
+    "skills[2]": [
+      230,
+      235
+    ],
+    "skills[3]": [
+      237,
+      240
+    ],
+    "work[0].company": [
+      266,
+      290
+    ],
+    "work[0].title": [
+      293,
+      306
+    ],
+    "work[0].date": [
+      308,
+      312
+    ],
+    "work[0].bullets[0]": [
+      321,
+      393
+    ],
+    "work[0].bullets[1]": [
+      396,
+      470
+    ],
+    "work[1].company": [
+      472,
+      488
+    ],
+    "work[1].title": [
+      491,
+      511
+    ],
+    "work[1].date": [
+      513,
+      517
+    ],
+    "work[1].bullets[0]": [
+      526,
+      587
+    ],
+    "work[1].bullets[1]": [
+      590,
+      664
+    ],
+    "work[1].bullets[2]": [
+      667,
+      740
+    ],
+    "education[0].institution": [
+      765,
+      785
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Priya Hyun",
+    "skills[0]": "Python",
+    "skills[1]": "AWS",
+    "skills[2]": "Kafka",
+    "skills[3]": "SQL",
+    "work[0].company": "Vantage Point Consulting",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Built streaming ingestion pipelines processing 9 TB of event data daily.",
+    "work[0].bullets[1]": "Migrated 44 legacy ETL jobs from cron to Airflow, cutting failures by 41%.",
+    "work[1].company": "Silverpine Media",
+    "work[1].title": "Junior Data Engineer",
+    "work[1].date": "2017",
+    "work[1].bullets[0]": "Modelled the warehouse layer in dbt across 39 source systems.",
+    "work[1].bullets[1]": "Migrated 36 legacy ETL jobs from cron to Airflow, cutting failures by 39%.",
+    "work[1].bullets[2]": "Built streaming ingestion pipelines processing 43 TB of event data daily.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

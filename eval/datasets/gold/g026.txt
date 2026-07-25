@@ -1,0 +1,23 @@
+Idris Okonkwo
+Data Engineer
+idris.okonkwo@example.com
+
+PROFESSIONAL SUMMARY
+Hands-on Data Engineer who has spent 15 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+SKILL HIGHLIGHTS
+dbt, Snowflake, Airflow, Python, Spark
+
+WORK EXPERIENCE
+Northwind Systems — Data Engineer (2020–2023)
+- Built streaming ingestion pipelines processing 31 TB of event data daily.
+- Migrated 39 legacy ETL jobs from cron to Airflow, cutting failures by 20%.
+- Modelled the warehouse layer in dbt across 52 source systems.
+
+Meridian Health Group — Associate Data Engineer (2018–2019)
+- Migrated 26 legacy ETL jobs from cron to Airflow, cutting failures by 44%.
+- Modelled the warehouse layer in dbt across 19 source systems.
+- Built streaming ingestion pipelines processing 52 TB of event data daily.
+
+ACADEMIC BACKGROUND
+Riverside Institute of Technology — B.S. Mechanical Engineering, 2018

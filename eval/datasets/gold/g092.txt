@@ -1,0 +1,18 @@
+Viktor Lindqvist
+Backend Engineer
+viktor.lindqvist@example.com
+
+PROFILE
+Backend Engineer with 13 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+TECHNICAL SKILLS
+Kafka, gRPC, PostgreSQL, Redis, Kubernetes
+
+PROFESSIONAL EXPERIENCE
+Brightline Analytics — Backend Engineer (2021–2022)
+- Led migration of 40 services onto Kubernetes.
+- Designed a gRPC service handling 40 thousand requests per second.
+- Reduced p99 latency by 43% by introducing a Redis cache layer.
+
+EDUCATION
+Riverside Institute of Technology — B.A. Economics, 2021

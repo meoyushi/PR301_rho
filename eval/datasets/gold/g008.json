@@ -1,0 +1,98 @@
+{
+  "gold": {
+    "name": "Ingrid Hyun",
+    "headline": "Mechanical Engineer",
+    "summary": "Mechanical Engineer with 11 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Six Sigma",
+      "SolidWorks",
+      "AutoCAD",
+      "FEA",
+      "MATLAB"
+    ],
+    "work": [
+      {
+        "company": "Ironwood Robotics",
+        "title": "Mechanical Engineer",
+        "start_date": "2022",
+        "end_date": "2025",
+        "bullets": [
+          "Ran FEA validation on 19 structural components.",
+          "Cut part cost 42% through a design-for-manufacture review."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2022"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      220,
+      229
+    ],
+    "skills[1]": [
+      231,
+      241
+    ],
+    "skills[2]": [
+      243,
+      250
+    ],
+    "skills[3]": [
+      252,
+      255
+    ],
+    "skills[4]": [
+      257,
+      263
+    ],
+    "work[0].company": [
+      276,
+      293
+    ],
+    "work[0].title": [
+      296,
+      315
+    ],
+    "work[0].date": [
+      317,
+      321
+    ],
+    "work[0].bullets[0]": [
+      330,
+      377
+    ],
+    "work[0].bullets[1]": [
+      380,
+      438
+    ],
+    "education[0].institution": [
+      463,
+      480
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Ingrid Hyun",
+    "skills[0]": "Six Sigma",
+    "skills[1]": "SolidWorks",
+    "skills[2]": "AutoCAD",
+    "skills[3]": "FEA",
+    "skills[4]": "MATLAB",
+    "work[0].company": "Ironwood Robotics",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Ran FEA validation on 19 structural components.",
+    "work[0].bullets[1]": "Cut part cost 42% through a design-for-manufacture review.",
+    "education[0].institution": "Northgate College"
+  }
+}

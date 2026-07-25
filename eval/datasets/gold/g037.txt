@@ -1,0 +1,18 @@
+Amara Novak
+Backend Engineer
+amara.novak@example.com
+
+PROFILE
+Backend Engineer with 9 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+TECHNICAL SKILLS
+Docker, Go, PostgreSQL, Java
+
+PROFESSIONAL EXPERIENCE
+Cobalt Interactive — Backend Engineer (2021–2022)
+- Reduced p99 latency by 31% by introducing a Redis cache layer.
+- Led migration of 56 services onto Kubernetes.
+- Designed a gRPC service handling 29 thousand requests per second.
+
+EDUCATION AND TRAINING
+Lakeshore University — M.B.A. Business Administration, 2021

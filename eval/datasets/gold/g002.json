@@ -1,0 +1,98 @@
+{
+  "gold": {
+    "name": "Soren Whitfield",
+    "headline": "Registered Nurse",
+    "summary": "Registered Nurse with 14 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Phlebotomy",
+      "Triage",
+      "ACLS",
+      "IV Therapy"
+    ],
+    "work": [
+      {
+        "company": "Brightline Analytics",
+        "title": "Registered Nurse",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Trained 60 new graduate nurses on EPIC charting workflows.",
+          "Maintained medication accuracy above 11% across audits.",
+          "Managed a 9 bed unit across rotating night shifts."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      235,
+      245
+    ],
+    "skills[1]": [
+      247,
+      253
+    ],
+    "skills[2]": [
+      255,
+      259
+    ],
+    "skills[3]": [
+      261,
+      271
+    ],
+    "work[0].company": [
+      289,
+      309
+    ],
+    "work[0].title": [
+      312,
+      328
+    ],
+    "work[0].date": [
+      330,
+      334
+    ],
+    "work[0].bullets[0]": [
+      343,
+      401
+    ],
+    "work[0].bullets[1]": [
+      404,
+      459
+    ],
+    "work[0].bullets[2]": [
+      462,
+      512
+    ],
+    "education[0].institution": [
+      534,
+      553
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Soren Whitfield",
+    "skills[0]": "Phlebotomy",
+    "skills[1]": "Triage",
+    "skills[2]": "ACLS",
+    "skills[3]": "IV Therapy",
+    "work[0].company": "Brightline Analytics",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Trained 60 new graduate nurses on EPIC charting workflows.",
+    "work[0].bullets[1]": "Maintained medication accuracy above 11% across audits.",
+    "work[0].bullets[2]": "Managed a 9 bed unit across rotating night shifts.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

@@ -1,0 +1,21 @@
+Rowan Fairbanks
+Backend Engineer
+rowan.fairbanks@example.com
+
+SUMMARY
+Backend Engineer with 11 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+CORE COMPETENCIES
+Kafka, Java, gRPC, PostgreSQL, Redis, Go
+
+WORK EXPERIENCE
+Lantern Software — Backend Engineer (2021–2024)
+- Reduced p99 latency by 20% by introducing a Redis cache layer.
+- Designed a gRPC service handling 19 thousand requests per second.
+
+Copperfield Retail — Associate Backend Engineer (2019–2021)
+- Reduced p99 latency by 14% by introducing a Redis cache layer.
+- Led migration of 45 services onto Kubernetes.
+
+EDUCATION
+Fairmont State College — M.B.A. Business Administration, 2019

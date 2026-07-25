@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Viktor Delgado",
+    "headline": "Mechanical Engineer",
+    "summary": "Hands-on Mechanical Engineer who has spent 12 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "GD&T",
+      "Six Sigma",
+      "MATLAB",
+      "AutoCAD"
+    ],
+    "work": [
+      {
+        "company": "Meridian Health Group",
+        "title": "Mechanical Engineer",
+        "start_date": "2020",
+        "end_date": "2024",
+        "bullets": [
+          "Designed 10 injection-moulded assemblies released to production.",
+          "Cut part cost 37% through a design-for-manufacture review.",
+          "Ran FEA validation on 9 structural components."
+        ]
+      },
+      {
+        "company": "Ironwood Robotics",
+        "title": "Associate Mechanical Engineer",
+        "start_date": "2018",
+        "end_date": "2019",
+        "bullets": [
+          "Designed 59 injection-moulded assemblies released to production.",
+          "Ran FEA validation on 57 structural components.",
+          "Cut part cost 13% through a design-for-manufacture review."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2018"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      14
+    ],
+    "skills[0]": [
+      237,
+      241
+    ],
+    "skills[1]": [
+      243,
+      252
+    ],
+    "skills[2]": [
+      254,
+      260
+    ],
+    "skills[3]": [
+      262,
+      269
+    ],
+    "work[0].company": [
+      287,
+      308
+    ],
+    "work[0].title": [
+      311,
+      330
+    ],
+    "work[0].date": [
+      332,
+      336
+    ],
+    "work[0].bullets[0]": [
+      345,
+      409
+    ],
+    "work[0].bullets[1]": [
+      412,
+      470
+    ],
+    "work[0].bullets[2]": [
+      473,
+      519
+    ],
+    "work[1].company": [
+      521,
+      538
+    ],
+    "work[1].title": [
+      541,
+      570
+    ],
+    "work[1].date": [
+      572,
+      576
+    ],
+    "work[1].bullets[0]": [
+      585,
+      649
+    ],
+    "work[1].bullets[1]": [
+      652,
+      699
+    ],
+    "work[1].bullets[2]": [
+      702,
+      760
+    ],
+    "education[0].institution": [
+      782,
+      802
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Viktor Delgado",
+    "skills[0]": "GD&T",
+    "skills[1]": "Six Sigma",
+    "skills[2]": "MATLAB",
+    "skills[3]": "AutoCAD",
+    "work[0].company": "Meridian Health Group",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Designed 10 injection-moulded assemblies released to production.",
+    "work[0].bullets[1]": "Cut part cost 37% through a design-for-manufacture review.",
+    "work[0].bullets[2]": "Ran FEA validation on 9 structural components.",
+    "work[1].company": "Ironwood Robotics",
+    "work[1].title": "Associate Mechanical Engineer",
+    "work[1].date": "2018",
+    "work[1].bullets[0]": "Designed 59 injection-moulded assemblies released to production.",
+    "work[1].bullets[1]": "Ran FEA validation on 57 structural components.",
+    "work[1].bullets[2]": "Cut part cost 13% through a design-for-manufacture review.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

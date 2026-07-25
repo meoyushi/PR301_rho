@@ -1,0 +1,98 @@
+{
+  "gold": {
+    "name": "Beatriz Okonkwo",
+    "headline": "Financial Analyst",
+    "summary": "Hands-on Financial Analyst who has spent 3 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "SAP",
+      "Tableau",
+      "Excel",
+      "Variance Analysis",
+      "SQL"
+    ],
+    "work": [
+      {
+        "company": "Trellis Financial",
+        "title": "Financial Analyst",
+        "start_date": "2023",
+        "end_date": "2024",
+        "bullets": [
+          "Owned the quarterly forecast for a 13 million dollar product line.",
+          "Automated variance reporting in SQL, saving 18 analyst hours per month."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2023"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      224,
+      227
+    ],
+    "skills[1]": [
+      229,
+      236
+    ],
+    "skills[2]": [
+      238,
+      243
+    ],
+    "skills[3]": [
+      245,
+      262
+    ],
+    "skills[4]": [
+      264,
+      267
+    ],
+    "work[0].company": [
+      293,
+      310
+    ],
+    "work[0].title": [
+      313,
+      330
+    ],
+    "work[0].date": [
+      332,
+      336
+    ],
+    "work[0].bullets[0]": [
+      345,
+      411
+    ],
+    "work[0].bullets[1]": [
+      414,
+      485
+    ],
+    "education[0].institution": [
+      497,
+      514
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Beatriz Okonkwo",
+    "skills[0]": "SAP",
+    "skills[1]": "Tableau",
+    "skills[2]": "Excel",
+    "skills[3]": "Variance Analysis",
+    "skills[4]": "SQL",
+    "work[0].company": "Trellis Financial",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2023",
+    "work[0].bullets[0]": "Owned the quarterly forecast for a 13 million dollar product line.",
+    "work[0].bullets[1]": "Automated variance reporting in SQL, saving 18 analyst hours per month.",
+    "education[0].institution": "Northgate College"
+  }
+}

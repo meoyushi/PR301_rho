@@ -1,0 +1,18 @@
+Nadia Hyun
+Mechanical Engineer
+nadia.hyun@example.com
+
+PROFESSIONAL SUMMARY
+Hands-on Mechanical Engineer who has spent 11 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+CORE COMPETENCIES
+AutoCAD, SolidWorks, GD&T, FEA, Six Sigma, MATLAB
+
+PROFESSIONAL EXPERIENCE
+Ironwood Robotics — Mechanical Engineer (2020–2024)
+- Ran FEA validation on 60 structural components.
+- Cut part cost 39% through a design-for-manufacture review.
+- Designed 60 injection-moulded assemblies released to production.
+
+EDUCATION
+Lakeshore University — B.A. Economics, 2020

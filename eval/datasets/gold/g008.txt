@@ -1,0 +1,17 @@
+Ingrid Hyun
+Mechanical Engineer
+ingrid.hyun@example.com
+
+PROFILE
+Mechanical Engineer with 11 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+SKILL HIGHLIGHTS
+Six Sigma, SolidWorks, AutoCAD, FEA, MATLAB
+
+EXPERIENCE
+Ironwood Robotics — Mechanical Engineer (2022–2025)
+- Ran FEA validation on 19 structural components.
+- Cut part cost 42% through a design-for-manufacture review.
+
+EDUCATION AND TRAINING
+Northgate College — M.S. Data Science, 2022

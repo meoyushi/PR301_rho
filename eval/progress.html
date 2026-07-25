@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calibration run — rho Phase 4</title>
+<style>
+  :root {
+    --paper: #FAFAF8;
+    --ink: #151A21;
+    --muted: #6B7785;
+    --rule: #DFE2E0;
+    --panel: #FFFFFF;
+    --accent: #00807B;
+    --warn: #B0770B;
+    --crit: #B03A2B;
+    --track: #E8EAE8;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #0F1216; --ink: #E8EBEE; --muted: #8592A0; --rule: #232A32;
+      --panel: #151A21; --accent: #2ED3CB; --warn: #E0A93B; --crit: #E06C5B;
+      --track: #232A32;
+    }
+  }
+  :root[data-theme="dark"] {
+    --paper: #0F1216; --ink: #E8EBEE; --muted: #8592A0; --rule: #232A32;
+    --panel: #151A21; --accent: #2ED3CB; --warn: #E0A93B; --crit: #E06C5B;
+    --track: #232A32;
+  }
+  :root[data-theme="light"] {
+    --paper: #FAFAF8; --ink: #151A21; --muted: #6B7785; --rule: #DFE2E0;
+    --panel: #FFFFFF; --accent: #00807B; --warn: #B0770B; --crit: #B03A2B;
+    --track: #E8EAE8;
+  }
+
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 2.5rem 1.5rem 4rem;
+    background: var(--paper); color: var(--ink);
+    font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+    line-height: 1.55;
+    font-variant-numeric: tabular-nums;
+  }
+  main { max-width: 60rem; margin: 0 auto; display: flex; flex-direction: column; gap: 2rem; }
+
+  .eyebrow {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: .75rem; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--muted); margin: 0 0 .4rem;
+  }
+  h1 { font-size: 1.6rem; margin: 0; letter-spacing: -.01em; text-wrap: balance; }
+  .sub { color: var(--muted); margin: .35rem 0 0; font-size: .95rem; }
+
+  .meter-head {
+    display: flex; justify-content: space-between; align-items: baseline;
+    gap: 1rem; flex-wrap: wrap; margin-bottom: .6rem;
+  }
+  .pct {
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+    font-size: 2.75rem; font-weight: 600; line-height: 1; letter-spacing: -.02em;
+  }
+  .of { color: var(--muted); font-family: ui-monospace, monospace; font-size: .9rem; }
+  .track { height: 14px; background: var(--track); border-radius: 2px; overflow: hidden; }
+  .fill {
+    height: 100%; width: 0%; background: var(--accent);
+    transition: width .4s ease;
+  }
+  @media (prefers-reduced-motion: reduce) { .fill { transition: none; } }
+
+  .grid {
+    display: grid; gap: 1px; background: var(--rule);
+    border: 1px solid var(--rule); border-radius: 3px; overflow: hidden;
+    grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+  }
+  .cell { background: var(--panel); padding: .9rem 1rem; }
+  .cell dt {
+    font-family: ui-monospace, monospace; font-size: .68rem; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--muted); margin: 0 0 .3rem;
+  }
+  .cell dd {
+    margin: 0; font-family: ui-monospace, monospace;
+    font-size: 1.35rem; font-weight: 600;
+  }
+  .cell dd.warn { color: var(--warn); }
+
+  .status {
+    display: inline-flex; align-items: center; gap: .45rem;
+    font-family: ui-monospace, monospace; font-size: .8rem;
+    padding: .25rem .6rem; border-radius: 2px; border: 1px solid var(--rule);
+    color: var(--muted);
+  }
+  .dot { width: 7px; height: 7px; border-radius: 50%; background: var(--accent); }
+  .status.running .dot { animation: pulse 1.6s ease-in-out infinite; }
+  .status.done .dot { background: var(--accent); }
+  .status.stalled .dot { background: var(--warn); }
+  .status.error .dot { background: var(--crit); }
+  @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .25; } }
+  @media (prefers-reduced-motion: reduce) { .status.running .dot { animation: none; } }
+
+  section h2 {
+    font-size: .78rem; font-family: ui-monospace, monospace; letter-spacing: .1em;
+    text-transform: uppercase; color: var(--muted);
+    margin: 0 0 .7rem; padding-bottom: .5rem; border-bottom: 1px solid var(--rule);
+  }
+  .results { display: none; }
+  .results.visible { display: block; }
+  table { width: 100%; border-collapse: collapse; font-family: ui-monospace, monospace; font-size: .9rem; }
+  th, td { text-align: left; padding: .5rem .75rem; border-bottom: 1px solid var(--rule); }
+  th { font-size: .68rem; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); font-weight: 500; }
+  td.num { text-align: right; }
+  .wrap { overflow-x: auto; }
+  footer { color: var(--muted); font-size: .8rem; font-family: ui-monospace, monospace; }
+  .note { color: var(--muted); font-size: .85rem; margin: .6rem 0 0; }
+  .tag {
+    font-size: .6rem; letter-spacing: .08em; text-transform: uppercase;
+    padding: .1rem .4rem; border-radius: 2px; margin-left: .4rem;
+    background: var(--accent); color: var(--paper); vertical-align: middle;
+  }
+  .tag.muted { background: transparent; color: var(--muted); border: 1px solid var(--rule); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <p class="eyebrow">rho · phase 4 · C2 calibration</p>
+    <h1>ATS calibration run</h1>
+    <p class="sub">Harvesting ats-screener scores over résumé×JD pairs, then fitting the ComponentVector→score calibrator.</p>
+  </header>
+
+  <section>
+    <div class="meter-head">
+      <div>
+        <span class="pct" id="pct">—</span>
+        <span class="of" id="of">waiting for first pair</span>
+      </div>
+      <span class="status running" id="status"><span class="dot"></span><span id="status-text">starting</span></span>
+    </div>
+    <div class="track"><div class="fill" id="fill"></div></div>
+    <p class="note" id="note">Each pair runs a JD extraction through gemma3:4b on CPU — roughly 45s apiece.</p>
+  </section>
+
+  <section>
+    <h2>Counts</h2>
+    <dl class="grid">
+      <div class="cell"><dt>Completed</dt><dd id="done-n">—</dd></div>
+      <div class="cell"><dt>Remaining</dt><dd id="left-n">—</dd></div>
+      <div class="cell"><dt>Kept for fit</dt><dd id="kept-n">—</dd></div>
+      <div class="cell"><dt>Skipped</dt><dd id="skip-n">—</dd></div>
+      <div class="cell"><dt>Elapsed</dt><dd id="elapsed">—</dd></div>
+      <div class="cell"><dt>ETA</dt><dd id="eta">—</dd></div>
+    </dl>
+  </section>
+
+  <section class="results" id="results">
+    <h2>Held-out metrics (C2)</h2>
+    <div class="wrap">
+      <table>
+        <thead><tr>
+          <th>Target</th><th class="num">MAE</th><th class="num">Spearman ρ</th>
+          <th class="num">Cosine MAE</th><th class="num">Cosine ρ</th><th class="num">y mean</th>
+        </tr></thead>
+        <tbody>
+          <tr>
+            <td>keywordMatch <span class="tag">primary</span></td>
+            <td class="num" id="m-mae">—</td><td class="num" id="m-rho">—</td>
+            <td class="num" id="m-cmae">—</td><td class="num" id="m-crho">—</td>
+            <td class="num" id="m-ymean">—</td>
+          </tr>
+          <tr>
+            <td>overallScore <span class="tag muted">ablation</span></td>
+            <td class="num" id="k-mae">—</td><td class="num" id="k-rho">—</td>
+            <td class="num" id="k-cmae">—</td><td class="num" id="k-crho">—</td>
+            <td class="num" id="k-ymean">—</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note" id="dataset-note"></p>
+  </section>
+
+  <footer id="updated">Polling eval/progress.json every 5s.</footer>
+</main>
+
+<script>
+  const fmtDuration = (s) => {
+    if (s == null || !isFinite(s)) return "—";
+    s = Math.max(0, Math.round(s));
+    const h = Math.floor(s / 3600), m = Math.floor((s % 3600) / 60), sec = s % 60;
+    if (h) return `${h}h ${String(m).padStart(2, "0")}m`;
+    if (m) return `${m}m ${String(sec).padStart(2, "0")}s`;
+    return `${sec}s`;
+  };
+
+  let lastIndex = -1, lastChange = Date.now();
+
+  const setStatus = (cls, text) => {
+    const el = document.getElementById("status");
+    el.className = "status " + cls;
+    document.getElementById("status-text").textContent = text;
+  };
+
+  async function poll() {
+    let data;
+    try {
+      const res = await fetch("progress.json?t=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) throw new Error(res.status === 404 ? "not started" : `HTTP ${res.status}`);
+      data = await res.json();
+    } catch (err) {
+      if (lastIndex < 0) setStatus("running", "waiting for first pair");
+      return;
+    }
+
+    const { index = 0, total = 0, kept = 0, skipped = 0 } = data;
+    const pct = total ? (index / total) * 100 : 0;
+
+    document.getElementById("pct").textContent = pct.toFixed(0) + "%";
+    document.getElementById("of").textContent = `${index} of ${total} pairs`;
+    document.getElementById("fill").style.width = pct + "%";
+    document.getElementById("done-n").textContent = index;
+    document.getElementById("left-n").textContent = Math.max(0, total - index);
+    document.getElementById("kept-n").textContent = kept;
+
+    const skipEl = document.getElementById("skip-n");
+    skipEl.textContent = skipped;
+    skipEl.className = skipped > 0 ? "warn" : "";
+
+    document.getElementById("elapsed").textContent = fmtDuration(data.elapsed_seconds);
+    document.getElementById("eta").textContent = data.done ? "—" : fmtDuration(data.eta_seconds);
+
+    if (data.seconds_per_pair) {
+      document.getElementById("note").textContent =
+        `Averaging ${data.seconds_per_pair}s per pair. Last pair: ${data.last_status || "—"}.`;
+    }
+
+    if (index !== lastIndex) { lastIndex = index; lastChange = Date.now(); }
+
+    if (data.done) {
+      setStatus("done", "complete");
+      if (data.metrics) {
+        const m = data.metrics;
+        document.getElementById("results").classList.add("visible");
+        const row = (prefix, t) => {
+          if (!t) return;
+          document.getElementById(prefix + "-mae").textContent = t.mae.toFixed(2);
+          document.getElementById(prefix + "-rho").textContent = t.spearman.toFixed(3);
+          document.getElementById(prefix + "-cmae").textContent = t.cosine_mae.toFixed(2);
+          document.getElementById(prefix + "-crho").textContent = t.cosine_spearman.toFixed(3);
+          document.getElementById(prefix + "-ymean").textContent = t.y_mean.toFixed(1);
+        };
+        row("m", m);                    // primary = keywordMatch
+        row("k", m.overall_target);     // ablation = overallScore
+        document.getElementById("dataset-note").textContent =
+          `${m.n_usable} usable pairs — ${m.n_train} train / ${m.n_heldout} held out. ` +
+          `Compare targets on Spearman: the cosine baseline emits 0–100, so MAE against a ` +
+          `low-mean target reflects scale mismatch as much as ranking.`;
+      }
+    } else if (Date.now() - lastChange > 240000) {
+      setStatus("stalled", "no progress in 4m");
+    } else {
+      setStatus("running", "running");
+    }
+
+    document.getElementById("updated").textContent =
+      "Last update " + (data.updated_at || "—") + " · polling every 5s";
+  }
+
+  poll();
+  setInterval(poll, 5000);
+</script>
+</body>
+</html>

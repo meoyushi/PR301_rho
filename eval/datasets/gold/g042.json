@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Rowan Hyun",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 9 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "A/B Testing",
+      "SEO",
+      "Copywriting",
+      "Salesforce",
+      "Google Analytics",
+      "HubSpot"
+    ],
+    "work": [
+      {
+        "company": "Harborview Logistics",
+        "title": "Marketing Manager",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Managed a 10 million dollar annual paid media budget.",
+          "Grew organic traffic 40% year over year through an SEO content programme."
+        ]
+      },
+      {
+        "company": "Trellis Financial",
+        "title": "Junior Marketing Manager",
+        "start_date": "2020",
+        "end_date": "2021",
+        "bullets": [
+          "Managed a 36 million dollar annual paid media budget.",
+          "Ran 9 A/B tests on lifecycle email, lifting conversion 16%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      10
+    ],
+    "skills[0]": [
+      214,
+      225
+    ],
+    "skills[1]": [
+      227,
+      230
+    ],
+    "skills[2]": [
+      232,
+      243
+    ],
+    "skills[3]": [
+      245,
+      255
+    ],
+    "skills[4]": [
+      257,
+      273
+    ],
+    "skills[5]": [
+      275,
+      282
+    ],
+    "work[0].company": [
+      300,
+      320
+    ],
+    "work[0].title": [
+      323,
+      340
+    ],
+    "work[0].date": [
+      342,
+      346
+    ],
+    "work[0].bullets[0]": [
+      355,
+      408
+    ],
+    "work[0].bullets[1]": [
+      411,
+      484
+    ],
+    "work[1].company": [
+      486,
+      503
+    ],
+    "work[1].title": [
+      506,
+      530
+    ],
+    "work[1].date": [
+      532,
+      536
+    ],
+    "work[1].bullets[0]": [
+      545,
+      598
+    ],
+    "work[1].bullets[1]": [
+      601,
+      660
+    ],
+    "education[0].institution": [
+      685,
+      704
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Rowan Hyun",
+    "skills[0]": "A/B Testing",
+    "skills[1]": "SEO",
+    "skills[2]": "Copywriting",
+    "skills[3]": "Salesforce",
+    "skills[4]": "Google Analytics",
+    "skills[5]": "HubSpot",
+    "work[0].company": "Harborview Logistics",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Managed a 10 million dollar annual paid media budget.",
+    "work[0].bullets[1]": "Grew organic traffic 40% year over year through an SEO content programme.",
+    "work[1].company": "Trellis Financial",
+    "work[1].title": "Junior Marketing Manager",
+    "work[1].date": "2020",
+    "work[1].bullets[0]": "Managed a 36 million dollar annual paid media budget.",
+    "work[1].bullets[1]": "Ran 9 A/B tests on lifecycle email, lifting conversion 16%.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

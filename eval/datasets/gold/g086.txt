@@ -1,0 +1,17 @@
+Idris Aubert
+Financial Analyst
+idris.aubert@example.com
+
+PROFILE
+Financial Analyst with 11 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+SKILLS
+SAP, Excel, Tableau, Forecasting
+
+EMPLOYMENT HISTORY
+Vantage Point Consulting — Financial Analyst (2019–2023)
+- Owned the quarterly forecast for a 21 million dollar product line.
+- Automated variance reporting in SQL, saving 30 analyst hours per month.
+
+ACADEMIC BACKGROUND
+Fairmont State College — B.A. Economics, 2019

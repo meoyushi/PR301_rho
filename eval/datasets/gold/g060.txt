@@ -1,0 +1,22 @@
+Soren Kowalski
+Marketing Manager
+soren.kowalski@example.com
+
+PROFESSIONAL SUMMARY
+Marketing Manager with 6 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+TECHNICAL SKILLS
+HubSpot, Salesforce, SEO, Google Analytics
+
+WORK EXPERIENCE
+Northwind Systems — Marketing Manager (2022–2023)
+- Ran 35 A/B tests on lifecycle email, lifting conversion 38%.
+- Managed a 13 million dollar annual paid media budget.
+- Grew organic traffic 11% year over year through an SEO content programme.
+
+Ironwood Robotics — Associate Marketing Manager (2020–2022)
+- Managed a 14 million dollar annual paid media budget.
+- Ran 44 A/B tests on lifecycle email, lifting conversion 35%.
+
+ACADEMIC BACKGROUND
+Ashford Polytechnic — B.S. Computer Science, 2020

@@ -1,0 +1,104 @@
+{
+  "gold": {
+    "name": "Omar Lindqvist",
+    "headline": "Financial Analyst",
+    "summary": "Hands-on Financial Analyst who has spent 8 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Variance Analysis",
+      "Tableau",
+      "SAP",
+      "SQL",
+      "Excel",
+      "Forecasting"
+    ],
+    "work": [
+      {
+        "company": "Trellis Financial",
+        "title": "Financial Analyst",
+        "start_date": "2019",
+        "end_date": "2022",
+        "bullets": [
+          "Owned the quarterly forecast for a 59 million dollar product line.",
+          "Automated variance reporting in SQL, saving 11 analyst hours per month."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      14
+    ],
+    "skills[0]": [
+      233,
+      250
+    ],
+    "skills[1]": [
+      252,
+      259
+    ],
+    "skills[2]": [
+      261,
+      264
+    ],
+    "skills[3]": [
+      266,
+      269
+    ],
+    "skills[4]": [
+      271,
+      276
+    ],
+    "skills[5]": [
+      278,
+      289
+    ],
+    "work[0].company": [
+      302,
+      319
+    ],
+    "work[0].title": [
+      322,
+      339
+    ],
+    "work[0].date": [
+      341,
+      345
+    ],
+    "work[0].bullets[0]": [
+      354,
+      420
+    ],
+    "work[0].bullets[1]": [
+      423,
+      494
+    ],
+    "education[0].institution": [
+      506,
+      525
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Omar Lindqvist",
+    "skills[0]": "Variance Analysis",
+    "skills[1]": "Tableau",
+    "skills[2]": "SAP",
+    "skills[3]": "SQL",
+    "skills[4]": "Excel",
+    "skills[5]": "Forecasting",
+    "work[0].company": "Trellis Financial",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Owned the quarterly forecast for a 59 million dollar product line.",
+    "work[0].bullets[1]": "Automated variance reporting in SQL, saving 11 analyst hours per month.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

@@ -1,0 +1,21 @@
+Dana Kowalski
+Mechanical Engineer
+dana.kowalski@example.com
+
+SUMMARY
+Mechanical Engineer with 7 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+TECHNICAL SKILLS
+SolidWorks, MATLAB, GD&T, AutoCAD
+
+PROFESSIONAL EXPERIENCE
+Copperfield Retail — Mechanical Engineer (2021–2022)
+- Cut part cost 18% through a design-for-manufacture review.
+- Ran FEA validation on 55 structural components.
+
+Northwind Systems — Associate Mechanical Engineer (2017–2020)
+- Designed 43 injection-moulded assemblies released to production.
+- Cut part cost 29% through a design-for-manufacture review.
+
+EDUCATION AND TRAINING
+Northgate College — B.S. Mechanical Engineering, 2017

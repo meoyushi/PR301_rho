@@ -1,0 +1,21 @@
+Tomas Lindqvist
+Data Engineer
+tomas.lindqvist@example.com
+
+PROFILE
+Hands-on Data Engineer who has spent 8 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+CORE COMPETENCIES
+Snowflake, SQL, Airflow, Python, AWS, Spark
+
+EMPLOYMENT HISTORY
+Silverpine Media — Data Engineer (2024–2025)
+- Modelled the warehouse layer in dbt across 36 source systems.
+- Migrated 59 legacy ETL jobs from cron to Airflow, cutting failures by 33%.
+
+Copperfield Retail — Associate Data Engineer (2020–2023)
+- Migrated 31 legacy ETL jobs from cron to Airflow, cutting failures by 10%.
+- Modelled the warehouse layer in dbt across 15 source systems.
+
+EDUCATION AND TRAINING
+Northgate College — B.S. Mechanical Engineering, 2020

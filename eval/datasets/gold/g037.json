@@ -1,0 +1,98 @@
+{
+  "gold": {
+    "name": "Amara Novak",
+    "headline": "Backend Engineer",
+    "summary": "Backend Engineer with 9 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Docker",
+      "Go",
+      "PostgreSQL",
+      "Java"
+    ],
+    "work": [
+      {
+        "company": "Cobalt Interactive",
+        "title": "Backend Engineer",
+        "start_date": "2021",
+        "end_date": "2022",
+        "bullets": [
+          "Reduced p99 latency by 31% by introducing a Redis cache layer.",
+          "Led migration of 56 services onto Kubernetes.",
+          "Designed a gRPC service handling 29 thousand requests per second."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2021"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      213,
+      219
+    ],
+    "skills[1]": [
+      221,
+      223
+    ],
+    "skills[2]": [
+      225,
+      235
+    ],
+    "skills[3]": [
+      237,
+      241
+    ],
+    "work[0].company": [
+      267,
+      285
+    ],
+    "work[0].title": [
+      288,
+      304
+    ],
+    "work[0].date": [
+      306,
+      310
+    ],
+    "work[0].bullets[0]": [
+      319,
+      381
+    ],
+    "work[0].bullets[1]": [
+      384,
+      429
+    ],
+    "work[0].bullets[2]": [
+      432,
+      497
+    ],
+    "education[0].institution": [
+      522,
+      542
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Amara Novak",
+    "skills[0]": "Docker",
+    "skills[1]": "Go",
+    "skills[2]": "PostgreSQL",
+    "skills[3]": "Java",
+    "work[0].company": "Cobalt Interactive",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Reduced p99 latency by 31% by introducing a Redis cache layer.",
+    "work[0].bullets[1]": "Led migration of 56 services onto Kubernetes.",
+    "work[0].bullets[2]": "Designed a gRPC service handling 29 thousand requests per second.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Nadia Kowalski",
+    "headline": "Data Engineer",
+    "summary": "Data Engineer with 7 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Kafka",
+      "SQL",
+      "Snowflake",
+      "Spark"
+    ],
+    "work": [
+      {
+        "company": "Copperfield Retail",
+        "title": "Data Engineer",
+        "start_date": "2018",
+        "end_date": "2022",
+        "bullets": [
+          "Migrated 31 legacy ETL jobs from cron to Airflow, cutting failures by 31%.",
+          "Built streaming ingestion pipelines processing 38 TB of event data daily."
+        ]
+      },
+      {
+        "company": "Meridian Health Group",
+        "title": "Associate Data Engineer",
+        "start_date": "2015",
+        "end_date": "2018",
+        "bullets": [
+          "Migrated 59 legacy ETL jobs from cron to Airflow, cutting failures by 20%.",
+          "Built streaming ingestion pipelines processing 44 TB of event data daily.",
+          "Modelled the warehouse layer in dbt across 21 source systems."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2015"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      14
+    ],
+    "skills[0]": [
+      239,
+      244
+    ],
+    "skills[1]": [
+      246,
+      249
+    ],
+    "skills[2]": [
+      251,
+      260
+    ],
+    "skills[3]": [
+      262,
+      267
+    ],
+    "work[0].company": [
+      293,
+      311
+    ],
+    "work[0].title": [
+      314,
+      327
+    ],
+    "work[0].date": [
+      329,
+      333
+    ],
+    "work[0].bullets[0]": [
+      342,
+      416
+    ],
+    "work[0].bullets[1]": [
+      419,
+      492
+    ],
+    "work[1].company": [
+      494,
+      515
+    ],
+    "work[1].title": [
+      518,
+      541
+    ],
+    "work[1].date": [
+      543,
+      547
+    ],
+    "work[1].bullets[0]": [
+      556,
+      630
+    ],
+    "work[1].bullets[1]": [
+      633,
+      706
+    ],
+    "work[1].bullets[2]": [
+      709,
+      770
+    ],
+    "education[0].institution": [
+      782,
+      801
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Nadia Kowalski",
+    "skills[0]": "Kafka",
+    "skills[1]": "SQL",
+    "skills[2]": "Snowflake",
+    "skills[3]": "Spark",
+    "work[0].company": "Copperfield Retail",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2018",
+    "work[0].bullets[0]": "Migrated 31 legacy ETL jobs from cron to Airflow, cutting failures by 31%.",
+    "work[0].bullets[1]": "Built streaming ingestion pipelines processing 38 TB of event data daily.",
+    "work[1].company": "Meridian Health Group",
+    "work[1].title": "Associate Data Engineer",
+    "work[1].date": "2015",
+    "work[1].bullets[0]": "Migrated 59 legacy ETL jobs from cron to Airflow, cutting failures by 20%.",
+    "work[1].bullets[1]": "Built streaming ingestion pipelines processing 44 TB of event data daily.",
+    "work[1].bullets[2]": "Modelled the warehouse layer in dbt across 21 source systems.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

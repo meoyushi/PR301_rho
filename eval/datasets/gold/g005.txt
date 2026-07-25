@@ -1,0 +1,22 @@
+Amara Okonkwo
+Financial Analyst
+amara.okonkwo@example.com
+
+PROFESSIONAL SUMMARY
+Hands-on Financial Analyst who has spent 4 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+CORE COMPETENCIES
+SQL, Tableau, Variance Analysis, Forecasting
+
+EMPLOYMENT HISTORY
+Brightline Analytics — Financial Analyst (2019–2023)
+- Owned the quarterly forecast for a 45 million dollar product line.
+- Presented monthly results to a committee of 14 executives.
+
+Copperfield Retail — Junior Financial Analyst (2014–2018)
+- Automated variance reporting in SQL, saving 9 analyst hours per month.
+- Owned the quarterly forecast for a 9 million dollar product line.
+- Presented monthly results to a committee of 54 executives.
+
+ACADEMIC BACKGROUND
+State University — B.S. Mechanical Engineering, 2014

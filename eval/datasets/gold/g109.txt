@@ -1,0 +1,28 @@
+Ingrid Lindqvist
+Financial Analyst
+ingrid.lindqvist@example.com
+
+SUMMARY
+Financial Analyst with 16 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+CORE COMPETENCIES
+Forecasting, Excel, SQL, SAP
+
+EMPLOYMENT HISTORY
+Meridian Health Group — Financial Analyst (2021–2022)
+- Automated variance reporting in SQL, saving 58 analyst hours per month.
+- Owned the quarterly forecast for a 36 million dollar product line.
+- Presented monthly results to a committee of 4 executives.
+
+Lantern Software — Junior Financial Analyst (2017–2020)
+- Owned the quarterly forecast for a 10 million dollar product line.
+- Presented monthly results to a committee of 43 executives.
+- Automated variance reporting in SQL, saving 5 analyst hours per month.
+
+Lantern Software — Junior Financial Analyst (2014–2017)
+- Owned the quarterly forecast for a 19 million dollar product line.
+- Presented monthly results to a committee of 43 executives.
+- Automated variance reporting in SQL, saving 27 analyst hours per month.
+
+EDUCATION
+Fairmont State College — B.S. Mechanical Engineering, 2014

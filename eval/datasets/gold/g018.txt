@@ -1,0 +1,21 @@
+Ellis Hyun
+Financial Analyst
+ellis.hyun@example.com
+
+PROFILE
+Hands-on Financial Analyst who has spent 8 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+TECHNICAL SKILLS
+Forecasting, SQL, Excel, Tableau, Variance Analysis
+
+PROFESSIONAL EXPERIENCE
+Blue Harbor Energy — Financial Analyst (2021–2023)
+- Owned the quarterly forecast for a 30 million dollar product line.
+- Presented monthly results to a committee of 26 executives.
+
+Cobalt Interactive — Associate Financial Analyst (2016–2020)
+- Automated variance reporting in SQL, saving 56 analyst hours per month.
+- Owned the quarterly forecast for a 11 million dollar product line.
+
+EDUCATION
+Riverside Institute of Technology — B.A. Economics, 2016

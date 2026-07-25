@@ -1,0 +1,21 @@
+Rowan Hyun
+Mechanical Engineer
+rowan.hyun@example.com
+
+PROFILE
+Hands-on Mechanical Engineer who has spent 3 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+SKILL HIGHLIGHTS
+FEA, GD&T, MATLAB, SolidWorks, Six Sigma, AutoCAD
+
+EMPLOYMENT HISTORY
+Trellis Financial — Mechanical Engineer (2023–2024)
+- Cut part cost 15% through a design-for-manufacture review.
+- Designed 2 injection-moulded assemblies released to production.
+
+Copperfield Retail — Associate Mechanical Engineer (2018–2022)
+- Ran FEA validation on 10 structural components.
+- Designed 39 injection-moulded assemblies released to production.
+
+ACADEMIC BACKGROUND
+Riverside Institute of Technology — B.S. Computer Science, 2018

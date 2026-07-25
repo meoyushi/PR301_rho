@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Beatriz Whitfield",
+    "headline": "Data Engineer",
+    "summary": "Data Engineer with 10 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "dbt",
+      "Airflow",
+      "SQL",
+      "Snowflake",
+      "Python"
+    ],
+    "work": [
+      {
+        "company": "Blue Harbor Energy",
+        "title": "Data Engineer",
+        "start_date": "2022",
+        "end_date": "2025",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 35 TB of event data daily.",
+          "Modelled the warehouse layer in dbt across 53 source systems.",
+          "Migrated 11 legacy ETL jobs from cron to Airflow, cutting failures by 21%."
+        ]
+      },
+      {
+        "company": "Brightline Analytics",
+        "title": "Associate Data Engineer",
+        "start_date": "2020",
+        "end_date": "2022",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 48 source systems.",
+          "Built streaming ingestion pipelines processing 56 TB of event data daily.",
+          "Migrated 52 legacy ETL jobs from cron to Airflow, cutting failures by 37%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      17
+    ],
+    "skills[0]": [
+      245,
+      248
+    ],
+    "skills[1]": [
+      250,
+      257
+    ],
+    "skills[2]": [
+      259,
+      262
+    ],
+    "skills[3]": [
+      264,
+      273
+    ],
+    "skills[4]": [
+      275,
+      281
+    ],
+    "work[0].company": [
+      307,
+      325
+    ],
+    "work[0].title": [
+      328,
+      341
+    ],
+    "work[0].date": [
+      343,
+      347
+    ],
+    "work[0].bullets[0]": [
+      356,
+      429
+    ],
+    "work[0].bullets[1]": [
+      432,
+      493
+    ],
+    "work[0].bullets[2]": [
+      496,
+      570
+    ],
+    "work[1].company": [
+      572,
+      592
+    ],
+    "work[1].title": [
+      595,
+      618
+    ],
+    "work[1].date": [
+      620,
+      624
+    ],
+    "work[1].bullets[0]": [
+      633,
+      694
+    ],
+    "work[1].bullets[1]": [
+      697,
+      770
+    ],
+    "work[1].bullets[2]": [
+      773,
+      847
+    ],
+    "education[0].institution": [
+      872,
+      889
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Beatriz Whitfield",
+    "skills[0]": "dbt",
+    "skills[1]": "Airflow",
+    "skills[2]": "SQL",
+    "skills[3]": "Snowflake",
+    "skills[4]": "Python",
+    "work[0].company": "Blue Harbor Energy",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Built streaming ingestion pipelines processing 35 TB of event data daily.",
+    "work[0].bullets[1]": "Modelled the warehouse layer in dbt across 53 source systems.",
+    "work[0].bullets[2]": "Migrated 11 legacy ETL jobs from cron to Airflow, cutting failures by 21%.",
+    "work[1].company": "Brightline Analytics",
+    "work[1].title": "Associate Data Engineer",
+    "work[1].date": "2020",
+    "work[1].bullets[0]": "Modelled the warehouse layer in dbt across 48 source systems.",
+    "work[1].bullets[1]": "Built streaming ingestion pipelines processing 56 TB of event data daily.",
+    "work[1].bullets[2]": "Migrated 52 legacy ETL jobs from cron to Airflow, cutting failures by 37%.",
+    "education[0].institution": "Northgate College"
+  }
+}

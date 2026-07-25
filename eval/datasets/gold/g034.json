@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Amara Aubert",
+    "headline": "Backend Engineer",
+    "summary": "Backend Engineer with 3 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "PostgreSQL",
+      "Docker",
+      "gRPC",
+      "Go",
+      "Kubernetes"
+    ],
+    "work": [
+      {
+        "company": "Harborview Logistics",
+        "title": "Backend Engineer",
+        "start_date": "2022",
+        "end_date": "2025",
+        "bullets": [
+          "Reduced p99 latency by 29% by introducing a Redis cache layer.",
+          "Designed a gRPC service handling 4 thousand requests per second."
+        ]
+      },
+      {
+        "company": "Blue Harbor Energy",
+        "title": "Junior Backend Engineer",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Designed a gRPC service handling 45 thousand requests per second.",
+          "Reduced p99 latency by 30% by introducing a Redis cache layer.",
+          "Led migration of 5 services onto Kubernetes."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      12
+    ],
+    "skills[0]": [
+      243,
+      253
+    ],
+    "skills[1]": [
+      255,
+      261
+    ],
+    "skills[2]": [
+      263,
+      267
+    ],
+    "skills[3]": [
+      269,
+      271
+    ],
+    "skills[4]": [
+      273,
+      283
+    ],
+    "work[0].company": [
+      301,
+      321
+    ],
+    "work[0].title": [
+      324,
+      340
+    ],
+    "work[0].date": [
+      342,
+      346
+    ],
+    "work[0].bullets[0]": [
+      355,
+      417
+    ],
+    "work[0].bullets[1]": [
+      420,
+      484
+    ],
+    "work[1].company": [
+      486,
+      504
+    ],
+    "work[1].title": [
+      507,
+      530
+    ],
+    "work[1].date": [
+      532,
+      536
+    ],
+    "work[1].bullets[0]": [
+      545,
+      610
+    ],
+    "work[1].bullets[1]": [
+      613,
+      675
+    ],
+    "work[1].bullets[2]": [
+      678,
+      722
+    ],
+    "education[0].institution": [
+      744,
+      760
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Amara Aubert",
+    "skills[0]": "PostgreSQL",
+    "skills[1]": "Docker",
+    "skills[2]": "gRPC",
+    "skills[3]": "Go",
+    "skills[4]": "Kubernetes",
+    "work[0].company": "Harborview Logistics",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Reduced p99 latency by 29% by introducing a Redis cache layer.",
+    "work[0].bullets[1]": "Designed a gRPC service handling 4 thousand requests per second.",
+    "work[1].company": "Blue Harbor Energy",
+    "work[1].title": "Junior Backend Engineer",
+    "work[1].date": "2019",
+    "work[1].bullets[0]": "Designed a gRPC service handling 45 thousand requests per second.",
+    "work[1].bullets[1]": "Reduced p99 latency by 30% by introducing a Redis cache layer.",
+    "work[1].bullets[2]": "Led migration of 5 services onto Kubernetes.",
+    "education[0].institution": "State University"
+  }
+}

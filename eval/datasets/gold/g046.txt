@@ -1,0 +1,18 @@
+Rowan Fairbanks
+Data Engineer
+rowan.fairbanks@example.com
+
+SUMMARY
+Hands-on Data Engineer who has spent 14 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+SKILL HIGHLIGHTS
+Kafka, Airflow, dbt, Python, SQL
+
+EXPERIENCE
+Vantage Point Consulting — Data Engineer (2020–2023)
+- Migrated 9 legacy ETL jobs from cron to Airflow, cutting failures by 19%.
+- Built streaming ingestion pipelines processing 27 TB of event data daily.
+- Modelled the warehouse layer in dbt across 29 source systems.
+
+ACADEMIC BACKGROUND
+Northgate College — B.S. Information Systems, 2020

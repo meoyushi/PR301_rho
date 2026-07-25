@@ -1,0 +1,174 @@
+{
+  "gold": {
+    "name": "Omar Whitfield",
+    "headline": "Backend Engineer",
+    "summary": "Hands-on Backend Engineer who has spent 6 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "PostgreSQL",
+      "Java",
+      "Docker",
+      "Kubernetes"
+    ],
+    "work": [
+      {
+        "company": "Harborview Logistics",
+        "title": "Backend Engineer",
+        "start_date": "2023",
+        "end_date": "2024",
+        "bullets": [
+          "Led migration of 36 services onto Kubernetes.",
+          "Designed a gRPC service handling 7 thousand requests per second.",
+          "Reduced p99 latency by 22% by introducing a Redis cache layer."
+        ]
+      },
+      {
+        "company": "Lantern Software",
+        "title": "Junior Backend Engineer",
+        "start_date": "2021",
+        "end_date": "2022",
+        "bullets": [
+          "Led migration of 23 services onto Kubernetes.",
+          "Reduced p99 latency by 18% by introducing a Redis cache layer."
+        ]
+      },
+      {
+        "company": "Northwind Systems",
+        "title": "Associate Backend Engineer",
+        "start_date": "2019",
+        "end_date": "2020",
+        "bullets": [
+          "Reduced p99 latency by 44% by introducing a Redis cache layer.",
+          "Designed a gRPC service handling 7 thousand requests per second.",
+          "Led migration of 37 services onto Kubernetes."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      14
+    ],
+    "skills[0]": [
+      220,
+      230
+    ],
+    "skills[1]": [
+      232,
+      236
+    ],
+    "skills[2]": [
+      238,
+      244
+    ],
+    "skills[3]": [
+      246,
+      256
+    ],
+    "work[0].company": [
+      269,
+      289
+    ],
+    "work[0].title": [
+      292,
+      308
+    ],
+    "work[0].date": [
+      310,
+      314
+    ],
+    "work[0].bullets[0]": [
+      323,
+      368
+    ],
+    "work[0].bullets[1]": [
+      371,
+      435
+    ],
+    "work[0].bullets[2]": [
+      438,
+      500
+    ],
+    "work[1].company": [
+      502,
+      518
+    ],
+    "work[1].title": [
+      521,
+      544
+    ],
+    "work[1].date": [
+      546,
+      550
+    ],
+    "work[1].bullets[0]": [
+      559,
+      604
+    ],
+    "work[1].bullets[1]": [
+      607,
+      669
+    ],
+    "work[2].company": [
+      671,
+      688
+    ],
+    "work[2].title": [
+      691,
+      717
+    ],
+    "work[2].date": [
+      719,
+      723
+    ],
+    "work[2].bullets[0]": [
+      732,
+      794
+    ],
+    "work[2].bullets[1]": [
+      797,
+      861
+    ],
+    "work[2].bullets[2]": [
+      864,
+      909
+    ],
+    "education[0].institution": [
+      921,
+      954
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Omar Whitfield",
+    "skills[0]": "PostgreSQL",
+    "skills[1]": "Java",
+    "skills[2]": "Docker",
+    "skills[3]": "Kubernetes",
+    "work[0].company": "Harborview Logistics",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2023",
+    "work[0].bullets[0]": "Led migration of 36 services onto Kubernetes.",
+    "work[0].bullets[1]": "Designed a gRPC service handling 7 thousand requests per second.",
+    "work[0].bullets[2]": "Reduced p99 latency by 22% by introducing a Redis cache layer.",
+    "work[1].company": "Lantern Software",
+    "work[1].title": "Junior Backend Engineer",
+    "work[1].date": "2021",
+    "work[1].bullets[0]": "Led migration of 23 services onto Kubernetes.",
+    "work[1].bullets[1]": "Reduced p99 latency by 18% by introducing a Redis cache layer.",
+    "work[2].company": "Northwind Systems",
+    "work[2].title": "Associate Backend Engineer",
+    "work[2].date": "2019",
+    "work[2].bullets[0]": "Reduced p99 latency by 44% by introducing a Redis cache layer.",
+    "work[2].bullets[1]": "Designed a gRPC service handling 7 thousand requests per second.",
+    "work[2].bullets[2]": "Led migration of 37 services onto Kubernetes.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

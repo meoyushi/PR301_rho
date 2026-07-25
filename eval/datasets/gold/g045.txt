@@ -1,0 +1,27 @@
+Omar Aubert
+Mechanical Engineer
+omar.aubert@example.com
+
+SUMMARY
+Hands-on Mechanical Engineer who has spent 9 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+SKILLS
+MATLAB, GD&T, SolidWorks, Six Sigma
+
+EXPERIENCE
+Meridian Health Group — Mechanical Engineer (2022–2023)
+- Ran FEA validation on 47 structural components.
+- Cut part cost 41% through a design-for-manufacture review.
+- Designed 2 injection-moulded assemblies released to production.
+
+Brightline Analytics — Associate Mechanical Engineer (2017–2021)
+- Cut part cost 33% through a design-for-manufacture review.
+- Designed 24 injection-moulded assemblies released to production.
+
+Harborview Logistics — Associate Mechanical Engineer (2016–2017)
+- Ran FEA validation on 42 structural components.
+- Designed 45 injection-moulded assemblies released to production.
+- Cut part cost 11% through a design-for-manufacture review.
+
+EDUCATION
+Northgate College — B.S. Information Systems, 2016

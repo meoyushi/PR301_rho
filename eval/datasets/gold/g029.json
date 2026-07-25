@@ -1,0 +1,174 @@
+{
+  "gold": {
+    "name": "Tomas Novak",
+    "headline": "Registered Nurse",
+    "summary": "Registered Nurse with 7 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "ACLS",
+      "Phlebotomy",
+      "IV Therapy",
+      "Triage",
+      "EPIC",
+      "Patient Care"
+    ],
+    "work": [
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Registered Nurse",
+        "start_date": "2020",
+        "end_date": "2022",
+        "bullets": [
+          "Maintained medication accuracy above 22% across audits.",
+          "Trained 44 new graduate nurses on EPIC charting workflows."
+        ]
+      },
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Associate Registered Nurse",
+        "start_date": "2018",
+        "end_date": "2019",
+        "bullets": [
+          "Maintained medication accuracy above 42% across audits.",
+          "Managed a 21 bed unit across rotating night shifts."
+        ]
+      },
+      {
+        "company": "Cobalt Interactive",
+        "title": "Junior Registered Nurse",
+        "start_date": "2013",
+        "end_date": "2017",
+        "bullets": [
+          "Managed a 39 bed unit across rotating night shifts.",
+          "Maintained medication accuracy above 29% across audits."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2013"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      216,
+      220
+    ],
+    "skills[1]": [
+      222,
+      232
+    ],
+    "skills[2]": [
+      234,
+      244
+    ],
+    "skills[3]": [
+      246,
+      252
+    ],
+    "skills[4]": [
+      254,
+      258
+    ],
+    "skills[5]": [
+      260,
+      272
+    ],
+    "work[0].company": [
+      285,
+      309
+    ],
+    "work[0].title": [
+      312,
+      328
+    ],
+    "work[0].date": [
+      330,
+      334
+    ],
+    "work[0].bullets[0]": [
+      343,
+      398
+    ],
+    "work[0].bullets[1]": [
+      401,
+      459
+    ],
+    "work[1].company": [
+      461,
+      485
+    ],
+    "work[1].title": [
+      488,
+      514
+    ],
+    "work[1].date": [
+      516,
+      520
+    ],
+    "work[1].bullets[0]": [
+      529,
+      584
+    ],
+    "work[1].bullets[1]": [
+      587,
+      638
+    ],
+    "work[2].company": [
+      640,
+      658
+    ],
+    "work[2].title": [
+      661,
+      684
+    ],
+    "work[2].date": [
+      686,
+      690
+    ],
+    "work[2].bullets[0]": [
+      699,
+      750
+    ],
+    "work[2].bullets[1]": [
+      753,
+      808
+    ],
+    "education[0].institution": [
+      820,
+      839
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Tomas Novak",
+    "skills[0]": "ACLS",
+    "skills[1]": "Phlebotomy",
+    "skills[2]": "IV Therapy",
+    "skills[3]": "Triage",
+    "skills[4]": "EPIC",
+    "skills[5]": "Patient Care",
+    "work[0].company": "Vantage Point Consulting",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Maintained medication accuracy above 22% across audits.",
+    "work[0].bullets[1]": "Trained 44 new graduate nurses on EPIC charting workflows.",
+    "work[1].company": "Vantage Point Consulting",
+    "work[1].title": "Associate Registered Nurse",
+    "work[1].date": "2018",
+    "work[1].bullets[0]": "Maintained medication accuracy above 42% across audits.",
+    "work[1].bullets[1]": "Managed a 21 bed unit across rotating night shifts.",
+    "work[2].company": "Cobalt Interactive",
+    "work[2].title": "Junior Registered Nurse",
+    "work[2].date": "2013",
+    "work[2].bullets[0]": "Managed a 39 bed unit across rotating night shifts.",
+    "work[2].bullets[1]": "Maintained medication accuracy above 29% across audits.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

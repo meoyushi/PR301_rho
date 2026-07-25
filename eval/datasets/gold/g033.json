@@ -1,0 +1,104 @@
+{
+  "gold": {
+    "name": "Aiko Aubert",
+    "headline": "Data Engineer",
+    "summary": "Data Engineer with 17 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Kafka",
+      "Snowflake",
+      "Airflow",
+      "Spark",
+      "SQL",
+      "dbt"
+    ],
+    "work": [
+      {
+        "company": "Lantern Software",
+        "title": "Data Engineer",
+        "start_date": "2020",
+        "end_date": "2024",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 12 TB of event data daily.",
+          "Modelled the warehouse layer in dbt across 43 source systems."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      221,
+      226
+    ],
+    "skills[1]": [
+      228,
+      237
+    ],
+    "skills[2]": [
+      239,
+      246
+    ],
+    "skills[3]": [
+      248,
+      253
+    ],
+    "skills[4]": [
+      255,
+      258
+    ],
+    "skills[5]": [
+      260,
+      263
+    ],
+    "work[0].company": [
+      284,
+      300
+    ],
+    "work[0].title": [
+      303,
+      316
+    ],
+    "work[0].date": [
+      318,
+      322
+    ],
+    "work[0].bullets[0]": [
+      331,
+      404
+    ],
+    "work[0].bullets[1]": [
+      407,
+      468
+    ],
+    "education[0].institution": [
+      493,
+      526
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Aiko Aubert",
+    "skills[0]": "Kafka",
+    "skills[1]": "Snowflake",
+    "skills[2]": "Airflow",
+    "skills[3]": "Spark",
+    "skills[4]": "SQL",
+    "skills[5]": "dbt",
+    "work[0].company": "Lantern Software",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Built streaming ingestion pipelines processing 12 TB of event data daily.",
+    "work[0].bullets[1]": "Modelled the warehouse layer in dbt across 43 source systems.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

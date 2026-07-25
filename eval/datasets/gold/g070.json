@@ -1,0 +1,110 @@
+{
+  "gold": {
+    "name": "Priya Okonkwo",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 4 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Salesforce",
+      "Copywriting",
+      "Google Analytics",
+      "HubSpot",
+      "SEO",
+      "A/B Testing"
+    ],
+    "work": [
+      {
+        "company": "Trellis Financial",
+        "title": "Marketing Manager",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Ran 13 A/B tests on lifecycle email, lifting conversion 22%.",
+          "Grew organic traffic 38% year over year through an SEO content programme.",
+          "Managed a 24 million dollar annual paid media budget."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      220,
+      230
+    ],
+    "skills[1]": [
+      232,
+      243
+    ],
+    "skills[2]": [
+      245,
+      261
+    ],
+    "skills[3]": [
+      263,
+      270
+    ],
+    "skills[4]": [
+      272,
+      275
+    ],
+    "skills[5]": [
+      277,
+      288
+    ],
+    "work[0].company": [
+      309,
+      326
+    ],
+    "work[0].title": [
+      329,
+      346
+    ],
+    "work[0].date": [
+      348,
+      352
+    ],
+    "work[0].bullets[0]": [
+      361,
+      421
+    ],
+    "work[0].bullets[1]": [
+      424,
+      497
+    ],
+    "work[0].bullets[2]": [
+      500,
+      553
+    ],
+    "education[0].institution": [
+      578,
+      597
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Priya Okonkwo",
+    "skills[0]": "Salesforce",
+    "skills[1]": "Copywriting",
+    "skills[2]": "Google Analytics",
+    "skills[3]": "HubSpot",
+    "skills[4]": "SEO",
+    "skills[5]": "A/B Testing",
+    "work[0].company": "Trellis Financial",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Ran 13 A/B tests on lifecycle email, lifting conversion 22%.",
+    "work[0].bullets[1]": "Grew organic traffic 38% year over year through an SEO content programme.",
+    "work[0].bullets[2]": "Managed a 24 million dollar annual paid media budget.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

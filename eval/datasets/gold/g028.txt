@@ -1,0 +1,22 @@
+Aiko Castellanos
+Data Engineer
+aiko.castellanos@example.com
+
+PROFESSIONAL SUMMARY
+Hands-on Data Engineer who has spent 16 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+CORE COMPETENCIES
+dbt, Python, Airflow, AWS
+
+EMPLOYMENT HISTORY
+Copperfield Retail — Data Engineer (2019–2021)
+- Migrated 53 legacy ETL jobs from cron to Airflow, cutting failures by 21%.
+- Built streaming ingestion pipelines processing 37 TB of event data daily.
+- Modelled the warehouse layer in dbt across 43 source systems.
+
+Copperfield Retail — Associate Data Engineer (2016–2019)
+- Migrated 36 legacy ETL jobs from cron to Airflow, cutting failures by 34%.
+- Modelled the warehouse layer in dbt across 58 source systems.
+
+EDUCATION
+Riverside Institute of Technology — B.S. Computer Science, 2016

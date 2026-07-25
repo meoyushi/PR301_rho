@@ -1,0 +1,186 @@
+{
+  "gold": {
+    "name": "Viktor Hyun",
+    "headline": "Financial Analyst",
+    "summary": "Financial Analyst with 6 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "SQL",
+      "Tableau",
+      "SAP",
+      "Variance Analysis",
+      "Forecasting"
+    ],
+    "work": [
+      {
+        "company": "Ironwood Robotics",
+        "title": "Financial Analyst",
+        "start_date": "2023",
+        "end_date": "2025",
+        "bullets": [
+          "Automated variance reporting in SQL, saving 46 analyst hours per month.",
+          "Presented monthly results to a committee of 17 executives.",
+          "Owned the quarterly forecast for a 44 million dollar product line."
+        ]
+      },
+      {
+        "company": "Meridian Health Group",
+        "title": "Junior Financial Analyst",
+        "start_date": "2021",
+        "end_date": "2022",
+        "bullets": [
+          "Presented monthly results to a committee of 44 executives.",
+          "Owned the quarterly forecast for a 60 million dollar product line.",
+          "Automated variance reporting in SQL, saving 4 analyst hours per month."
+        ]
+      },
+      {
+        "company": "Trellis Financial",
+        "title": "Associate Financial Analyst",
+        "start_date": "2018",
+        "end_date": "2020",
+        "bullets": [
+          "Presented monthly results to a committee of 9 executives.",
+          "Automated variance reporting in SQL, saving 11 analyst hours per month.",
+          "Owned the quarterly forecast for a 60 million dollar product line."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2018"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      241,
+      244
+    ],
+    "skills[1]": [
+      246,
+      253
+    ],
+    "skills[2]": [
+      255,
+      258
+    ],
+    "skills[3]": [
+      260,
+      277
+    ],
+    "skills[4]": [
+      279,
+      290
+    ],
+    "work[0].company": [
+      311,
+      328
+    ],
+    "work[0].title": [
+      331,
+      348
+    ],
+    "work[0].date": [
+      350,
+      354
+    ],
+    "work[0].bullets[0]": [
+      363,
+      434
+    ],
+    "work[0].bullets[1]": [
+      437,
+      495
+    ],
+    "work[0].bullets[2]": [
+      498,
+      564
+    ],
+    "work[1].company": [
+      566,
+      587
+    ],
+    "work[1].title": [
+      590,
+      614
+    ],
+    "work[1].date": [
+      616,
+      620
+    ],
+    "work[1].bullets[0]": [
+      629,
+      687
+    ],
+    "work[1].bullets[1]": [
+      690,
+      756
+    ],
+    "work[1].bullets[2]": [
+      759,
+      829
+    ],
+    "work[2].company": [
+      831,
+      848
+    ],
+    "work[2].title": [
+      851,
+      878
+    ],
+    "work[2].date": [
+      880,
+      884
+    ],
+    "work[2].bullets[0]": [
+      893,
+      950
+    ],
+    "work[2].bullets[1]": [
+      953,
+      1024
+    ],
+    "work[2].bullets[2]": [
+      1027,
+      1093
+    ],
+    "education[0].institution": [
+      1118,
+      1140
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Viktor Hyun",
+    "skills[0]": "SQL",
+    "skills[1]": "Tableau",
+    "skills[2]": "SAP",
+    "skills[3]": "Variance Analysis",
+    "skills[4]": "Forecasting",
+    "work[0].company": "Ironwood Robotics",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2023",
+    "work[0].bullets[0]": "Automated variance reporting in SQL, saving 46 analyst hours per month.",
+    "work[0].bullets[1]": "Presented monthly results to a committee of 17 executives.",
+    "work[0].bullets[2]": "Owned the quarterly forecast for a 44 million dollar product line.",
+    "work[1].company": "Meridian Health Group",
+    "work[1].title": "Junior Financial Analyst",
+    "work[1].date": "2021",
+    "work[1].bullets[0]": "Presented monthly results to a committee of 44 executives.",
+    "work[1].bullets[1]": "Owned the quarterly forecast for a 60 million dollar product line.",
+    "work[1].bullets[2]": "Automated variance reporting in SQL, saving 4 analyst hours per month.",
+    "work[2].company": "Trellis Financial",
+    "work[2].title": "Associate Financial Analyst",
+    "work[2].date": "2018",
+    "work[2].bullets[0]": "Presented monthly results to a committee of 9 executives.",
+    "work[2].bullets[1]": "Automated variance reporting in SQL, saving 11 analyst hours per month.",
+    "work[2].bullets[2]": "Owned the quarterly forecast for a 60 million dollar product line.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

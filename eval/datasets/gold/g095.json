@@ -1,0 +1,186 @@
+{
+  "gold": {
+    "name": "Leilani Fairbanks",
+    "headline": "Financial Analyst",
+    "summary": "Financial Analyst with 16 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Tableau",
+      "Excel",
+      "Forecasting",
+      "SAP",
+      "Variance Analysis"
+    ],
+    "work": [
+      {
+        "company": "Northwind Systems",
+        "title": "Financial Analyst",
+        "start_date": "2023",
+        "end_date": "2025",
+        "bullets": [
+          "Presented monthly results to a committee of 53 executives.",
+          "Owned the quarterly forecast for a 23 million dollar product line.",
+          "Automated variance reporting in SQL, saving 13 analyst hours per month."
+        ]
+      },
+      {
+        "company": "Lantern Software",
+        "title": "Junior Financial Analyst",
+        "start_date": "2019",
+        "end_date": "2023",
+        "bullets": [
+          "Automated variance reporting in SQL, saving 12 analyst hours per month.",
+          "Owned the quarterly forecast for a 26 million dollar product line.",
+          "Presented monthly results to a committee of 44 executives."
+        ]
+      },
+      {
+        "company": "Brightline Analytics",
+        "title": "Associate Financial Analyst",
+        "start_date": "2016",
+        "end_date": "2019",
+        "bullets": [
+          "Automated variance reporting in SQL, saving 21 analyst hours per month.",
+          "Owned the quarterly forecast for a 30 million dollar product line.",
+          "Presented monthly results to a committee of 41 executives."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2016"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      17
+    ],
+    "skills[0]": [
+      218,
+      225
+    ],
+    "skills[1]": [
+      227,
+      232
+    ],
+    "skills[2]": [
+      234,
+      245
+    ],
+    "skills[3]": [
+      247,
+      250
+    ],
+    "skills[4]": [
+      252,
+      269
+    ],
+    "work[0].company": [
+      287,
+      304
+    ],
+    "work[0].title": [
+      307,
+      324
+    ],
+    "work[0].date": [
+      326,
+      330
+    ],
+    "work[0].bullets[0]": [
+      339,
+      397
+    ],
+    "work[0].bullets[1]": [
+      400,
+      466
+    ],
+    "work[0].bullets[2]": [
+      469,
+      540
+    ],
+    "work[1].company": [
+      542,
+      558
+    ],
+    "work[1].title": [
+      561,
+      585
+    ],
+    "work[1].date": [
+      587,
+      591
+    ],
+    "work[1].bullets[0]": [
+      600,
+      671
+    ],
+    "work[1].bullets[1]": [
+      674,
+      740
+    ],
+    "work[1].bullets[2]": [
+      743,
+      801
+    ],
+    "work[2].company": [
+      803,
+      823
+    ],
+    "work[2].title": [
+      826,
+      853
+    ],
+    "work[2].date": [
+      855,
+      859
+    ],
+    "work[2].bullets[0]": [
+      868,
+      939
+    ],
+    "work[2].bullets[1]": [
+      942,
+      1008
+    ],
+    "work[2].bullets[2]": [
+      1011,
+      1069
+    ],
+    "education[0].institution": [
+      1094,
+      1113
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Leilani Fairbanks",
+    "skills[0]": "Tableau",
+    "skills[1]": "Excel",
+    "skills[2]": "Forecasting",
+    "skills[3]": "SAP",
+    "skills[4]": "Variance Analysis",
+    "work[0].company": "Northwind Systems",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2023",
+    "work[0].bullets[0]": "Presented monthly results to a committee of 53 executives.",
+    "work[0].bullets[1]": "Owned the quarterly forecast for a 23 million dollar product line.",
+    "work[0].bullets[2]": "Automated variance reporting in SQL, saving 13 analyst hours per month.",
+    "work[1].company": "Lantern Software",
+    "work[1].title": "Junior Financial Analyst",
+    "work[1].date": "2019",
+    "work[1].bullets[0]": "Automated variance reporting in SQL, saving 12 analyst hours per month.",
+    "work[1].bullets[1]": "Owned the quarterly forecast for a 26 million dollar product line.",
+    "work[1].bullets[2]": "Presented monthly results to a committee of 44 executives.",
+    "work[2].company": "Brightline Analytics",
+    "work[2].title": "Associate Financial Analyst",
+    "work[2].date": "2016",
+    "work[2].bullets[0]": "Automated variance reporting in SQL, saving 21 analyst hours per month.",
+    "work[2].bullets[1]": "Owned the quarterly forecast for a 30 million dollar product line.",
+    "work[2].bullets[2]": "Presented monthly results to a committee of 41 executives.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

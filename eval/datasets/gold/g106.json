@@ -1,0 +1,104 @@
+{
+  "gold": {
+    "name": "Dana Hyun",
+    "headline": "Financial Analyst",
+    "summary": "Financial Analyst with 3 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Forecasting",
+      "Tableau",
+      "SAP",
+      "Variance Analysis",
+      "Excel"
+    ],
+    "work": [
+      {
+        "company": "Silverpine Media",
+        "title": "Financial Analyst",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Owned the quarterly forecast for a 21 million dollar product line.",
+          "Presented monthly results to a committee of 45 executives.",
+          "Automated variance reporting in SQL, saving 30 analyst hours per month."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      9
+    ],
+    "skills[0]": [
+      225,
+      236
+    ],
+    "skills[1]": [
+      238,
+      245
+    ],
+    "skills[2]": [
+      247,
+      250
+    ],
+    "skills[3]": [
+      252,
+      269
+    ],
+    "skills[4]": [
+      271,
+      276
+    ],
+    "work[0].company": [
+      289,
+      305
+    ],
+    "work[0].title": [
+      308,
+      325
+    ],
+    "work[0].date": [
+      327,
+      331
+    ],
+    "work[0].bullets[0]": [
+      340,
+      406
+    ],
+    "work[0].bullets[1]": [
+      409,
+      467
+    ],
+    "work[0].bullets[2]": [
+      470,
+      541
+    ],
+    "education[0].institution": [
+      563,
+      585
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Dana Hyun",
+    "skills[0]": "Forecasting",
+    "skills[1]": "Tableau",
+    "skills[2]": "SAP",
+    "skills[3]": "Variance Analysis",
+    "skills[4]": "Excel",
+    "work[0].company": "Silverpine Media",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Owned the quarterly forecast for a 21 million dollar product line.",
+    "work[0].bullets[1]": "Presented monthly results to a committee of 45 executives.",
+    "work[0].bullets[2]": "Automated variance reporting in SQL, saving 30 analyst hours per month.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

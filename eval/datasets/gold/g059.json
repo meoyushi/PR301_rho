@@ -1,0 +1,168 @@
+{
+  "gold": {
+    "name": "Soren Hyun",
+    "headline": "Backend Engineer",
+    "summary": "Hands-on Backend Engineer who has spent 3 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Docker",
+      "Redis",
+      "Java",
+      "Go"
+    ],
+    "work": [
+      {
+        "company": "Trellis Financial",
+        "title": "Backend Engineer",
+        "start_date": "2021",
+        "end_date": "2022",
+        "bullets": [
+          "Led migration of 5 services onto Kubernetes.",
+          "Reduced p99 latency by 42% by introducing a Redis cache layer.",
+          "Designed a gRPC service handling 16 thousand requests per second."
+        ]
+      },
+      {
+        "company": "Cobalt Interactive",
+        "title": "Associate Backend Engineer",
+        "start_date": "2016",
+        "end_date": "2020",
+        "bullets": [
+          "Led migration of 29 services onto Kubernetes.",
+          "Designed a gRPC service handling 7 thousand requests per second."
+        ]
+      },
+      {
+        "company": "Ironwood Robotics",
+        "title": "Associate Backend Engineer",
+        "start_date": "2012",
+        "end_date": "2016",
+        "bullets": [
+          "Reduced p99 latency by 16% by introducing a Redis cache layer.",
+          "Designed a gRPC service handling 37 thousand requests per second."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2012"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      10
+    ],
+    "skills[0]": [
+      212,
+      218
+    ],
+    "skills[1]": [
+      220,
+      225
+    ],
+    "skills[2]": [
+      227,
+      231
+    ],
+    "skills[3]": [
+      233,
+      235
+    ],
+    "work[0].company": [
+      253,
+      270
+    ],
+    "work[0].title": [
+      273,
+      289
+    ],
+    "work[0].date": [
+      291,
+      295
+    ],
+    "work[0].bullets[0]": [
+      304,
+      348
+    ],
+    "work[0].bullets[1]": [
+      351,
+      413
+    ],
+    "work[0].bullets[2]": [
+      416,
+      481
+    ],
+    "work[1].company": [
+      483,
+      501
+    ],
+    "work[1].title": [
+      504,
+      530
+    ],
+    "work[1].date": [
+      532,
+      536
+    ],
+    "work[1].bullets[0]": [
+      545,
+      590
+    ],
+    "work[1].bullets[1]": [
+      593,
+      657
+    ],
+    "work[2].company": [
+      659,
+      676
+    ],
+    "work[2].title": [
+      679,
+      705
+    ],
+    "work[2].date": [
+      707,
+      711
+    ],
+    "work[2].bullets[0]": [
+      720,
+      782
+    ],
+    "work[2].bullets[1]": [
+      785,
+      850
+    ],
+    "education[0].institution": [
+      875,
+      908
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Soren Hyun",
+    "skills[0]": "Docker",
+    "skills[1]": "Redis",
+    "skills[2]": "Java",
+    "skills[3]": "Go",
+    "work[0].company": "Trellis Financial",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Led migration of 5 services onto Kubernetes.",
+    "work[0].bullets[1]": "Reduced p99 latency by 42% by introducing a Redis cache layer.",
+    "work[0].bullets[2]": "Designed a gRPC service handling 16 thousand requests per second.",
+    "work[1].company": "Cobalt Interactive",
+    "work[1].title": "Associate Backend Engineer",
+    "work[1].date": "2016",
+    "work[1].bullets[0]": "Led migration of 29 services onto Kubernetes.",
+    "work[1].bullets[1]": "Designed a gRPC service handling 7 thousand requests per second.",
+    "work[2].company": "Ironwood Robotics",
+    "work[2].title": "Associate Backend Engineer",
+    "work[2].date": "2012",
+    "work[2].bullets[0]": "Reduced p99 latency by 16% by introducing a Redis cache layer.",
+    "work[2].bullets[1]": "Designed a gRPC service handling 37 thousand requests per second.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

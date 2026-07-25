@@ -1,0 +1,18 @@
+Aiko Kowalski
+Backend Engineer
+aiko.kowalski@example.com
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 7 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+SKILL HIGHLIGHTS
+Kubernetes, Java, Go, Kafka, gRPC, Docker
+
+PROFESSIONAL EXPERIENCE
+Harborview Logistics — Backend Engineer (2021–2023)
+- Reduced p99 latency by 21% by introducing a Redis cache layer.
+- Designed a gRPC service handling 40 thousand requests per second.
+- Led migration of 15 services onto Kubernetes.
+
+ACADEMIC BACKGROUND
+Lakeshore University — M.B.A. Business Administration, 2021

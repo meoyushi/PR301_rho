@@ -1,0 +1,168 @@
+{
+  "gold": {
+    "name": "Rowan Aubert",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 9 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Google Analytics",
+      "Salesforce",
+      "A/B Testing",
+      "HubSpot",
+      "SEO"
+    ],
+    "work": [
+      {
+        "company": "Brightline Analytics",
+        "title": "Marketing Manager",
+        "start_date": "2020",
+        "end_date": "2021",
+        "bullets": [
+          "Managed a 18 million dollar annual paid media budget.",
+          "Ran 27 A/B tests on lifecycle email, lifting conversion 30%."
+        ]
+      },
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Associate Marketing Manager",
+        "start_date": "2016",
+        "end_date": "2020",
+        "bullets": [
+          "Ran 17 A/B tests on lifecycle email, lifting conversion 30%.",
+          "Managed a 12 million dollar annual paid media budget."
+        ]
+      },
+      {
+        "company": "Silverpine Media",
+        "title": "Junior Marketing Manager",
+        "start_date": "2014",
+        "end_date": "2015",
+        "bullets": [
+          "Ran 14 A/B tests on lifecycle email, lifting conversion 43%.",
+          "Grew organic traffic 39% year over year through an SEO content programme."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2014"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      12
+    ],
+    "skills[0]": [
+      218,
+      234
+    ],
+    "skills[1]": [
+      236,
+      246
+    ],
+    "skills[2]": [
+      248,
+      259
+    ],
+    "skills[3]": [
+      261,
+      268
+    ],
+    "skills[4]": [
+      270,
+      273
+    ],
+    "work[0].company": [
+      299,
+      319
+    ],
+    "work[0].title": [
+      322,
+      339
+    ],
+    "work[0].date": [
+      341,
+      345
+    ],
+    "work[0].bullets[0]": [
+      354,
+      407
+    ],
+    "work[0].bullets[1]": [
+      410,
+      470
+    ],
+    "work[1].company": [
+      472,
+      496
+    ],
+    "work[1].title": [
+      499,
+      526
+    ],
+    "work[1].date": [
+      528,
+      532
+    ],
+    "work[1].bullets[0]": [
+      541,
+      601
+    ],
+    "work[1].bullets[1]": [
+      604,
+      657
+    ],
+    "work[2].company": [
+      659,
+      675
+    ],
+    "work[2].title": [
+      678,
+      702
+    ],
+    "work[2].date": [
+      704,
+      708
+    ],
+    "work[2].bullets[0]": [
+      717,
+      777
+    ],
+    "work[2].bullets[1]": [
+      780,
+      853
+    ],
+    "education[0].institution": [
+      878,
+      894
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Rowan Aubert",
+    "skills[0]": "Google Analytics",
+    "skills[1]": "Salesforce",
+    "skills[2]": "A/B Testing",
+    "skills[3]": "HubSpot",
+    "skills[4]": "SEO",
+    "work[0].company": "Brightline Analytics",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Managed a 18 million dollar annual paid media budget.",
+    "work[0].bullets[1]": "Ran 27 A/B tests on lifecycle email, lifting conversion 30%.",
+    "work[1].company": "Vantage Point Consulting",
+    "work[1].title": "Associate Marketing Manager",
+    "work[1].date": "2016",
+    "work[1].bullets[0]": "Ran 17 A/B tests on lifecycle email, lifting conversion 30%.",
+    "work[1].bullets[1]": "Managed a 12 million dollar annual paid media budget.",
+    "work[2].company": "Silverpine Media",
+    "work[2].title": "Junior Marketing Manager",
+    "work[2].date": "2014",
+    "work[2].bullets[0]": "Ran 14 A/B tests on lifecycle email, lifting conversion 43%.",
+    "work[2].bullets[1]": "Grew organic traffic 39% year over year through an SEO content programme.",
+    "education[0].institution": "State University"
+  }
+}

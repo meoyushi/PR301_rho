@@ -1,0 +1,151 @@
+{
+  "gold": {
+    "name": "Viktor Aubert",
+    "headline": "Data Engineer",
+    "summary": "Data Engineer with 9 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "SQL",
+      "Spark",
+      "Kafka",
+      "Airflow",
+      "Python",
+      "Snowflake"
+    ],
+    "work": [
+      {
+        "company": "Northwind Systems",
+        "title": "Data Engineer",
+        "start_date": "2022",
+        "end_date": "2024",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 24 TB of event data daily.",
+          "Modelled the warehouse layer in dbt across 17 source systems.",
+          "Migrated 23 legacy ETL jobs from cron to Airflow, cutting failures by 24%."
+        ]
+      },
+      {
+        "company": "Ironwood Robotics",
+        "title": "Junior Data Engineer",
+        "start_date": "2018",
+        "end_date": "2022",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 23 TB of event data daily.",
+          "Modelled the warehouse layer in dbt across 57 source systems.",
+          "Migrated 38 legacy ETL jobs from cron to Airflow, cutting failures by 39%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2018"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      237,
+      240
+    ],
+    "skills[1]": [
+      242,
+      247
+    ],
+    "skills[2]": [
+      249,
+      254
+    ],
+    "skills[3]": [
+      256,
+      263
+    ],
+    "skills[4]": [
+      265,
+      271
+    ],
+    "skills[5]": [
+      273,
+      282
+    ],
+    "work[0].company": [
+      308,
+      325
+    ],
+    "work[0].title": [
+      328,
+      341
+    ],
+    "work[0].date": [
+      343,
+      347
+    ],
+    "work[0].bullets[0]": [
+      356,
+      429
+    ],
+    "work[0].bullets[1]": [
+      432,
+      493
+    ],
+    "work[0].bullets[2]": [
+      496,
+      570
+    ],
+    "work[1].company": [
+      572,
+      589
+    ],
+    "work[1].title": [
+      592,
+      612
+    ],
+    "work[1].date": [
+      614,
+      618
+    ],
+    "work[1].bullets[0]": [
+      627,
+      700
+    ],
+    "work[1].bullets[1]": [
+      703,
+      764
+    ],
+    "work[1].bullets[2]": [
+      767,
+      841
+    ],
+    "education[0].institution": [
+      863,
+      883
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Viktor Aubert",
+    "skills[0]": "SQL",
+    "skills[1]": "Spark",
+    "skills[2]": "Kafka",
+    "skills[3]": "Airflow",
+    "skills[4]": "Python",
+    "skills[5]": "Snowflake",
+    "work[0].company": "Northwind Systems",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Built streaming ingestion pipelines processing 24 TB of event data daily.",
+    "work[0].bullets[1]": "Modelled the warehouse layer in dbt across 17 source systems.",
+    "work[0].bullets[2]": "Migrated 23 legacy ETL jobs from cron to Airflow, cutting failures by 24%.",
+    "work[1].company": "Ironwood Robotics",
+    "work[1].title": "Junior Data Engineer",
+    "work[1].date": "2018",
+    "work[1].bullets[0]": "Built streaming ingestion pipelines processing 23 TB of event data daily.",
+    "work[1].bullets[1]": "Modelled the warehouse layer in dbt across 57 source systems.",
+    "work[1].bullets[2]": "Migrated 38 legacy ETL jobs from cron to Airflow, cutting failures by 39%.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

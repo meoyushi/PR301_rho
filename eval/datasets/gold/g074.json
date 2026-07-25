@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Soren Whitfield",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 14 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "A/B Testing",
+      "SEO",
+      "Google Analytics",
+      "Copywriting",
+      "HubSpot"
+    ],
+    "work": [
+      {
+        "company": "Silverpine Media",
+        "title": "Marketing Manager",
+        "start_date": "2018",
+        "end_date": "2021",
+        "bullets": [
+          "Ran 29 A/B tests on lifecycle email, lifting conversion 42%.",
+          "Managed a 4 million dollar annual paid media budget.",
+          "Grew organic traffic 28% year over year through an SEO content programme."
+        ]
+      },
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Associate Marketing Manager",
+        "start_date": "2015",
+        "end_date": "2017",
+        "bullets": [
+          "Grew organic traffic 35% year over year through an SEO content programme.",
+          "Managed a 60 million dollar annual paid media budget."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2015"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      249,
+      260
+    ],
+    "skills[1]": [
+      262,
+      265
+    ],
+    "skills[2]": [
+      267,
+      283
+    ],
+    "skills[3]": [
+      285,
+      296
+    ],
+    "skills[4]": [
+      298,
+      305
+    ],
+    "work[0].company": [
+      326,
+      342
+    ],
+    "work[0].title": [
+      345,
+      362
+    ],
+    "work[0].date": [
+      364,
+      368
+    ],
+    "work[0].bullets[0]": [
+      377,
+      437
+    ],
+    "work[0].bullets[1]": [
+      440,
+      492
+    ],
+    "work[0].bullets[2]": [
+      495,
+      568
+    ],
+    "work[1].company": [
+      570,
+      594
+    ],
+    "work[1].title": [
+      597,
+      624
+    ],
+    "work[1].date": [
+      626,
+      630
+    ],
+    "work[1].bullets[0]": [
+      639,
+      712
+    ],
+    "work[1].bullets[1]": [
+      715,
+      768
+    ],
+    "education[0].institution": [
+      793,
+      826
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Soren Whitfield",
+    "skills[0]": "A/B Testing",
+    "skills[1]": "SEO",
+    "skills[2]": "Google Analytics",
+    "skills[3]": "Copywriting",
+    "skills[4]": "HubSpot",
+    "work[0].company": "Silverpine Media",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2018",
+    "work[0].bullets[0]": "Ran 29 A/B tests on lifecycle email, lifting conversion 42%.",
+    "work[0].bullets[1]": "Managed a 4 million dollar annual paid media budget.",
+    "work[0].bullets[2]": "Grew organic traffic 28% year over year through an SEO content programme.",
+    "work[1].company": "Vantage Point Consulting",
+    "work[1].title": "Associate Marketing Manager",
+    "work[1].date": "2015",
+    "work[1].bullets[0]": "Grew organic traffic 35% year over year through an SEO content programme.",
+    "work[1].bullets[1]": "Managed a 60 million dollar annual paid media budget.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

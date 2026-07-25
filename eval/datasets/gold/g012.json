@@ -1,0 +1,110 @@
+{
+  "gold": {
+    "name": "Leilani Delgado",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 11 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Copywriting",
+      "Google Analytics",
+      "SEO",
+      "HubSpot",
+      "A/B Testing",
+      "Salesforce"
+    ],
+    "work": [
+      {
+        "company": "Lantern Software",
+        "title": "Marketing Manager",
+        "start_date": "2024",
+        "end_date": "2025",
+        "bullets": [
+          "Grew organic traffic 25% year over year through an SEO content programme.",
+          "Ran 56 A/B tests on lifecycle email, lifting conversion 44%.",
+          "Managed a 54 million dollar annual paid media budget."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2024"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      250,
+      261
+    ],
+    "skills[1]": [
+      263,
+      279
+    ],
+    "skills[2]": [
+      281,
+      284
+    ],
+    "skills[3]": [
+      286,
+      293
+    ],
+    "skills[4]": [
+      295,
+      306
+    ],
+    "skills[5]": [
+      308,
+      318
+    ],
+    "work[0].company": [
+      331,
+      347
+    ],
+    "work[0].title": [
+      350,
+      367
+    ],
+    "work[0].date": [
+      369,
+      373
+    ],
+    "work[0].bullets[0]": [
+      382,
+      455
+    ],
+    "work[0].bullets[1]": [
+      458,
+      518
+    ],
+    "work[0].bullets[2]": [
+      521,
+      574
+    ],
+    "education[0].institution": [
+      596,
+      618
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Leilani Delgado",
+    "skills[0]": "Copywriting",
+    "skills[1]": "Google Analytics",
+    "skills[2]": "SEO",
+    "skills[3]": "HubSpot",
+    "skills[4]": "A/B Testing",
+    "skills[5]": "Salesforce",
+    "work[0].company": "Lantern Software",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2024",
+    "work[0].bullets[0]": "Grew organic traffic 25% year over year through an SEO content programme.",
+    "work[0].bullets[1]": "Ran 56 A/B tests on lifecycle email, lifting conversion 44%.",
+    "work[0].bullets[2]": "Managed a 54 million dollar annual paid media budget.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

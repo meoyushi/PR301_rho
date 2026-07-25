@@ -1,0 +1,110 @@
+{
+  "gold": {
+    "name": "Aiko Kowalski",
+    "headline": "Backend Engineer",
+    "summary": "Backend Engineer with 7 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Kubernetes",
+      "Java",
+      "Go",
+      "Kafka",
+      "gRPC",
+      "Docker"
+    ],
+    "work": [
+      {
+        "company": "Harborview Logistics",
+        "title": "Backend Engineer",
+        "start_date": "2021",
+        "end_date": "2023",
+        "bullets": [
+          "Reduced p99 latency by 21% by introducing a Redis cache layer.",
+          "Designed a gRPC service handling 40 thousand requests per second.",
+          "Led migration of 15 services onto Kubernetes."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2021"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      230,
+      240
+    ],
+    "skills[1]": [
+      242,
+      246
+    ],
+    "skills[2]": [
+      248,
+      250
+    ],
+    "skills[3]": [
+      252,
+      257
+    ],
+    "skills[4]": [
+      259,
+      263
+    ],
+    "skills[5]": [
+      265,
+      271
+    ],
+    "work[0].company": [
+      297,
+      317
+    ],
+    "work[0].title": [
+      320,
+      336
+    ],
+    "work[0].date": [
+      338,
+      342
+    ],
+    "work[0].bullets[0]": [
+      351,
+      413
+    ],
+    "work[0].bullets[1]": [
+      416,
+      481
+    ],
+    "work[0].bullets[2]": [
+      484,
+      529
+    ],
+    "education[0].institution": [
+      551,
+      571
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Aiko Kowalski",
+    "skills[0]": "Kubernetes",
+    "skills[1]": "Java",
+    "skills[2]": "Go",
+    "skills[3]": "Kafka",
+    "skills[4]": "gRPC",
+    "skills[5]": "Docker",
+    "work[0].company": "Harborview Logistics",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Reduced p99 latency by 21% by introducing a Redis cache layer.",
+    "work[0].bullets[1]": "Designed a gRPC service handling 40 thousand requests per second.",
+    "work[0].bullets[2]": "Led migration of 15 services onto Kubernetes.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

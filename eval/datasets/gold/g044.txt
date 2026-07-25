@@ -1,0 +1,22 @@
+Malik Castellanos
+Backend Engineer
+malik.castellanos@example.com
+
+PROFILE
+Backend Engineer with 18 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+TECHNICAL SKILLS
+Redis, Go, PostgreSQL, Java
+
+PROFESSIONAL EXPERIENCE
+Lantern Software — Backend Engineer (2019–2023)
+- Designed a gRPC service handling 21 thousand requests per second.
+- Led migration of 36 services onto Kubernetes.
+- Reduced p99 latency by 40% by introducing a Redis cache layer.
+
+Blue Harbor Energy — Junior Backend Engineer (2014–2018)
+- Led migration of 53 services onto Kubernetes.
+- Designed a gRPC service handling 16 thousand requests per second.
+
+ACADEMIC BACKGROUND
+Lakeshore University — B.S. Information Systems, 2014

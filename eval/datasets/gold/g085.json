@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Beatriz Kowalski",
+    "headline": "Mechanical Engineer",
+    "summary": "Mechanical Engineer with 14 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "GD&T",
+      "FEA",
+      "AutoCAD",
+      "MATLAB",
+      "SolidWorks"
+    ],
+    "work": [
+      {
+        "company": "Meridian Health Group",
+        "title": "Mechanical Engineer",
+        "start_date": "2024",
+        "end_date": "2025",
+        "bullets": [
+          "Ran FEA validation on 55 structural components.",
+          "Designed 42 injection-moulded assemblies released to production.",
+          "Cut part cost 18% through a design-for-manufacture review."
+        ]
+      },
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Associate Mechanical Engineer",
+        "start_date": "2021",
+        "end_date": "2024",
+        "bullets": [
+          "Designed 22 injection-moulded assemblies released to production.",
+          "Ran FEA validation on 35 structural components."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2021"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      16
+    ],
+    "skills[0]": [
+      230,
+      234
+    ],
+    "skills[1]": [
+      236,
+      239
+    ],
+    "skills[2]": [
+      241,
+      248
+    ],
+    "skills[3]": [
+      250,
+      256
+    ],
+    "skills[4]": [
+      258,
+      268
+    ],
+    "work[0].company": [
+      289,
+      310
+    ],
+    "work[0].title": [
+      313,
+      332
+    ],
+    "work[0].date": [
+      334,
+      338
+    ],
+    "work[0].bullets[0]": [
+      347,
+      394
+    ],
+    "work[0].bullets[1]": [
+      397,
+      461
+    ],
+    "work[0].bullets[2]": [
+      464,
+      522
+    ],
+    "work[1].company": [
+      524,
+      548
+    ],
+    "work[1].title": [
+      551,
+      580
+    ],
+    "work[1].date": [
+      582,
+      586
+    ],
+    "work[1].bullets[0]": [
+      595,
+      659
+    ],
+    "work[1].bullets[1]": [
+      662,
+      709
+    ],
+    "education[0].institution": [
+      721,
+      754
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Beatriz Kowalski",
+    "skills[0]": "GD&T",
+    "skills[1]": "FEA",
+    "skills[2]": "AutoCAD",
+    "skills[3]": "MATLAB",
+    "skills[4]": "SolidWorks",
+    "work[0].company": "Meridian Health Group",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2024",
+    "work[0].bullets[0]": "Ran FEA validation on 55 structural components.",
+    "work[0].bullets[1]": "Designed 42 injection-moulded assemblies released to production.",
+    "work[0].bullets[2]": "Cut part cost 18% through a design-for-manufacture review.",
+    "work[1].company": "Vantage Point Consulting",
+    "work[1].title": "Associate Mechanical Engineer",
+    "work[1].date": "2021",
+    "work[1].bullets[0]": "Designed 22 injection-moulded assemblies released to production.",
+    "work[1].bullets[1]": "Ran FEA validation on 35 structural components.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

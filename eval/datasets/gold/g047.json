@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Priya Castellanos",
+    "headline": "Financial Analyst",
+    "summary": "Hands-on Financial Analyst who has spent 16 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "SAP",
+      "Tableau",
+      "SQL",
+      "Variance Analysis"
+    ],
+    "work": [
+      {
+        "company": "Brightline Analytics",
+        "title": "Financial Analyst",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Automated variance reporting in SQL, saving 21 analyst hours per month.",
+          "Owned the quarterly forecast for a 2 million dollar product line.",
+          "Presented monthly results to a committee of 16 executives."
+        ]
+      },
+      {
+        "company": "Trellis Financial",
+        "title": "Associate Financial Analyst",
+        "start_date": "2020",
+        "end_date": "2022",
+        "bullets": [
+          "Automated variance reporting in SQL, saving 41 analyst hours per month.",
+          "Owned the quarterly forecast for a 38 million dollar product line."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      17
+    ],
+    "skills[0]": [
+      253,
+      256
+    ],
+    "skills[1]": [
+      258,
+      265
+    ],
+    "skills[2]": [
+      267,
+      270
+    ],
+    "skills[3]": [
+      272,
+      289
+    ],
+    "work[0].company": [
+      310,
+      330
+    ],
+    "work[0].title": [
+      333,
+      350
+    ],
+    "work[0].date": [
+      352,
+      356
+    ],
+    "work[0].bullets[0]": [
+      365,
+      436
+    ],
+    "work[0].bullets[1]": [
+      439,
+      504
+    ],
+    "work[0].bullets[2]": [
+      507,
+      565
+    ],
+    "work[1].company": [
+      567,
+      584
+    ],
+    "work[1].title": [
+      587,
+      614
+    ],
+    "work[1].date": [
+      616,
+      620
+    ],
+    "work[1].bullets[0]": [
+      629,
+      700
+    ],
+    "work[1].bullets[1]": [
+      703,
+      769
+    ],
+    "education[0].institution": [
+      791,
+      807
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Priya Castellanos",
+    "skills[0]": "SAP",
+    "skills[1]": "Tableau",
+    "skills[2]": "SQL",
+    "skills[3]": "Variance Analysis",
+    "work[0].company": "Brightline Analytics",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Automated variance reporting in SQL, saving 21 analyst hours per month.",
+    "work[0].bullets[1]": "Owned the quarterly forecast for a 2 million dollar product line.",
+    "work[0].bullets[2]": "Presented monthly results to a committee of 16 executives.",
+    "work[1].company": "Trellis Financial",
+    "work[1].title": "Associate Financial Analyst",
+    "work[1].date": "2020",
+    "work[1].bullets[0]": "Automated variance reporting in SQL, saving 41 analyst hours per month.",
+    "work[1].bullets[1]": "Owned the quarterly forecast for a 38 million dollar product line.",
+    "education[0].institution": "State University"
+  }
+}

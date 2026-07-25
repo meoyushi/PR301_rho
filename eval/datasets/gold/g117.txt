@@ -1,0 +1,22 @@
+Leilani Novak
+Financial Analyst
+leilani.novak@example.com
+
+SUMMARY
+Financial Analyst with 13 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+TECHNICAL SKILLS
+Variance Analysis, Forecasting, SAP, SQL, Tableau, Excel
+
+WORK EXPERIENCE
+Silverpine Media — Financial Analyst (2022–2023)
+- Owned the quarterly forecast for a 53 million dollar product line.
+- Presented monthly results to a committee of 48 executives.
+
+Northwind Systems — Junior Financial Analyst (2018–2022)
+- Owned the quarterly forecast for a 20 million dollar product line.
+- Automated variance reporting in SQL, saving 59 analyst hours per month.
+- Presented monthly results to a committee of 14 executives.
+
+EDUCATION
+State University — M.S. Data Science, 2018

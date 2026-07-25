@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Dana Delgado",
+    "headline": "Mechanical Engineer",
+    "summary": "Mechanical Engineer with 17 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "AutoCAD",
+      "Six Sigma",
+      "GD&T",
+      "MATLAB",
+      "FEA"
+    ],
+    "work": [
+      {
+        "company": "Northwind Systems",
+        "title": "Mechanical Engineer",
+        "start_date": "2019",
+        "end_date": "2023",
+        "bullets": [
+          "Ran FEA validation on 13 structural components.",
+          "Designed 9 injection-moulded assemblies released to production."
+        ]
+      },
+      {
+        "company": "Ironwood Robotics",
+        "title": "Junior Mechanical Engineer",
+        "start_date": "2015",
+        "end_date": "2019",
+        "bullets": [
+          "Ran FEA validation on 26 structural components.",
+          "Designed 12 injection-moulded assemblies released to production."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2015"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      12
+    ],
+    "skills[0]": [
+      236,
+      243
+    ],
+    "skills[1]": [
+      245,
+      254
+    ],
+    "skills[2]": [
+      256,
+      260
+    ],
+    "skills[3]": [
+      262,
+      268
+    ],
+    "skills[4]": [
+      270,
+      273
+    ],
+    "work[0].company": [
+      291,
+      308
+    ],
+    "work[0].title": [
+      311,
+      330
+    ],
+    "work[0].date": [
+      332,
+      336
+    ],
+    "work[0].bullets[0]": [
+      345,
+      392
+    ],
+    "work[0].bullets[1]": [
+      395,
+      458
+    ],
+    "work[1].company": [
+      460,
+      477
+    ],
+    "work[1].title": [
+      480,
+      506
+    ],
+    "work[1].date": [
+      508,
+      512
+    ],
+    "work[1].bullets[0]": [
+      521,
+      568
+    ],
+    "work[1].bullets[1]": [
+      571,
+      635
+    ],
+    "education[0].institution": [
+      647,
+      664
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Dana Delgado",
+    "skills[0]": "AutoCAD",
+    "skills[1]": "Six Sigma",
+    "skills[2]": "GD&T",
+    "skills[3]": "MATLAB",
+    "skills[4]": "FEA",
+    "work[0].company": "Northwind Systems",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Ran FEA validation on 13 structural components.",
+    "work[0].bullets[1]": "Designed 9 injection-moulded assemblies released to production.",
+    "work[1].company": "Ironwood Robotics",
+    "work[1].title": "Junior Mechanical Engineer",
+    "work[1].date": "2015",
+    "work[1].bullets[0]": "Ran FEA validation on 26 structural components.",
+    "work[1].bullets[1]": "Designed 12 injection-moulded assemblies released to production.",
+    "education[0].institution": "Northgate College"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "gold": {
+    "name": "Soren Lindqvist",
+    "headline": "Registered Nurse",
+    "summary": "Registered Nurse with 12 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Patient Care",
+      "ACLS",
+      "IV Therapy",
+      "Triage"
+    ],
+    "work": [
+      {
+        "company": "Cobalt Interactive",
+        "title": "Registered Nurse",
+        "start_date": "2023",
+        "end_date": "2024",
+        "bullets": [
+          "Managed a 2 bed unit across rotating night shifts.",
+          "Maintained medication accuracy above 33% across audits."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2023"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      260,
+      272
+    ],
+    "skills[1]": [
+      274,
+      278
+    ],
+    "skills[2]": [
+      280,
+      290
+    ],
+    "skills[3]": [
+      292,
+      298
+    ],
+    "work[0].company": [
+      311,
+      329
+    ],
+    "work[0].title": [
+      332,
+      348
+    ],
+    "work[0].date": [
+      350,
+      354
+    ],
+    "work[0].bullets[0]": [
+      363,
+      413
+    ],
+    "work[0].bullets[1]": [
+      416,
+      471
+    ],
+    "education[0].institution": [
+      493,
+      515
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Soren Lindqvist",
+    "skills[0]": "Patient Care",
+    "skills[1]": "ACLS",
+    "skills[2]": "IV Therapy",
+    "skills[3]": "Triage",
+    "work[0].company": "Cobalt Interactive",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2023",
+    "work[0].bullets[0]": "Managed a 2 bed unit across rotating night shifts.",
+    "work[0].bullets[1]": "Maintained medication accuracy above 33% across audits.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

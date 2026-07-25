@@ -1,0 +1,104 @@
+{
+  "gold": {
+    "name": "Malik Lindqvist",
+    "headline": "Data Engineer",
+    "summary": "Data Engineer with 14 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Snowflake",
+      "Python",
+      "Kafka",
+      "Spark",
+      "dbt",
+      "Airflow"
+    ],
+    "work": [
+      {
+        "company": "Harborview Logistics",
+        "title": "Data Engineer",
+        "start_date": "2021",
+        "end_date": "2023",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 3 TB of event data daily.",
+          "Modelled the warehouse layer in dbt across 10 source systems."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2021"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      217,
+      226
+    ],
+    "skills[1]": [
+      228,
+      234
+    ],
+    "skills[2]": [
+      236,
+      241
+    ],
+    "skills[3]": [
+      243,
+      248
+    ],
+    "skills[4]": [
+      250,
+      253
+    ],
+    "skills[5]": [
+      255,
+      262
+    ],
+    "work[0].company": [
+      283,
+      303
+    ],
+    "work[0].title": [
+      306,
+      319
+    ],
+    "work[0].date": [
+      321,
+      325
+    ],
+    "work[0].bullets[0]": [
+      334,
+      406
+    ],
+    "work[0].bullets[1]": [
+      409,
+      470
+    ],
+    "education[0].institution": [
+      482,
+      501
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Malik Lindqvist",
+    "skills[0]": "Snowflake",
+    "skills[1]": "Python",
+    "skills[2]": "Kafka",
+    "skills[3]": "Spark",
+    "skills[4]": "dbt",
+    "skills[5]": "Airflow",
+    "work[0].company": "Harborview Logistics",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Built streaming ingestion pipelines processing 3 TB of event data daily.",
+    "work[0].bullets[1]": "Modelled the warehouse layer in dbt across 10 source systems.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

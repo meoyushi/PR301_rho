@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Priya Lindqvist",
+    "headline": "Financial Analyst",
+    "summary": "Financial Analyst with 3 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Forecasting",
+      "SQL",
+      "SAP",
+      "Excel"
+    ],
+    "work": [
+      {
+        "company": "Silverpine Media",
+        "title": "Financial Analyst",
+        "start_date": "2023",
+        "end_date": "2024",
+        "bullets": [
+          "Automated variance reporting in SQL, saving 6 analyst hours per month.",
+          "Owned the quarterly forecast for a 58 million dollar product line.",
+          "Presented monthly results to a committee of 22 executives."
+        ]
+      },
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Associate Financial Analyst",
+        "start_date": "2018",
+        "end_date": "2022",
+        "bullets": [
+          "Owned the quarterly forecast for a 43 million dollar product line.",
+          "Presented monthly results to a committee of 40 executives.",
+          "Automated variance reporting in SQL, saving 2 analyst hours per month."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2018"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      248,
+      259
+    ],
+    "skills[1]": [
+      261,
+      264
+    ],
+    "skills[2]": [
+      266,
+      269
+    ],
+    "skills[3]": [
+      271,
+      276
+    ],
+    "work[0].company": [
+      297,
+      313
+    ],
+    "work[0].title": [
+      316,
+      333
+    ],
+    "work[0].date": [
+      335,
+      339
+    ],
+    "work[0].bullets[0]": [
+      348,
+      418
+    ],
+    "work[0].bullets[1]": [
+      421,
+      487
+    ],
+    "work[0].bullets[2]": [
+      490,
+      548
+    ],
+    "work[1].company": [
+      550,
+      574
+    ],
+    "work[1].title": [
+      577,
+      604
+    ],
+    "work[1].date": [
+      606,
+      610
+    ],
+    "work[1].bullets[0]": [
+      619,
+      685
+    ],
+    "work[1].bullets[1]": [
+      688,
+      746
+    ],
+    "work[1].bullets[2]": [
+      749,
+      819
+    ],
+    "education[0].institution": [
+      844,
+      877
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Priya Lindqvist",
+    "skills[0]": "Forecasting",
+    "skills[1]": "SQL",
+    "skills[2]": "SAP",
+    "skills[3]": "Excel",
+    "work[0].company": "Silverpine Media",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2023",
+    "work[0].bullets[0]": "Automated variance reporting in SQL, saving 6 analyst hours per month.",
+    "work[0].bullets[1]": "Owned the quarterly forecast for a 58 million dollar product line.",
+    "work[0].bullets[2]": "Presented monthly results to a committee of 22 executives.",
+    "work[1].company": "Vantage Point Consulting",
+    "work[1].title": "Associate Financial Analyst",
+    "work[1].date": "2018",
+    "work[1].bullets[0]": "Owned the quarterly forecast for a 43 million dollar product line.",
+    "work[1].bullets[1]": "Presented monthly results to a committee of 40 executives.",
+    "work[1].bullets[2]": "Automated variance reporting in SQL, saving 2 analyst hours per month.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

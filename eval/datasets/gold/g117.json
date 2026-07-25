@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Leilani Novak",
+    "headline": "Financial Analyst",
+    "summary": "Financial Analyst with 13 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Variance Analysis",
+      "Forecasting",
+      "SAP",
+      "SQL",
+      "Tableau",
+      "Excel"
+    ],
+    "work": [
+      {
+        "company": "Silverpine Media",
+        "title": "Financial Analyst",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Owned the quarterly forecast for a 53 million dollar product line.",
+          "Presented monthly results to a committee of 48 executives."
+        ]
+      },
+      {
+        "company": "Northwind Systems",
+        "title": "Junior Financial Analyst",
+        "start_date": "2018",
+        "end_date": "2022",
+        "bullets": [
+          "Owned the quarterly forecast for a 20 million dollar product line.",
+          "Automated variance reporting in SQL, saving 59 analyst hours per month.",
+          "Presented monthly results to a committee of 14 executives."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2018"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      245,
+      262
+    ],
+    "skills[1]": [
+      264,
+      275
+    ],
+    "skills[2]": [
+      277,
+      280
+    ],
+    "skills[3]": [
+      282,
+      285
+    ],
+    "skills[4]": [
+      287,
+      294
+    ],
+    "skills[5]": [
+      296,
+      301
+    ],
+    "work[0].company": [
+      319,
+      335
+    ],
+    "work[0].title": [
+      338,
+      355
+    ],
+    "work[0].date": [
+      357,
+      361
+    ],
+    "work[0].bullets[0]": [
+      370,
+      436
+    ],
+    "work[0].bullets[1]": [
+      439,
+      497
+    ],
+    "work[1].company": [
+      499,
+      516
+    ],
+    "work[1].title": [
+      519,
+      543
+    ],
+    "work[1].date": [
+      545,
+      549
+    ],
+    "work[1].bullets[0]": [
+      558,
+      624
+    ],
+    "work[1].bullets[1]": [
+      627,
+      698
+    ],
+    "work[1].bullets[2]": [
+      701,
+      759
+    ],
+    "education[0].institution": [
+      771,
+      787
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Leilani Novak",
+    "skills[0]": "Variance Analysis",
+    "skills[1]": "Forecasting",
+    "skills[2]": "SAP",
+    "skills[3]": "SQL",
+    "skills[4]": "Tableau",
+    "skills[5]": "Excel",
+    "work[0].company": "Silverpine Media",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Owned the quarterly forecast for a 53 million dollar product line.",
+    "work[0].bullets[1]": "Presented monthly results to a committee of 48 executives.",
+    "work[1].company": "Northwind Systems",
+    "work[1].title": "Junior Financial Analyst",
+    "work[1].date": "2018",
+    "work[1].bullets[0]": "Owned the quarterly forecast for a 20 million dollar product line.",
+    "work[1].bullets[1]": "Automated variance reporting in SQL, saving 59 analyst hours per month.",
+    "work[1].bullets[2]": "Presented monthly results to a committee of 14 executives.",
+    "education[0].institution": "State University"
+  }
+}

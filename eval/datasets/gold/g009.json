@@ -1,0 +1,92 @@
+{
+  "gold": {
+    "name": "Tomas Mbeki",
+    "headline": "Financial Analyst",
+    "summary": "Financial Analyst with 8 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Excel",
+      "SAP",
+      "Tableau",
+      "Variance Analysis"
+    ],
+    "work": [
+      {
+        "company": "Cobalt Interactive",
+        "title": "Financial Analyst",
+        "start_date": "2024",
+        "end_date": "2025",
+        "bullets": [
+          "Presented monthly results to a committee of 38 executives.",
+          "Owned the quarterly forecast for a 55 million dollar product line."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2024"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      230,
+      235
+    ],
+    "skills[1]": [
+      237,
+      240
+    ],
+    "skills[2]": [
+      242,
+      249
+    ],
+    "skills[3]": [
+      251,
+      268
+    ],
+    "work[0].company": [
+      286,
+      304
+    ],
+    "work[0].title": [
+      307,
+      324
+    ],
+    "work[0].date": [
+      326,
+      330
+    ],
+    "work[0].bullets[0]": [
+      339,
+      397
+    ],
+    "work[0].bullets[1]": [
+      400,
+      466
+    ],
+    "education[0].institution": [
+      491,
+      524
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Tomas Mbeki",
+    "skills[0]": "Excel",
+    "skills[1]": "SAP",
+    "skills[2]": "Tableau",
+    "skills[3]": "Variance Analysis",
+    "work[0].company": "Cobalt Interactive",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2024",
+    "work[0].bullets[0]": "Presented monthly results to a committee of 38 executives.",
+    "work[0].bullets[1]": "Owned the quarterly forecast for a 55 million dollar product line.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

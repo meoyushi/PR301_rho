@@ -1,0 +1,22 @@
+Omar Fairbanks
+Data Engineer
+omar.fairbanks@example.com
+
+SUMMARY
+Hands-on Data Engineer who has spent 13 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+SKILL HIGHLIGHTS
+Airflow, Kafka, SQL, Snowflake, Spark
+
+EMPLOYMENT HISTORY
+Brightline Analytics — Data Engineer (2018–2021)
+- Migrated 22 legacy ETL jobs from cron to Airflow, cutting failures by 31%.
+- Built streaming ingestion pipelines processing 18 TB of event data daily.
+
+Lantern Software — Associate Data Engineer (2014–2017)
+- Modelled the warehouse layer in dbt across 59 source systems.
+- Migrated 37 legacy ETL jobs from cron to Airflow, cutting failures by 11%.
+- Built streaming ingestion pipelines processing 18 TB of event data daily.
+
+EDUCATION AND TRAINING
+State University — B.S. Computer Science, 2014

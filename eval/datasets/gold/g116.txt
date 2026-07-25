@@ -1,0 +1,25 @@
+Amara Aubert
+Mechanical Engineer
+amara.aubert@example.com
+
+SUMMARY
+Mechanical Engineer with 5 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+SKILL HIGHLIGHTS
+MATLAB, GD&T, AutoCAD, Six Sigma, SolidWorks, FEA
+
+WORK EXPERIENCE
+Lantern Software — Mechanical Engineer (2020–2021)
+- Cut part cost 39% through a design-for-manufacture review.
+- Designed 54 injection-moulded assemblies released to production.
+
+Northwind Systems — Associate Mechanical Engineer (2016–2019)
+- Cut part cost 19% through a design-for-manufacture review.
+- Ran FEA validation on 23 structural components.
+
+Ironwood Robotics — Junior Mechanical Engineer (2012–2015)
+- Ran FEA validation on 55 structural components.
+- Designed 30 injection-moulded assemblies released to production.
+
+EDUCATION AND TRAINING
+Northgate College — M.B.A. Business Administration, 2012

@@ -1,0 +1,18 @@
+Malik Novak
+Mechanical Engineer
+malik.novak@example.com
+
+SUMMARY
+Mechanical Engineer with 7 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+TECHNICAL SKILLS
+FEA, GD&T, MATLAB, AutoCAD, Six Sigma, SolidWorks
+
+WORK EXPERIENCE
+Harborview Logistics — Mechanical Engineer (2020–2021)
+- Ran FEA validation on 35 structural components.
+- Cut part cost 34% through a design-for-manufacture review.
+- Designed 7 injection-moulded assemblies released to production.
+
+EDUCATION
+Fairmont State College — M.B.A. Business Administration, 2020

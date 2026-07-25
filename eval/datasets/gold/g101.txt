@@ -1,0 +1,21 @@
+Idris Hyun
+Financial Analyst
+idris.hyun@example.com
+
+PROFILE
+Financial Analyst with 9 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+SKILLS
+Tableau, Excel, Variance Analysis, SQL, SAP
+
+PROFESSIONAL EXPERIENCE
+Northwind Systems — Financial Analyst (2021–2023)
+- Owned the quarterly forecast for a 15 million dollar product line.
+- Automated variance reporting in SQL, saving 13 analyst hours per month.
+
+Cobalt Interactive — Junior Financial Analyst (2019–2020)
+- Automated variance reporting in SQL, saving 13 analyst hours per month.
+- Owned the quarterly forecast for a 7 million dollar product line.
+
+EDUCATION
+Ashford Polytechnic — B.S. Information Systems, 2019

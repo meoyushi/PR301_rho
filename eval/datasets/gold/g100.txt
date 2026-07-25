@@ -1,0 +1,17 @@
+Malik Lindqvist
+Data Engineer
+malik.lindqvist@example.com
+
+PROFILE
+Data Engineer with 14 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+CORE COMPETENCIES
+Snowflake, Python, Kafka, Spark, dbt, Airflow
+
+EMPLOYMENT HISTORY
+Harborview Logistics — Data Engineer (2021–2023)
+- Built streaming ingestion pipelines processing 3 TB of event data daily.
+- Modelled the warehouse layer in dbt across 10 source systems.
+
+EDUCATION
+Ashford Polytechnic — B.S. Computer Science, 2021

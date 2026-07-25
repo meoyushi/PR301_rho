@@ -1,0 +1,151 @@
+{
+  "gold": {
+    "name": "Ingrid Ramachandran",
+    "headline": "Registered Nurse",
+    "summary": "Registered Nurse with 13 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "ACLS",
+      "EPIC",
+      "Patient Care",
+      "Phlebotomy",
+      "IV Therapy",
+      "Triage"
+    ],
+    "work": [
+      {
+        "company": "Blue Harbor Energy",
+        "title": "Registered Nurse",
+        "start_date": "2021",
+        "end_date": "2023",
+        "bullets": [
+          "Managed a 44 bed unit across rotating night shifts.",
+          "Trained 9 new graduate nurses on EPIC charting workflows.",
+          "Maintained medication accuracy above 25% across audits."
+        ]
+      },
+      {
+        "company": "Northwind Systems",
+        "title": "Junior Registered Nurse",
+        "start_date": "2020",
+        "end_date": "2021",
+        "bullets": [
+          "Trained 8 new graduate nurses on EPIC charting workflows.",
+          "Maintained medication accuracy above 26% across audits.",
+          "Managed a 22 bed unit across rotating night shifts."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      19
+    ],
+    "skills[0]": [
+      269,
+      273
+    ],
+    "skills[1]": [
+      275,
+      279
+    ],
+    "skills[2]": [
+      281,
+      293
+    ],
+    "skills[3]": [
+      295,
+      305
+    ],
+    "skills[4]": [
+      307,
+      317
+    ],
+    "skills[5]": [
+      319,
+      325
+    ],
+    "work[0].company": [
+      351,
+      369
+    ],
+    "work[0].title": [
+      372,
+      388
+    ],
+    "work[0].date": [
+      390,
+      394
+    ],
+    "work[0].bullets[0]": [
+      403,
+      454
+    ],
+    "work[0].bullets[1]": [
+      457,
+      514
+    ],
+    "work[0].bullets[2]": [
+      517,
+      572
+    ],
+    "work[1].company": [
+      574,
+      591
+    ],
+    "work[1].title": [
+      594,
+      617
+    ],
+    "work[1].date": [
+      619,
+      623
+    ],
+    "work[1].bullets[0]": [
+      632,
+      689
+    ],
+    "work[1].bullets[1]": [
+      692,
+      747
+    ],
+    "work[1].bullets[2]": [
+      750,
+      801
+    ],
+    "education[0].institution": [
+      813,
+      846
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Ingrid Ramachandran",
+    "skills[0]": "ACLS",
+    "skills[1]": "EPIC",
+    "skills[2]": "Patient Care",
+    "skills[3]": "Phlebotomy",
+    "skills[4]": "IV Therapy",
+    "skills[5]": "Triage",
+    "work[0].company": "Blue Harbor Energy",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Managed a 44 bed unit across rotating night shifts.",
+    "work[0].bullets[1]": "Trained 9 new graduate nurses on EPIC charting workflows.",
+    "work[0].bullets[2]": "Maintained medication accuracy above 25% across audits.",
+    "work[1].company": "Northwind Systems",
+    "work[1].title": "Junior Registered Nurse",
+    "work[1].date": "2020",
+    "work[1].bullets[0]": "Trained 8 new graduate nurses on EPIC charting workflows.",
+    "work[1].bullets[1]": "Maintained medication accuracy above 26% across audits.",
+    "work[1].bullets[2]": "Managed a 22 bed unit across rotating night shifts.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

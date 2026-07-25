@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Tomas Lindqvist",
+    "headline": "Data Engineer",
+    "summary": "Hands-on Data Engineer who has spent 8 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Snowflake",
+      "SQL",
+      "Airflow",
+      "Python",
+      "AWS",
+      "Spark"
+    ],
+    "work": [
+      {
+        "company": "Silverpine Media",
+        "title": "Data Engineer",
+        "start_date": "2024",
+        "end_date": "2025",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 36 source systems.",
+          "Migrated 59 legacy ETL jobs from cron to Airflow, cutting failures by 33%."
+        ]
+      },
+      {
+        "company": "Copperfield Retail",
+        "title": "Associate Data Engineer",
+        "start_date": "2020",
+        "end_date": "2023",
+        "bullets": [
+          "Migrated 31 legacy ETL jobs from cron to Airflow, cutting failures by 10%.",
+          "Modelled the warehouse layer in dbt across 15 source systems."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      227,
+      236
+    ],
+    "skills[1]": [
+      238,
+      241
+    ],
+    "skills[2]": [
+      243,
+      250
+    ],
+    "skills[3]": [
+      252,
+      258
+    ],
+    "skills[4]": [
+      260,
+      263
+    ],
+    "skills[5]": [
+      265,
+      270
+    ],
+    "work[0].company": [
+      291,
+      307
+    ],
+    "work[0].title": [
+      310,
+      323
+    ],
+    "work[0].date": [
+      325,
+      329
+    ],
+    "work[0].bullets[0]": [
+      338,
+      399
+    ],
+    "work[0].bullets[1]": [
+      402,
+      476
+    ],
+    "work[1].company": [
+      478,
+      496
+    ],
+    "work[1].title": [
+      499,
+      522
+    ],
+    "work[1].date": [
+      524,
+      528
+    ],
+    "work[1].bullets[0]": [
+      537,
+      611
+    ],
+    "work[1].bullets[1]": [
+      614,
+      675
+    ],
+    "education[0].institution": [
+      700,
+      717
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Tomas Lindqvist",
+    "skills[0]": "Snowflake",
+    "skills[1]": "SQL",
+    "skills[2]": "Airflow",
+    "skills[3]": "Python",
+    "skills[4]": "AWS",
+    "skills[5]": "Spark",
+    "work[0].company": "Silverpine Media",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2024",
+    "work[0].bullets[0]": "Modelled the warehouse layer in dbt across 36 source systems.",
+    "work[0].bullets[1]": "Migrated 59 legacy ETL jobs from cron to Airflow, cutting failures by 33%.",
+    "work[1].company": "Copperfield Retail",
+    "work[1].title": "Associate Data Engineer",
+    "work[1].date": "2020",
+    "work[1].bullets[0]": "Migrated 31 legacy ETL jobs from cron to Airflow, cutting failures by 10%.",
+    "work[1].bullets[1]": "Modelled the warehouse layer in dbt across 15 source systems.",
+    "education[0].institution": "Northgate College"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "gold": {
+    "name": "Rowan Fairbanks",
+    "headline": "Data Engineer",
+    "summary": "Hands-on Data Engineer who has spent 14 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Kafka",
+      "Airflow",
+      "dbt",
+      "Python",
+      "SQL"
+    ],
+    "work": [
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Data Engineer",
+        "start_date": "2020",
+        "end_date": "2023",
+        "bullets": [
+          "Migrated 9 legacy ETL jobs from cron to Airflow, cutting failures by 19%.",
+          "Built streaming ingestion pipelines processing 27 TB of event data daily.",
+          "Modelled the warehouse layer in dbt across 29 source systems."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      227,
+      232
+    ],
+    "skills[1]": [
+      234,
+      241
+    ],
+    "skills[2]": [
+      243,
+      246
+    ],
+    "skills[3]": [
+      248,
+      254
+    ],
+    "skills[4]": [
+      256,
+      259
+    ],
+    "work[0].company": [
+      272,
+      296
+    ],
+    "work[0].title": [
+      299,
+      312
+    ],
+    "work[0].date": [
+      314,
+      318
+    ],
+    "work[0].bullets[0]": [
+      327,
+      400
+    ],
+    "work[0].bullets[1]": [
+      403,
+      476
+    ],
+    "work[0].bullets[2]": [
+      479,
+      540
+    ],
+    "education[0].institution": [
+      562,
+      579
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Rowan Fairbanks",
+    "skills[0]": "Kafka",
+    "skills[1]": "Airflow",
+    "skills[2]": "dbt",
+    "skills[3]": "Python",
+    "skills[4]": "SQL",
+    "work[0].company": "Vantage Point Consulting",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Migrated 9 legacy ETL jobs from cron to Airflow, cutting failures by 19%.",
+    "work[0].bullets[1]": "Built streaming ingestion pipelines processing 27 TB of event data daily.",
+    "work[0].bullets[2]": "Modelled the warehouse layer in dbt across 29 source systems.",
+    "education[0].institution": "Northgate College"
+  }
+}

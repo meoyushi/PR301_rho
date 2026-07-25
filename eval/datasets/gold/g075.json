@@ -1,0 +1,92 @@
+{
+  "gold": {
+    "name": "Omar Whitfield",
+    "headline": "Registered Nurse",
+    "summary": "Hands-on Registered Nurse who has spent 4 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "ACLS",
+      "Patient Care",
+      "Phlebotomy",
+      "IV Therapy"
+    ],
+    "work": [
+      {
+        "company": "Meridian Health Group",
+        "title": "Registered Nurse",
+        "start_date": "2021",
+        "end_date": "2023",
+        "bullets": [
+          "Trained 55 new graduate nurses on EPIC charting workflows.",
+          "Maintained medication accuracy above 12% across audits."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2021"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      14
+    ],
+    "skills[0]": [
+      230,
+      234
+    ],
+    "skills[1]": [
+      236,
+      248
+    ],
+    "skills[2]": [
+      250,
+      260
+    ],
+    "skills[3]": [
+      262,
+      272
+    ],
+    "work[0].company": [
+      293,
+      314
+    ],
+    "work[0].title": [
+      317,
+      333
+    ],
+    "work[0].date": [
+      335,
+      339
+    ],
+    "work[0].bullets[0]": [
+      348,
+      406
+    ],
+    "work[0].bullets[1]": [
+      409,
+      464
+    ],
+    "education[0].institution": [
+      476,
+      496
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Omar Whitfield",
+    "skills[0]": "ACLS",
+    "skills[1]": "Patient Care",
+    "skills[2]": "Phlebotomy",
+    "skills[3]": "IV Therapy",
+    "work[0].company": "Meridian Health Group",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Trained 55 new graduate nurses on EPIC charting workflows.",
+    "work[0].bullets[1]": "Maintained medication accuracy above 12% across audits.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

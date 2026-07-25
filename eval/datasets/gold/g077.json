@@ -1,0 +1,98 @@
+{
+  "gold": {
+    "name": "Priya Ramachandran",
+    "headline": "Mechanical Engineer",
+    "summary": "Hands-on Mechanical Engineer who has spent 10 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "SolidWorks",
+      "GD&T",
+      "FEA",
+      "Six Sigma",
+      "AutoCAD"
+    ],
+    "work": [
+      {
+        "company": "Lantern Software",
+        "title": "Mechanical Engineer",
+        "start_date": "2021",
+        "end_date": "2025",
+        "bullets": [
+          "Designed 46 injection-moulded assemblies released to production.",
+          "Ran FEA validation on 35 structural components."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2021"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      18
+    ],
+    "skills[0]": [
+      245,
+      255
+    ],
+    "skills[1]": [
+      257,
+      261
+    ],
+    "skills[2]": [
+      263,
+      266
+    ],
+    "skills[3]": [
+      268,
+      277
+    ],
+    "skills[4]": [
+      279,
+      286
+    ],
+    "work[0].company": [
+      299,
+      315
+    ],
+    "work[0].title": [
+      318,
+      337
+    ],
+    "work[0].date": [
+      339,
+      343
+    ],
+    "work[0].bullets[0]": [
+      352,
+      416
+    ],
+    "work[0].bullets[1]": [
+      419,
+      466
+    ],
+    "education[0].institution": [
+      488,
+      504
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Priya Ramachandran",
+    "skills[0]": "SolidWorks",
+    "skills[1]": "GD&T",
+    "skills[2]": "FEA",
+    "skills[3]": "Six Sigma",
+    "skills[4]": "AutoCAD",
+    "work[0].company": "Lantern Software",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Designed 46 injection-moulded assemblies released to production.",
+    "work[0].bullets[1]": "Ran FEA validation on 35 structural components.",
+    "education[0].institution": "State University"
+  }
+}

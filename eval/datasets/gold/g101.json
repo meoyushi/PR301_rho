@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Idris Hyun",
+    "headline": "Financial Analyst",
+    "summary": "Financial Analyst with 9 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Tableau",
+      "Excel",
+      "Variance Analysis",
+      "SQL",
+      "SAP"
+    ],
+    "work": [
+      {
+        "company": "Northwind Systems",
+        "title": "Financial Analyst",
+        "start_date": "2021",
+        "end_date": "2023",
+        "bullets": [
+          "Owned the quarterly forecast for a 15 million dollar product line.",
+          "Automated variance reporting in SQL, saving 13 analyst hours per month."
+        ]
+      },
+      {
+        "company": "Cobalt Interactive",
+        "title": "Junior Financial Analyst",
+        "start_date": "2019",
+        "end_date": "2020",
+        "bullets": [
+          "Automated variance reporting in SQL, saving 13 analyst hours per month.",
+          "Owned the quarterly forecast for a 7 million dollar product line."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      10
+    ],
+    "skills[0]": [
+      203,
+      210
+    ],
+    "skills[1]": [
+      212,
+      217
+    ],
+    "skills[2]": [
+      219,
+      236
+    ],
+    "skills[3]": [
+      238,
+      241
+    ],
+    "skills[4]": [
+      243,
+      246
+    ],
+    "work[0].company": [
+      272,
+      289
+    ],
+    "work[0].title": [
+      292,
+      309
+    ],
+    "work[0].date": [
+      311,
+      315
+    ],
+    "work[0].bullets[0]": [
+      324,
+      390
+    ],
+    "work[0].bullets[1]": [
+      393,
+      464
+    ],
+    "work[1].company": [
+      466,
+      484
+    ],
+    "work[1].title": [
+      487,
+      511
+    ],
+    "work[1].date": [
+      513,
+      517
+    ],
+    "work[1].bullets[0]": [
+      526,
+      597
+    ],
+    "work[1].bullets[1]": [
+      600,
+      665
+    ],
+    "education[0].institution": [
+      677,
+      696
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Idris Hyun",
+    "skills[0]": "Tableau",
+    "skills[1]": "Excel",
+    "skills[2]": "Variance Analysis",
+    "skills[3]": "SQL",
+    "skills[4]": "SAP",
+    "work[0].company": "Northwind Systems",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Owned the quarterly forecast for a 15 million dollar product line.",
+    "work[0].bullets[1]": "Automated variance reporting in SQL, saving 13 analyst hours per month.",
+    "work[1].company": "Cobalt Interactive",
+    "work[1].title": "Junior Financial Analyst",
+    "work[1].date": "2019",
+    "work[1].bullets[0]": "Automated variance reporting in SQL, saving 13 analyst hours per month.",
+    "work[1].bullets[1]": "Owned the quarterly forecast for a 7 million dollar product line.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

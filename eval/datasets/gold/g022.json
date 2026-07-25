@@ -1,0 +1,104 @@
+{
+  "gold": {
+    "name": "Ellis Hyun",
+    "headline": "Backend Engineer",
+    "summary": "Hands-on Backend Engineer who has spent 16 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Kubernetes",
+      "Kafka",
+      "Java",
+      "Go",
+      "Redis",
+      "PostgreSQL"
+    ],
+    "work": [
+      {
+        "company": "Silverpine Media",
+        "title": "Backend Engineer",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Led migration of 59 services onto Kubernetes.",
+          "Designed a gRPC service handling 40 thousand requests per second."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      10
+    ],
+    "skills[0]": [
+      223,
+      233
+    ],
+    "skills[1]": [
+      235,
+      240
+    ],
+    "skills[2]": [
+      242,
+      246
+    ],
+    "skills[3]": [
+      248,
+      250
+    ],
+    "skills[4]": [
+      252,
+      257
+    ],
+    "skills[5]": [
+      259,
+      269
+    ],
+    "work[0].company": [
+      282,
+      298
+    ],
+    "work[0].title": [
+      301,
+      317
+    ],
+    "work[0].date": [
+      319,
+      323
+    ],
+    "work[0].bullets[0]": [
+      332,
+      377
+    ],
+    "work[0].bullets[1]": [
+      380,
+      445
+    ],
+    "education[0].institution": [
+      470,
+      489
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Ellis Hyun",
+    "skills[0]": "Kubernetes",
+    "skills[1]": "Kafka",
+    "skills[2]": "Java",
+    "skills[3]": "Go",
+    "skills[4]": "Redis",
+    "skills[5]": "PostgreSQL",
+    "work[0].company": "Silverpine Media",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Led migration of 59 services onto Kubernetes.",
+    "work[0].bullets[1]": "Designed a gRPC service handling 40 thousand requests per second.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

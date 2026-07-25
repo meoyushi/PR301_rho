@@ -1,0 +1,174 @@
+{
+  "gold": {
+    "name": "Omar Aubert",
+    "headline": "Mechanical Engineer",
+    "summary": "Hands-on Mechanical Engineer who has spent 9 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "MATLAB",
+      "GD&T",
+      "SolidWorks",
+      "Six Sigma"
+    ],
+    "work": [
+      {
+        "company": "Meridian Health Group",
+        "title": "Mechanical Engineer",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Ran FEA validation on 47 structural components.",
+          "Cut part cost 41% through a design-for-manufacture review.",
+          "Designed 2 injection-moulded assemblies released to production."
+        ]
+      },
+      {
+        "company": "Brightline Analytics",
+        "title": "Associate Mechanical Engineer",
+        "start_date": "2017",
+        "end_date": "2021",
+        "bullets": [
+          "Cut part cost 33% through a design-for-manufacture review.",
+          "Designed 24 injection-moulded assemblies released to production."
+        ]
+      },
+      {
+        "company": "Harborview Logistics",
+        "title": "Associate Mechanical Engineer",
+        "start_date": "2016",
+        "end_date": "2017",
+        "bullets": [
+          "Ran FEA validation on 42 structural components.",
+          "Designed 45 injection-moulded assemblies released to production.",
+          "Cut part cost 11% through a design-for-manufacture review."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2016"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      220,
+      226
+    ],
+    "skills[1]": [
+      228,
+      232
+    ],
+    "skills[2]": [
+      234,
+      244
+    ],
+    "skills[3]": [
+      246,
+      255
+    ],
+    "work[0].company": [
+      268,
+      289
+    ],
+    "work[0].title": [
+      292,
+      311
+    ],
+    "work[0].date": [
+      313,
+      317
+    ],
+    "work[0].bullets[0]": [
+      326,
+      373
+    ],
+    "work[0].bullets[1]": [
+      376,
+      434
+    ],
+    "work[0].bullets[2]": [
+      437,
+      500
+    ],
+    "work[1].company": [
+      502,
+      522
+    ],
+    "work[1].title": [
+      525,
+      554
+    ],
+    "work[1].date": [
+      556,
+      560
+    ],
+    "work[1].bullets[0]": [
+      569,
+      627
+    ],
+    "work[1].bullets[1]": [
+      630,
+      694
+    ],
+    "work[2].company": [
+      696,
+      716
+    ],
+    "work[2].title": [
+      719,
+      748
+    ],
+    "work[2].date": [
+      750,
+      754
+    ],
+    "work[2].bullets[0]": [
+      763,
+      810
+    ],
+    "work[2].bullets[1]": [
+      813,
+      877
+    ],
+    "work[2].bullets[2]": [
+      880,
+      938
+    ],
+    "education[0].institution": [
+      950,
+      967
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Omar Aubert",
+    "skills[0]": "MATLAB",
+    "skills[1]": "GD&T",
+    "skills[2]": "SolidWorks",
+    "skills[3]": "Six Sigma",
+    "work[0].company": "Meridian Health Group",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Ran FEA validation on 47 structural components.",
+    "work[0].bullets[1]": "Cut part cost 41% through a design-for-manufacture review.",
+    "work[0].bullets[2]": "Designed 2 injection-moulded assemblies released to production.",
+    "work[1].company": "Brightline Analytics",
+    "work[1].title": "Associate Mechanical Engineer",
+    "work[1].date": "2017",
+    "work[1].bullets[0]": "Cut part cost 33% through a design-for-manufacture review.",
+    "work[1].bullets[1]": "Designed 24 injection-moulded assemblies released to production.",
+    "work[2].company": "Harborview Logistics",
+    "work[2].title": "Associate Mechanical Engineer",
+    "work[2].date": "2016",
+    "work[2].bullets[0]": "Ran FEA validation on 42 structural components.",
+    "work[2].bullets[1]": "Designed 45 injection-moulded assemblies released to production.",
+    "work[2].bullets[2]": "Cut part cost 11% through a design-for-manufacture review.",
+    "education[0].institution": "Northgate College"
+  }
+}

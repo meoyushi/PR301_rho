@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Soren Okonkwo",
+    "headline": "Backend Engineer",
+    "summary": "Hands-on Backend Engineer who has spent 16 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Docker",
+      "Kafka",
+      "Go",
+      "Java"
+    ],
+    "work": [
+      {
+        "company": "Copperfield Retail",
+        "title": "Backend Engineer",
+        "start_date": "2018",
+        "end_date": "2022",
+        "bullets": [
+          "Led migration of 2 services onto Kubernetes.",
+          "Reduced p99 latency by 33% by introducing a Redis cache layer.",
+          "Designed a gRPC service handling 7 thousand requests per second."
+        ]
+      },
+      {
+        "company": "Ironwood Robotics",
+        "title": "Junior Backend Engineer",
+        "start_date": "2016",
+        "end_date": "2017",
+        "bullets": [
+          "Reduced p99 latency by 38% by introducing a Redis cache layer.",
+          "Designed a gRPC service handling 21 thousand requests per second."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2016"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      229,
+      235
+    ],
+    "skills[1]": [
+      237,
+      242
+    ],
+    "skills[2]": [
+      244,
+      246
+    ],
+    "skills[3]": [
+      248,
+      252
+    ],
+    "work[0].company": [
+      273,
+      291
+    ],
+    "work[0].title": [
+      294,
+      310
+    ],
+    "work[0].date": [
+      312,
+      316
+    ],
+    "work[0].bullets[0]": [
+      325,
+      369
+    ],
+    "work[0].bullets[1]": [
+      372,
+      434
+    ],
+    "work[0].bullets[2]": [
+      437,
+      501
+    ],
+    "work[1].company": [
+      503,
+      520
+    ],
+    "work[1].title": [
+      523,
+      546
+    ],
+    "work[1].date": [
+      548,
+      552
+    ],
+    "work[1].bullets[0]": [
+      561,
+      623
+    ],
+    "work[1].bullets[1]": [
+      626,
+      691
+    ],
+    "education[0].institution": [
+      716,
+      735
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Soren Okonkwo",
+    "skills[0]": "Docker",
+    "skills[1]": "Kafka",
+    "skills[2]": "Go",
+    "skills[3]": "Java",
+    "work[0].company": "Copperfield Retail",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2018",
+    "work[0].bullets[0]": "Led migration of 2 services onto Kubernetes.",
+    "work[0].bullets[1]": "Reduced p99 latency by 33% by introducing a Redis cache layer.",
+    "work[0].bullets[2]": "Designed a gRPC service handling 7 thousand requests per second.",
+    "work[1].company": "Ironwood Robotics",
+    "work[1].title": "Junior Backend Engineer",
+    "work[1].date": "2016",
+    "work[1].bullets[0]": "Reduced p99 latency by 38% by introducing a Redis cache layer.",
+    "work[1].bullets[1]": "Designed a gRPC service handling 21 thousand requests per second.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

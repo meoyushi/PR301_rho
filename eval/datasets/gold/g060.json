@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Soren Kowalski",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 6 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "HubSpot",
+      "Salesforce",
+      "SEO",
+      "Google Analytics"
+    ],
+    "work": [
+      {
+        "company": "Northwind Systems",
+        "title": "Marketing Manager",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Ran 35 A/B tests on lifecycle email, lifting conversion 38%.",
+          "Managed a 13 million dollar annual paid media budget.",
+          "Grew organic traffic 11% year over year through an SEO content programme."
+        ]
+      },
+      {
+        "company": "Ironwood Robotics",
+        "title": "Associate Marketing Manager",
+        "start_date": "2020",
+        "end_date": "2022",
+        "bullets": [
+          "Managed a 14 million dollar annual paid media budget.",
+          "Ran 44 A/B tests on lifecycle email, lifting conversion 35%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      14
+    ],
+    "skills[0]": [
+      259,
+      266
+    ],
+    "skills[1]": [
+      268,
+      278
+    ],
+    "skills[2]": [
+      280,
+      283
+    ],
+    "skills[3]": [
+      285,
+      301
+    ],
+    "work[0].company": [
+      319,
+      336
+    ],
+    "work[0].title": [
+      339,
+      356
+    ],
+    "work[0].date": [
+      358,
+      362
+    ],
+    "work[0].bullets[0]": [
+      371,
+      431
+    ],
+    "work[0].bullets[1]": [
+      434,
+      487
+    ],
+    "work[0].bullets[2]": [
+      490,
+      563
+    ],
+    "work[1].company": [
+      565,
+      582
+    ],
+    "work[1].title": [
+      585,
+      612
+    ],
+    "work[1].date": [
+      614,
+      618
+    ],
+    "work[1].bullets[0]": [
+      627,
+      680
+    ],
+    "work[1].bullets[1]": [
+      683,
+      743
+    ],
+    "education[0].institution": [
+      765,
+      784
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Soren Kowalski",
+    "skills[0]": "HubSpot",
+    "skills[1]": "Salesforce",
+    "skills[2]": "SEO",
+    "skills[3]": "Google Analytics",
+    "work[0].company": "Northwind Systems",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Ran 35 A/B tests on lifecycle email, lifting conversion 38%.",
+    "work[0].bullets[1]": "Managed a 13 million dollar annual paid media budget.",
+    "work[0].bullets[2]": "Grew organic traffic 11% year over year through an SEO content programme.",
+    "work[1].company": "Ironwood Robotics",
+    "work[1].title": "Associate Marketing Manager",
+    "work[1].date": "2020",
+    "work[1].bullets[0]": "Managed a 14 million dollar annual paid media budget.",
+    "work[1].bullets[1]": "Ran 44 A/B tests on lifecycle email, lifting conversion 35%.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

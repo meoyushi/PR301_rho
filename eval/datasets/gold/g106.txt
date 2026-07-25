@@ -1,0 +1,18 @@
+Dana Hyun
+Financial Analyst
+dana.hyun@example.com
+
+PROFESSIONAL SUMMARY
+Financial Analyst with 3 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+CORE COMPETENCIES
+Forecasting, Tableau, SAP, Variance Analysis, Excel
+
+EXPERIENCE
+Silverpine Media — Financial Analyst (2019–2021)
+- Owned the quarterly forecast for a 21 million dollar product line.
+- Presented monthly results to a committee of 45 executives.
+- Automated variance reporting in SQL, saving 30 analyst hours per month.
+
+ACADEMIC BACKGROUND
+Fairmont State College — B.A. Economics, 2019

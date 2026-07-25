@@ -1,0 +1,26 @@
+Priya Ramachandran
+Financial Analyst
+priya.ramachandran@example.com
+
+PROFILE
+Financial Analyst with 17 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+CORE COMPETENCIES
+Forecasting, Variance Analysis, SAP, Excel, SQL, Tableau
+
+PROFESSIONAL EXPERIENCE
+Blue Harbor Energy — Financial Analyst (2018–2022)
+- Automated variance reporting in SQL, saving 53 analyst hours per month.
+- Presented monthly results to a committee of 13 executives.
+
+Northwind Systems — Associate Financial Analyst (2015–2017)
+- Owned the quarterly forecast for a 54 million dollar product line.
+- Automated variance reporting in SQL, saving 28 analyst hours per month.
+- Presented monthly results to a committee of 33 executives.
+
+Trellis Financial — Junior Financial Analyst (2013–2014)
+- Automated variance reporting in SQL, saving 31 analyst hours per month.
+- Owned the quarterly forecast for a 51 million dollar product line.
+
+EDUCATION AND TRAINING
+Riverside Institute of Technology — B.S. Mechanical Engineering, 2013

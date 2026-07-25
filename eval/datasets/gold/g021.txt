@@ -1,0 +1,22 @@
+Ingrid Novak
+Data Engineer
+ingrid.novak@example.com
+
+PROFESSIONAL SUMMARY
+Data Engineer with 13 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+TECHNICAL SKILLS
+Snowflake, Airflow, Kafka, Spark, dbt
+
+WORK EXPERIENCE
+Copperfield Retail — Data Engineer (2019–2022)
+- Modelled the warehouse layer in dbt across 50 source systems.
+- Migrated 24 legacy ETL jobs from cron to Airflow, cutting failures by 28%.
+- Built streaming ingestion pipelines processing 53 TB of event data daily.
+
+Cobalt Interactive — Junior Data Engineer (2018–2019)
+- Modelled the warehouse layer in dbt across 3 source systems.
+- Built streaming ingestion pipelines processing 28 TB of event data daily.
+
+EDUCATION
+Lakeshore University — B.A. Economics, 2018

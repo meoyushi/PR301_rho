@@ -1,0 +1,18 @@
+Soren Whitfield
+Registered Nurse
+soren.whitfield@example.com
+
+PROFESSIONAL SUMMARY
+Registered Nurse with 14 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+TECHNICAL SKILLS
+Phlebotomy, Triage, ACLS, IV Therapy
+
+WORK EXPERIENCE
+Brightline Analytics — Registered Nurse (2019–2021)
+- Trained 60 new graduate nurses on EPIC charting workflows.
+- Maintained medication accuracy above 11% across audits.
+- Managed a 9 bed unit across rotating night shifts.
+
+ACADEMIC BACKGROUND
+Ashford Polytechnic — M.S. Data Science, 2019

@@ -1,0 +1,110 @@
+{
+  "gold": {
+    "name": "Nadia Aubert",
+    "headline": "Marketing Manager",
+    "summary": "Hands-on Marketing Manager who has spent 8 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Salesforce",
+      "SEO",
+      "A/B Testing",
+      "Copywriting",
+      "HubSpot",
+      "Google Analytics"
+    ],
+    "work": [
+      {
+        "company": "Trellis Financial",
+        "title": "Marketing Manager",
+        "start_date": "2023",
+        "end_date": "2025",
+        "bullets": [
+          "Ran 33 A/B tests on lifecycle email, lifting conversion 32%.",
+          "Grew organic traffic 45% year over year through an SEO content programme.",
+          "Managed a 30 million dollar annual paid media budget."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2023"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      12
+    ],
+    "skills[0]": [
+      228,
+      238
+    ],
+    "skills[1]": [
+      240,
+      243
+    ],
+    "skills[2]": [
+      245,
+      256
+    ],
+    "skills[3]": [
+      258,
+      269
+    ],
+    "skills[4]": [
+      271,
+      278
+    ],
+    "skills[5]": [
+      280,
+      296
+    ],
+    "work[0].company": [
+      314,
+      331
+    ],
+    "work[0].title": [
+      334,
+      351
+    ],
+    "work[0].date": [
+      353,
+      357
+    ],
+    "work[0].bullets[0]": [
+      366,
+      426
+    ],
+    "work[0].bullets[1]": [
+      429,
+      502
+    ],
+    "work[0].bullets[2]": [
+      505,
+      558
+    ],
+    "education[0].institution": [
+      583,
+      600
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Nadia Aubert",
+    "skills[0]": "Salesforce",
+    "skills[1]": "SEO",
+    "skills[2]": "A/B Testing",
+    "skills[3]": "Copywriting",
+    "skills[4]": "HubSpot",
+    "skills[5]": "Google Analytics",
+    "work[0].company": "Trellis Financial",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2023",
+    "work[0].bullets[0]": "Ran 33 A/B tests on lifecycle email, lifting conversion 32%.",
+    "work[0].bullets[1]": "Grew organic traffic 45% year over year through an SEO content programme.",
+    "work[0].bullets[2]": "Managed a 30 million dollar annual paid media budget.",
+    "education[0].institution": "Northgate College"
+  }
+}

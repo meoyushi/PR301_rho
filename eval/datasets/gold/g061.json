@@ -1,0 +1,174 @@
+{
+  "gold": {
+    "name": "Ellis Fairbanks",
+    "headline": "Data Engineer",
+    "summary": "Data Engineer with 15 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Kafka",
+      "Python",
+      "Airflow",
+      "Spark",
+      "AWS"
+    ],
+    "work": [
+      {
+        "company": "Northwind Systems",
+        "title": "Data Engineer",
+        "start_date": "2021",
+        "end_date": "2024",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 36 TB of event data daily.",
+          "Migrated 30 legacy ETL jobs from cron to Airflow, cutting failures by 35%."
+        ]
+      },
+      {
+        "company": "Blue Harbor Energy",
+        "title": "Junior Data Engineer",
+        "start_date": "2020",
+        "end_date": "2021",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 4 source systems.",
+          "Built streaming ingestion pipelines processing 5 TB of event data daily.",
+          "Migrated 6 legacy ETL jobs from cron to Airflow, cutting failures by 42%."
+        ]
+      },
+      {
+        "company": "Copperfield Retail",
+        "title": "Associate Data Engineer",
+        "start_date": "2018",
+        "end_date": "2020",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 29 source systems.",
+          "Migrated 33 legacy ETL jobs from cron to Airflow, cutting failures by 34%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2018"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      230,
+      235
+    ],
+    "skills[1]": [
+      237,
+      243
+    ],
+    "skills[2]": [
+      245,
+      252
+    ],
+    "skills[3]": [
+      254,
+      259
+    ],
+    "skills[4]": [
+      261,
+      264
+    ],
+    "work[0].company": [
+      277,
+      294
+    ],
+    "work[0].title": [
+      297,
+      310
+    ],
+    "work[0].date": [
+      312,
+      316
+    ],
+    "work[0].bullets[0]": [
+      325,
+      398
+    ],
+    "work[0].bullets[1]": [
+      401,
+      475
+    ],
+    "work[1].company": [
+      477,
+      495
+    ],
+    "work[1].title": [
+      498,
+      518
+    ],
+    "work[1].date": [
+      520,
+      524
+    ],
+    "work[1].bullets[0]": [
+      533,
+      593
+    ],
+    "work[1].bullets[1]": [
+      596,
+      668
+    ],
+    "work[1].bullets[2]": [
+      671,
+      744
+    ],
+    "work[2].company": [
+      746,
+      764
+    ],
+    "work[2].title": [
+      767,
+      790
+    ],
+    "work[2].date": [
+      792,
+      796
+    ],
+    "work[2].bullets[0]": [
+      805,
+      866
+    ],
+    "work[2].bullets[1]": [
+      869,
+      943
+    ],
+    "education[0].institution": [
+      968,
+      990
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Ellis Fairbanks",
+    "skills[0]": "Kafka",
+    "skills[1]": "Python",
+    "skills[2]": "Airflow",
+    "skills[3]": "Spark",
+    "skills[4]": "AWS",
+    "work[0].company": "Northwind Systems",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Built streaming ingestion pipelines processing 36 TB of event data daily.",
+    "work[0].bullets[1]": "Migrated 30 legacy ETL jobs from cron to Airflow, cutting failures by 35%.",
+    "work[1].company": "Blue Harbor Energy",
+    "work[1].title": "Junior Data Engineer",
+    "work[1].date": "2020",
+    "work[1].bullets[0]": "Modelled the warehouse layer in dbt across 4 source systems.",
+    "work[1].bullets[1]": "Built streaming ingestion pipelines processing 5 TB of event data daily.",
+    "work[1].bullets[2]": "Migrated 6 legacy ETL jobs from cron to Airflow, cutting failures by 42%.",
+    "work[2].company": "Copperfield Retail",
+    "work[2].title": "Associate Data Engineer",
+    "work[2].date": "2018",
+    "work[2].bullets[0]": "Modelled the warehouse layer in dbt across 29 source systems.",
+    "work[2].bullets[1]": "Migrated 33 legacy ETL jobs from cron to Airflow, cutting failures by 34%.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

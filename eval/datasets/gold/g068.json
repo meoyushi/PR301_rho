@@ -1,0 +1,174 @@
+{
+  "gold": {
+    "name": "Amara Hyun",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 11 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "A/B Testing",
+      "Google Analytics",
+      "SEO",
+      "Copywriting"
+    ],
+    "work": [
+      {
+        "company": "Trellis Financial",
+        "title": "Marketing Manager",
+        "start_date": "2020",
+        "end_date": "2023",
+        "bullets": [
+          "Grew organic traffic 23% year over year through an SEO content programme.",
+          "Ran 28 A/B tests on lifecycle email, lifting conversion 11%."
+        ]
+      },
+      {
+        "company": "Ironwood Robotics",
+        "title": "Junior Marketing Manager",
+        "start_date": "2017",
+        "end_date": "2019",
+        "bullets": [
+          "Grew organic traffic 20% year over year through an SEO content programme.",
+          "Managed a 38 million dollar annual paid media budget.",
+          "Ran 24 A/B tests on lifecycle email, lifting conversion 10%."
+        ]
+      },
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Associate Marketing Manager",
+        "start_date": "2014",
+        "end_date": "2016",
+        "bullets": [
+          "Grew organic traffic 36% year over year through an SEO content programme.",
+          "Ran 7 A/B tests on lifecycle email, lifting conversion 38%.",
+          "Managed a 18 million dollar annual paid media budget."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2014"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      10
+    ],
+    "skills[0]": [
+      239,
+      250
+    ],
+    "skills[1]": [
+      252,
+      268
+    ],
+    "skills[2]": [
+      270,
+      273
+    ],
+    "skills[3]": [
+      275,
+      286
+    ],
+    "work[0].company": [
+      304,
+      321
+    ],
+    "work[0].title": [
+      324,
+      341
+    ],
+    "work[0].date": [
+      343,
+      347
+    ],
+    "work[0].bullets[0]": [
+      356,
+      429
+    ],
+    "work[0].bullets[1]": [
+      432,
+      492
+    ],
+    "work[1].company": [
+      494,
+      511
+    ],
+    "work[1].title": [
+      514,
+      538
+    ],
+    "work[1].date": [
+      540,
+      544
+    ],
+    "work[1].bullets[0]": [
+      553,
+      626
+    ],
+    "work[1].bullets[1]": [
+      629,
+      682
+    ],
+    "work[1].bullets[2]": [
+      685,
+      745
+    ],
+    "work[2].company": [
+      747,
+      771
+    ],
+    "work[2].title": [
+      774,
+      801
+    ],
+    "work[2].date": [
+      803,
+      807
+    ],
+    "work[2].bullets[0]": [
+      816,
+      889
+    ],
+    "work[2].bullets[1]": [
+      892,
+      951
+    ],
+    "work[2].bullets[2]": [
+      954,
+      1007
+    ],
+    "education[0].institution": [
+      1019,
+      1052
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Amara Hyun",
+    "skills[0]": "A/B Testing",
+    "skills[1]": "Google Analytics",
+    "skills[2]": "SEO",
+    "skills[3]": "Copywriting",
+    "work[0].company": "Trellis Financial",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Grew organic traffic 23% year over year through an SEO content programme.",
+    "work[0].bullets[1]": "Ran 28 A/B tests on lifecycle email, lifting conversion 11%.",
+    "work[1].company": "Ironwood Robotics",
+    "work[1].title": "Junior Marketing Manager",
+    "work[1].date": "2017",
+    "work[1].bullets[0]": "Grew organic traffic 20% year over year through an SEO content programme.",
+    "work[1].bullets[1]": "Managed a 38 million dollar annual paid media budget.",
+    "work[1].bullets[2]": "Ran 24 A/B tests on lifecycle email, lifting conversion 10%.",
+    "work[2].company": "Vantage Point Consulting",
+    "work[2].title": "Associate Marketing Manager",
+    "work[2].date": "2014",
+    "work[2].bullets[0]": "Grew organic traffic 36% year over year through an SEO content programme.",
+    "work[2].bullets[1]": "Ran 7 A/B tests on lifecycle email, lifting conversion 38%.",
+    "work[2].bullets[2]": "Managed a 18 million dollar annual paid media budget.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

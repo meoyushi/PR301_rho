@@ -1,0 +1,119 @@
+{
+  "backend": "groq",
+  "pairs": 12,
+  "pairs_scored": 12,
+  "pairs_failed": 0,
+  "unsourced_shipped_gate_off": 0,
+  "unsourced_shipped_gate_on": 0,
+  "mean_fabrication_rate": 0.0,
+  "per_pair": [
+    {
+      "id": "backend-k8s",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 4.0
+    },
+    {
+      "id": "frontend-react",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 4.1
+    },
+    {
+      "id": "data-ml",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 4.3
+    },
+    {
+      "id": "devops-cloud",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 4.3
+    },
+    {
+      "id": "mobile-ios",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 3.9
+    },
+    {
+      "id": "security-eng",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 4.4
+    },
+    {
+      "id": "fullstack-node",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 3.8
+    },
+    {
+      "id": "qa-automation",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 4.4
+    },
+    {
+      "id": "pm-technical",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 3.8
+    },
+    {
+      "id": "data-engineer",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 4.3
+    },
+    {
+      "id": "sre-platform",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 3.6
+    },
+    {
+      "id": "embedded-firmware",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 4.3
+    }
+  ]
+}

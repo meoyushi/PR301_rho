@@ -1,0 +1,26 @@
+Soren Aubert
+Financial Analyst
+soren.aubert@example.com
+
+SUMMARY
+Financial Analyst with 10 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+CORE COMPETENCIES
+Variance Analysis, SAP, Forecasting, SQL, Excel
+
+EMPLOYMENT HISTORY
+Brightline Analytics — Financial Analyst (2020–2024)
+- Owned the quarterly forecast for a 51 million dollar product line.
+- Presented monthly results to a committee of 38 executives.
+
+Cobalt Interactive — Junior Financial Analyst (2018–2019)
+- Automated variance reporting in SQL, saving 3 analyst hours per month.
+- Owned the quarterly forecast for a 29 million dollar product line.
+
+Silverpine Media — Associate Financial Analyst (2014–2017)
+- Automated variance reporting in SQL, saving 30 analyst hours per month.
+- Owned the quarterly forecast for a 30 million dollar product line.
+- Presented monthly results to a committee of 53 executives.
+
+EDUCATION AND TRAINING
+Lakeshore University — B.S. Information Systems, 2014

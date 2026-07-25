@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Soren Kowalski",
+    "headline": "Marketing Manager",
+    "summary": "Hands-on Marketing Manager who has spent 10 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "SEO",
+      "Google Analytics",
+      "Salesforce",
+      "Copywriting",
+      "HubSpot",
+      "A/B Testing"
+    ],
+    "work": [
+      {
+        "company": "Lantern Software",
+        "title": "Marketing Manager",
+        "start_date": "2021",
+        "end_date": "2022",
+        "bullets": [
+          "Ran 47 A/B tests on lifecycle email, lifting conversion 11%.",
+          "Managed a 7 million dollar annual paid media budget.",
+          "Grew organic traffic 24% year over year through an SEO content programme."
+        ]
+      },
+      {
+        "company": "Brightline Analytics",
+        "title": "Junior Marketing Manager",
+        "start_date": "2019",
+        "end_date": "2020",
+        "bullets": [
+          "Managed a 51 million dollar annual paid media budget.",
+          "Grew organic traffic 20% year over year through an SEO content programme."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      14
+    ],
+    "skills[0]": [
+      233,
+      236
+    ],
+    "skills[1]": [
+      238,
+      254
+    ],
+    "skills[2]": [
+      256,
+      266
+    ],
+    "skills[3]": [
+      268,
+      279
+    ],
+    "skills[4]": [
+      281,
+      288
+    ],
+    "skills[5]": [
+      290,
+      301
+    ],
+    "work[0].company": [
+      322,
+      338
+    ],
+    "work[0].title": [
+      341,
+      358
+    ],
+    "work[0].date": [
+      360,
+      364
+    ],
+    "work[0].bullets[0]": [
+      373,
+      433
+    ],
+    "work[0].bullets[1]": [
+      436,
+      488
+    ],
+    "work[0].bullets[2]": [
+      491,
+      564
+    ],
+    "work[1].company": [
+      566,
+      586
+    ],
+    "work[1].title": [
+      589,
+      613
+    ],
+    "work[1].date": [
+      615,
+      619
+    ],
+    "work[1].bullets[0]": [
+      628,
+      681
+    ],
+    "work[1].bullets[1]": [
+      684,
+      757
+    ],
+    "education[0].institution": [
+      782,
+      804
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Soren Kowalski",
+    "skills[0]": "SEO",
+    "skills[1]": "Google Analytics",
+    "skills[2]": "Salesforce",
+    "skills[3]": "Copywriting",
+    "skills[4]": "HubSpot",
+    "skills[5]": "A/B Testing",
+    "work[0].company": "Lantern Software",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Ran 47 A/B tests on lifecycle email, lifting conversion 11%.",
+    "work[0].bullets[1]": "Managed a 7 million dollar annual paid media budget.",
+    "work[0].bullets[2]": "Grew organic traffic 24% year over year through an SEO content programme.",
+    "work[1].company": "Brightline Analytics",
+    "work[1].title": "Junior Marketing Manager",
+    "work[1].date": "2019",
+    "work[1].bullets[0]": "Managed a 51 million dollar annual paid media budget.",
+    "work[1].bullets[1]": "Grew organic traffic 20% year over year through an SEO content programme.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

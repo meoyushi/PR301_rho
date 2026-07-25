@@ -1,0 +1,110 @@
+{
+  "gold": {
+    "name": "Nadia Hyun",
+    "headline": "Mechanical Engineer",
+    "summary": "Hands-on Mechanical Engineer who has spent 11 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "AutoCAD",
+      "SolidWorks",
+      "GD&T",
+      "FEA",
+      "Six Sigma",
+      "MATLAB"
+    ],
+    "work": [
+      {
+        "company": "Ironwood Robotics",
+        "title": "Mechanical Engineer",
+        "start_date": "2020",
+        "end_date": "2024",
+        "bullets": [
+          "Ran FEA validation on 60 structural components.",
+          "Cut part cost 39% through a design-for-manufacture review.",
+          "Designed 60 injection-moulded assemblies released to production."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      10
+    ],
+    "skills[0]": [
+      243,
+      250
+    ],
+    "skills[1]": [
+      252,
+      262
+    ],
+    "skills[2]": [
+      264,
+      268
+    ],
+    "skills[3]": [
+      270,
+      273
+    ],
+    "skills[4]": [
+      275,
+      284
+    ],
+    "skills[5]": [
+      286,
+      292
+    ],
+    "work[0].company": [
+      318,
+      335
+    ],
+    "work[0].title": [
+      338,
+      357
+    ],
+    "work[0].date": [
+      359,
+      363
+    ],
+    "work[0].bullets[0]": [
+      372,
+      419
+    ],
+    "work[0].bullets[1]": [
+      422,
+      480
+    ],
+    "work[0].bullets[2]": [
+      483,
+      547
+    ],
+    "education[0].institution": [
+      559,
+      579
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Nadia Hyun",
+    "skills[0]": "AutoCAD",
+    "skills[1]": "SolidWorks",
+    "skills[2]": "GD&T",
+    "skills[3]": "FEA",
+    "skills[4]": "Six Sigma",
+    "skills[5]": "MATLAB",
+    "work[0].company": "Ironwood Robotics",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Ran FEA validation on 60 structural components.",
+    "work[0].bullets[1]": "Cut part cost 39% through a design-for-manufacture review.",
+    "work[0].bullets[2]": "Designed 60 injection-moulded assemblies released to production.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "gold": {
+    "name": "Viktor Lindqvist",
+    "headline": "Backend Engineer",
+    "summary": "Backend Engineer with 13 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Kafka",
+      "gRPC",
+      "PostgreSQL",
+      "Redis",
+      "Kubernetes"
+    ],
+    "work": [
+      {
+        "company": "Brightline Analytics",
+        "title": "Backend Engineer",
+        "start_date": "2021",
+        "end_date": "2022",
+        "bullets": [
+          "Led migration of 40 services onto Kubernetes.",
+          "Designed a gRPC service handling 40 thousand requests per second.",
+          "Reduced p99 latency by 43% by introducing a Redis cache layer."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2021"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      16
+    ],
+    "skills[0]": [
+      224,
+      229
+    ],
+    "skills[1]": [
+      231,
+      235
+    ],
+    "skills[2]": [
+      237,
+      247
+    ],
+    "skills[3]": [
+      249,
+      254
+    ],
+    "skills[4]": [
+      256,
+      266
+    ],
+    "work[0].company": [
+      292,
+      312
+    ],
+    "work[0].title": [
+      315,
+      331
+    ],
+    "work[0].date": [
+      333,
+      337
+    ],
+    "work[0].bullets[0]": [
+      346,
+      391
+    ],
+    "work[0].bullets[1]": [
+      394,
+      459
+    ],
+    "work[0].bullets[2]": [
+      462,
+      524
+    ],
+    "education[0].institution": [
+      536,
+      569
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Viktor Lindqvist",
+    "skills[0]": "Kafka",
+    "skills[1]": "gRPC",
+    "skills[2]": "PostgreSQL",
+    "skills[3]": "Redis",
+    "skills[4]": "Kubernetes",
+    "work[0].company": "Brightline Analytics",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Led migration of 40 services onto Kubernetes.",
+    "work[0].bullets[1]": "Designed a gRPC service handling 40 thousand requests per second.",
+    "work[0].bullets[2]": "Reduced p99 latency by 43% by introducing a Redis cache layer.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

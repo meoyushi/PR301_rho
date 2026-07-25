@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Ellis Hyun",
+    "headline": "Financial Analyst",
+    "summary": "Hands-on Financial Analyst who has spent 8 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Forecasting",
+      "SQL",
+      "Excel",
+      "Tableau",
+      "Variance Analysis"
+    ],
+    "work": [
+      {
+        "company": "Blue Harbor Energy",
+        "title": "Financial Analyst",
+        "start_date": "2021",
+        "end_date": "2023",
+        "bullets": [
+          "Owned the quarterly forecast for a 30 million dollar product line.",
+          "Presented monthly results to a committee of 26 executives."
+        ]
+      },
+      {
+        "company": "Cobalt Interactive",
+        "title": "Associate Financial Analyst",
+        "start_date": "2016",
+        "end_date": "2020",
+        "bullets": [
+          "Automated variance reporting in SQL, saving 56 analyst hours per month.",
+          "Owned the quarterly forecast for a 11 million dollar product line."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2016"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      10
+    ],
+    "skills[0]": [
+      224,
+      235
+    ],
+    "skills[1]": [
+      237,
+      240
+    ],
+    "skills[2]": [
+      242,
+      247
+    ],
+    "skills[3]": [
+      249,
+      256
+    ],
+    "skills[4]": [
+      258,
+      275
+    ],
+    "work[0].company": [
+      301,
+      319
+    ],
+    "work[0].title": [
+      322,
+      339
+    ],
+    "work[0].date": [
+      341,
+      345
+    ],
+    "work[0].bullets[0]": [
+      354,
+      420
+    ],
+    "work[0].bullets[1]": [
+      423,
+      481
+    ],
+    "work[1].company": [
+      483,
+      501
+    ],
+    "work[1].title": [
+      504,
+      531
+    ],
+    "work[1].date": [
+      533,
+      537
+    ],
+    "work[1].bullets[0]": [
+      546,
+      617
+    ],
+    "work[1].bullets[1]": [
+      620,
+      686
+    ],
+    "education[0].institution": [
+      698,
+      731
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Ellis Hyun",
+    "skills[0]": "Forecasting",
+    "skills[1]": "SQL",
+    "skills[2]": "Excel",
+    "skills[3]": "Tableau",
+    "skills[4]": "Variance Analysis",
+    "work[0].company": "Blue Harbor Energy",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Owned the quarterly forecast for a 30 million dollar product line.",
+    "work[0].bullets[1]": "Presented monthly results to a committee of 26 executives.",
+    "work[1].company": "Cobalt Interactive",
+    "work[1].title": "Associate Financial Analyst",
+    "work[1].date": "2016",
+    "work[1].bullets[0]": "Automated variance reporting in SQL, saving 56 analyst hours per month.",
+    "work[1].bullets[1]": "Owned the quarterly forecast for a 11 million dollar product line.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

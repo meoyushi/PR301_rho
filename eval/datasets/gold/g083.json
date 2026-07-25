@@ -1,0 +1,151 @@
+{
+  "gold": {
+    "name": "Amara Okonkwo",
+    "headline": "Marketing Manager",
+    "summary": "Hands-on Marketing Manager who has spent 17 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Salesforce",
+      "A/B Testing",
+      "HubSpot",
+      "Google Analytics",
+      "SEO",
+      "Copywriting"
+    ],
+    "work": [
+      {
+        "company": "Copperfield Retail",
+        "title": "Marketing Manager",
+        "start_date": "2019",
+        "end_date": "2022",
+        "bullets": [
+          "Grew organic traffic 38% year over year through an SEO content programme.",
+          "Ran 10 A/B tests on lifecycle email, lifting conversion 23%.",
+          "Managed a 4 million dollar annual paid media budget."
+        ]
+      },
+      {
+        "company": "Northwind Systems",
+        "title": "Associate Marketing Manager",
+        "start_date": "2016",
+        "end_date": "2018",
+        "bullets": [
+          "Grew organic traffic 40% year over year through an SEO content programme.",
+          "Ran 35 A/B tests on lifecycle email, lifting conversion 45%.",
+          "Managed a 11 million dollar annual paid media budget."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2016"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      231,
+      241
+    ],
+    "skills[1]": [
+      243,
+      254
+    ],
+    "skills[2]": [
+      256,
+      263
+    ],
+    "skills[3]": [
+      265,
+      281
+    ],
+    "skills[4]": [
+      283,
+      286
+    ],
+    "skills[5]": [
+      288,
+      299
+    ],
+    "work[0].company": [
+      312,
+      330
+    ],
+    "work[0].title": [
+      333,
+      350
+    ],
+    "work[0].date": [
+      352,
+      356
+    ],
+    "work[0].bullets[0]": [
+      365,
+      438
+    ],
+    "work[0].bullets[1]": [
+      441,
+      501
+    ],
+    "work[0].bullets[2]": [
+      504,
+      556
+    ],
+    "work[1].company": [
+      558,
+      575
+    ],
+    "work[1].title": [
+      578,
+      605
+    ],
+    "work[1].date": [
+      607,
+      611
+    ],
+    "work[1].bullets[0]": [
+      620,
+      693
+    ],
+    "work[1].bullets[1]": [
+      696,
+      756
+    ],
+    "work[1].bullets[2]": [
+      759,
+      812
+    ],
+    "education[0].institution": [
+      834,
+      853
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Amara Okonkwo",
+    "skills[0]": "Salesforce",
+    "skills[1]": "A/B Testing",
+    "skills[2]": "HubSpot",
+    "skills[3]": "Google Analytics",
+    "skills[4]": "SEO",
+    "skills[5]": "Copywriting",
+    "work[0].company": "Copperfield Retail",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Grew organic traffic 38% year over year through an SEO content programme.",
+    "work[0].bullets[1]": "Ran 10 A/B tests on lifecycle email, lifting conversion 23%.",
+    "work[0].bullets[2]": "Managed a 4 million dollar annual paid media budget.",
+    "work[1].company": "Northwind Systems",
+    "work[1].title": "Associate Marketing Manager",
+    "work[1].date": "2016",
+    "work[1].bullets[0]": "Grew organic traffic 40% year over year through an SEO content programme.",
+    "work[1].bullets[1]": "Ran 35 A/B tests on lifecycle email, lifting conversion 45%.",
+    "work[1].bullets[2]": "Managed a 11 million dollar annual paid media budget.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

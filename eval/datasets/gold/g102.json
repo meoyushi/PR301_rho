@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Ingrid Novak",
+    "headline": "Backend Engineer",
+    "summary": "Backend Engineer with 13 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Redis",
+      "Kubernetes",
+      "gRPC",
+      "Go",
+      "Kafka"
+    ],
+    "work": [
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Backend Engineer",
+        "start_date": "2021",
+        "end_date": "2023",
+        "bullets": [
+          "Designed a gRPC service handling 31 thousand requests per second.",
+          "Reduced p99 latency by 44% by introducing a Redis cache layer.",
+          "Led migration of 34 services onto Kubernetes."
+        ]
+      },
+      {
+        "company": "Harborview Logistics",
+        "title": "Junior Backend Engineer",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Designed a gRPC service handling 59 thousand requests per second.",
+          "Reduced p99 latency by 11% by introducing a Redis cache layer.",
+          "Led migration of 37 services onto Kubernetes."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      12
+    ],
+    "skills[0]": [
+      229,
+      234
+    ],
+    "skills[1]": [
+      236,
+      246
+    ],
+    "skills[2]": [
+      248,
+      252
+    ],
+    "skills[3]": [
+      254,
+      256
+    ],
+    "skills[4]": [
+      258,
+      263
+    ],
+    "work[0].company": [
+      281,
+      305
+    ],
+    "work[0].title": [
+      308,
+      324
+    ],
+    "work[0].date": [
+      326,
+      330
+    ],
+    "work[0].bullets[0]": [
+      339,
+      404
+    ],
+    "work[0].bullets[1]": [
+      407,
+      469
+    ],
+    "work[0].bullets[2]": [
+      472,
+      517
+    ],
+    "work[1].company": [
+      519,
+      539
+    ],
+    "work[1].title": [
+      542,
+      565
+    ],
+    "work[1].date": [
+      567,
+      571
+    ],
+    "work[1].bullets[0]": [
+      580,
+      645
+    ],
+    "work[1].bullets[1]": [
+      648,
+      710
+    ],
+    "work[1].bullets[2]": [
+      713,
+      758
+    ],
+    "education[0].institution": [
+      780,
+      800
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Ingrid Novak",
+    "skills[0]": "Redis",
+    "skills[1]": "Kubernetes",
+    "skills[2]": "gRPC",
+    "skills[3]": "Go",
+    "skills[4]": "Kafka",
+    "work[0].company": "Vantage Point Consulting",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Designed a gRPC service handling 31 thousand requests per second.",
+    "work[0].bullets[1]": "Reduced p99 latency by 44% by introducing a Redis cache layer.",
+    "work[0].bullets[2]": "Led migration of 34 services onto Kubernetes.",
+    "work[1].company": "Harborview Logistics",
+    "work[1].title": "Junior Backend Engineer",
+    "work[1].date": "2019",
+    "work[1].bullets[0]": "Designed a gRPC service handling 59 thousand requests per second.",
+    "work[1].bullets[1]": "Reduced p99 latency by 11% by introducing a Redis cache layer.",
+    "work[1].bullets[2]": "Led migration of 37 services onto Kubernetes.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Nadia Okonkwo",
+    "headline": "Financial Analyst",
+    "summary": "Financial Analyst with 14 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Tableau",
+      "Forecasting",
+      "Variance Analysis",
+      "Excel",
+      "SQL",
+      "SAP"
+    ],
+    "work": [
+      {
+        "company": "Ironwood Robotics",
+        "title": "Financial Analyst",
+        "start_date": "2021",
+        "end_date": "2024",
+        "bullets": [
+          "Presented monthly results to a committee of 4 executives.",
+          "Owned the quarterly forecast for a 17 million dollar product line.",
+          "Automated variance reporting in SQL, saving 22 analyst hours per month."
+        ]
+      },
+      {
+        "company": "Brightline Analytics",
+        "title": "Associate Financial Analyst",
+        "start_date": "2017",
+        "end_date": "2020",
+        "bullets": [
+          "Presented monthly results to a committee of 43 executives.",
+          "Automated variance reporting in SQL, saving 53 analyst hours per month."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2017"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      245,
+      252
+    ],
+    "skills[1]": [
+      254,
+      265
+    ],
+    "skills[2]": [
+      267,
+      284
+    ],
+    "skills[3]": [
+      286,
+      291
+    ],
+    "skills[4]": [
+      293,
+      296
+    ],
+    "skills[5]": [
+      298,
+      301
+    ],
+    "work[0].company": [
+      314,
+      331
+    ],
+    "work[0].title": [
+      334,
+      351
+    ],
+    "work[0].date": [
+      353,
+      357
+    ],
+    "work[0].bullets[0]": [
+      366,
+      423
+    ],
+    "work[0].bullets[1]": [
+      426,
+      492
+    ],
+    "work[0].bullets[2]": [
+      495,
+      566
+    ],
+    "work[1].company": [
+      568,
+      588
+    ],
+    "work[1].title": [
+      591,
+      618
+    ],
+    "work[1].date": [
+      620,
+      624
+    ],
+    "work[1].bullets[0]": [
+      633,
+      691
+    ],
+    "work[1].bullets[1]": [
+      694,
+      765
+    ],
+    "education[0].institution": [
+      777,
+      799
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Nadia Okonkwo",
+    "skills[0]": "Tableau",
+    "skills[1]": "Forecasting",
+    "skills[2]": "Variance Analysis",
+    "skills[3]": "Excel",
+    "skills[4]": "SQL",
+    "skills[5]": "SAP",
+    "work[0].company": "Ironwood Robotics",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Presented monthly results to a committee of 4 executives.",
+    "work[0].bullets[1]": "Owned the quarterly forecast for a 17 million dollar product line.",
+    "work[0].bullets[2]": "Automated variance reporting in SQL, saving 22 analyst hours per month.",
+    "work[1].company": "Brightline Analytics",
+    "work[1].title": "Associate Financial Analyst",
+    "work[1].date": "2017",
+    "work[1].bullets[0]": "Presented monthly results to a committee of 43 executives.",
+    "work[1].bullets[1]": "Automated variance reporting in SQL, saving 53 analyst hours per month.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

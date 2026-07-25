@@ -1,0 +1,26 @@
+Priya Mbeki
+Financial Analyst
+priya.mbeki@example.com
+
+SUMMARY
+Hands-on Financial Analyst who has spent 5 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+SKILL HIGHLIGHTS
+SQL, Forecasting, Variance Analysis, Excel, SAP
+
+PROFESSIONAL EXPERIENCE
+Trellis Financial — Financial Analyst (2018–2021)
+- Presented monthly results to a committee of 49 executives.
+- Automated variance reporting in SQL, saving 56 analyst hours per month.
+
+Blue Harbor Energy — Associate Financial Analyst (2017–2018)
+- Owned the quarterly forecast for a 11 million dollar product line.
+- Automated variance reporting in SQL, saving 38 analyst hours per month.
+
+Vantage Point Consulting — Junior Financial Analyst (2016–2017)
+- Presented monthly results to a committee of 54 executives.
+- Automated variance reporting in SQL, saving 5 analyst hours per month.
+- Owned the quarterly forecast for a 57 million dollar product line.
+
+EDUCATION AND TRAINING
+Riverside Institute of Technology — B.S. Computer Science, 2016

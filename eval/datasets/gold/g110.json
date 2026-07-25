@@ -1,0 +1,92 @@
+{
+  "gold": {
+    "name": "Viktor Hyun",
+    "headline": "Registered Nurse",
+    "summary": "Hands-on Registered Nurse who has spent 14 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "IV Therapy",
+      "ACLS",
+      "Triage",
+      "Patient Care"
+    ],
+    "work": [
+      {
+        "company": "Meridian Health Group",
+        "title": "Registered Nurse",
+        "start_date": "2023",
+        "end_date": "2024",
+        "bullets": [
+          "Trained 53 new graduate nurses on EPIC charting workflows.",
+          "Managed a 29 bed unit across rotating night shifts."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2023"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      238,
+      248
+    ],
+    "skills[1]": [
+      250,
+      254
+    ],
+    "skills[2]": [
+      256,
+      262
+    ],
+    "skills[3]": [
+      264,
+      276
+    ],
+    "work[0].company": [
+      302,
+      323
+    ],
+    "work[0].title": [
+      326,
+      342
+    ],
+    "work[0].date": [
+      344,
+      348
+    ],
+    "work[0].bullets[0]": [
+      357,
+      415
+    ],
+    "work[0].bullets[1]": [
+      418,
+      469
+    ],
+    "education[0].institution": [
+      481,
+      514
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Viktor Hyun",
+    "skills[0]": "IV Therapy",
+    "skills[1]": "ACLS",
+    "skills[2]": "Triage",
+    "skills[3]": "Patient Care",
+    "work[0].company": "Meridian Health Group",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2023",
+    "work[0].bullets[0]": "Trained 53 new graduate nurses on EPIC charting workflows.",
+    "work[0].bullets[1]": "Managed a 29 bed unit across rotating night shifts.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

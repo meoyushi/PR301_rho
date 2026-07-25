@@ -1,0 +1,18 @@
+Idris Whitfield
+Financial Analyst
+idris.whitfield@example.com
+
+PROFESSIONAL SUMMARY
+Hands-on Financial Analyst who has spent 9 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+CORE COMPETENCIES
+SAP, Tableau, Excel, Forecasting, SQL, Variance Analysis
+
+EMPLOYMENT HISTORY
+Trellis Financial — Financial Analyst (2019–2021)
+- Owned the quarterly forecast for a 48 million dollar product line.
+- Automated variance reporting in SQL, saving 13 analyst hours per month.
+- Presented monthly results to a committee of 56 executives.
+
+ACADEMIC BACKGROUND
+Northgate College — B.S. Information Systems, 2019

@@ -1,0 +1,98 @@
+{
+  "gold": {
+    "name": "Viktor Hyun",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 9 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Copywriting",
+      "Salesforce",
+      "Google Analytics",
+      "A/B Testing",
+      "SEO"
+    ],
+    "work": [
+      {
+        "company": "Ironwood Robotics",
+        "title": "Marketing Manager",
+        "start_date": "2022",
+        "end_date": "2024",
+        "bullets": [
+          "Ran 10 A/B tests on lifecycle email, lifting conversion 32%.",
+          "Managed a 41 million dollar annual paid media budget."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2022"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      218,
+      229
+    ],
+    "skills[1]": [
+      231,
+      241
+    ],
+    "skills[2]": [
+      243,
+      259
+    ],
+    "skills[3]": [
+      261,
+      272
+    ],
+    "skills[4]": [
+      274,
+      277
+    ],
+    "work[0].company": [
+      298,
+      315
+    ],
+    "work[0].title": [
+      318,
+      335
+    ],
+    "work[0].date": [
+      337,
+      341
+    ],
+    "work[0].bullets[0]": [
+      350,
+      410
+    ],
+    "work[0].bullets[1]": [
+      413,
+      466
+    ],
+    "education[0].institution": [
+      488,
+      521
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Viktor Hyun",
+    "skills[0]": "Copywriting",
+    "skills[1]": "Salesforce",
+    "skills[2]": "Google Analytics",
+    "skills[3]": "A/B Testing",
+    "skills[4]": "SEO",
+    "work[0].company": "Ironwood Robotics",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Ran 10 A/B tests on lifecycle email, lifting conversion 32%.",
+    "work[0].bullets[1]": "Managed a 41 million dollar annual paid media budget.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

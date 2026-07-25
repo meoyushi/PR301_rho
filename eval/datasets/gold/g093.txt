@@ -1,0 +1,22 @@
+Viktor Aubert
+Financial Analyst
+viktor.aubert@example.com
+
+PROFESSIONAL SUMMARY
+Hands-on Financial Analyst who has spent 8 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+SKILLS
+Excel, Variance Analysis, Tableau, SAP, Forecasting
+
+EMPLOYMENT HISTORY
+Brightline Analytics — Financial Analyst (2022–2023)
+- Owned the quarterly forecast for a 13 million dollar product line.
+- Presented monthly results to a committee of 50 executives.
+
+Silverpine Media — Junior Financial Analyst (2018–2022)
+- Presented monthly results to a committee of 46 executives.
+- Owned the quarterly forecast for a 25 million dollar product line.
+- Automated variance reporting in SQL, saving 39 analyst hours per month.
+
+EDUCATION
+Northgate College — B.S. Information Systems, 2018

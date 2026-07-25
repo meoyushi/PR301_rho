@@ -1,0 +1,104 @@
+{
+  "gold": {
+    "name": "Priya Whitfield",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 18 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "SEO",
+      "Google Analytics",
+      "HubSpot",
+      "Salesforce",
+      "A/B Testing",
+      "Copywriting"
+    ],
+    "work": [
+      {
+        "company": "Harborview Logistics",
+        "title": "Marketing Manager",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Ran 9 A/B tests on lifecycle email, lifting conversion 13%.",
+          "Managed a 35 million dollar annual paid media budget."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      263,
+      266
+    ],
+    "skills[1]": [
+      268,
+      284
+    ],
+    "skills[2]": [
+      286,
+      293
+    ],
+    "skills[3]": [
+      295,
+      305
+    ],
+    "skills[4]": [
+      307,
+      318
+    ],
+    "skills[5]": [
+      320,
+      331
+    ],
+    "work[0].company": [
+      357,
+      377
+    ],
+    "work[0].title": [
+      380,
+      397
+    ],
+    "work[0].date": [
+      399,
+      403
+    ],
+    "work[0].bullets[0]": [
+      412,
+      471
+    ],
+    "work[0].bullets[1]": [
+      474,
+      527
+    ],
+    "education[0].institution": [
+      552,
+      568
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Priya Whitfield",
+    "skills[0]": "SEO",
+    "skills[1]": "Google Analytics",
+    "skills[2]": "HubSpot",
+    "skills[3]": "Salesforce",
+    "skills[4]": "A/B Testing",
+    "skills[5]": "Copywriting",
+    "work[0].company": "Harborview Logistics",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Ran 9 A/B tests on lifecycle email, lifting conversion 13%.",
+    "work[0].bullets[1]": "Managed a 35 million dollar annual paid media budget.",
+    "education[0].institution": "State University"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "gold": {
+    "name": "Priya Mbeki",
+    "headline": "Financial Analyst",
+    "summary": "Hands-on Financial Analyst who has spent 5 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "SQL",
+      "Forecasting",
+      "Variance Analysis",
+      "Excel",
+      "SAP"
+    ],
+    "work": [
+      {
+        "company": "Trellis Financial",
+        "title": "Financial Analyst",
+        "start_date": "2018",
+        "end_date": "2021",
+        "bullets": [
+          "Presented monthly results to a committee of 49 executives.",
+          "Automated variance reporting in SQL, saving 56 analyst hours per month."
+        ]
+      },
+      {
+        "company": "Blue Harbor Energy",
+        "title": "Associate Financial Analyst",
+        "start_date": "2017",
+        "end_date": "2018",
+        "bullets": [
+          "Owned the quarterly forecast for a 11 million dollar product line.",
+          "Automated variance reporting in SQL, saving 38 analyst hours per month."
+        ]
+      },
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Junior Financial Analyst",
+        "start_date": "2016",
+        "end_date": "2017",
+        "bullets": [
+          "Presented monthly results to a committee of 54 executives.",
+          "Automated variance reporting in SQL, saving 5 analyst hours per month.",
+          "Owned the quarterly forecast for a 57 million dollar product line."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2016"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      226,
+      229
+    ],
+    "skills[1]": [
+      231,
+      242
+    ],
+    "skills[2]": [
+      244,
+      261
+    ],
+    "skills[3]": [
+      263,
+      268
+    ],
+    "skills[4]": [
+      270,
+      273
+    ],
+    "work[0].company": [
+      299,
+      316
+    ],
+    "work[0].title": [
+      319,
+      336
+    ],
+    "work[0].date": [
+      338,
+      342
+    ],
+    "work[0].bullets[0]": [
+      351,
+      409
+    ],
+    "work[0].bullets[1]": [
+      412,
+      483
+    ],
+    "work[1].company": [
+      485,
+      503
+    ],
+    "work[1].title": [
+      506,
+      533
+    ],
+    "work[1].date": [
+      535,
+      539
+    ],
+    "work[1].bullets[0]": [
+      548,
+      614
+    ],
+    "work[1].bullets[1]": [
+      617,
+      688
+    ],
+    "work[2].company": [
+      690,
+      714
+    ],
+    "work[2].title": [
+      717,
+      741
+    ],
+    "work[2].date": [
+      743,
+      747
+    ],
+    "work[2].bullets[0]": [
+      756,
+      814
+    ],
+    "work[2].bullets[1]": [
+      817,
+      887
+    ],
+    "work[2].bullets[2]": [
+      890,
+      956
+    ],
+    "education[0].institution": [
+      981,
+      1014
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Priya Mbeki",
+    "skills[0]": "SQL",
+    "skills[1]": "Forecasting",
+    "skills[2]": "Variance Analysis",
+    "skills[3]": "Excel",
+    "skills[4]": "SAP",
+    "work[0].company": "Trellis Financial",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2018",
+    "work[0].bullets[0]": "Presented monthly results to a committee of 49 executives.",
+    "work[0].bullets[1]": "Automated variance reporting in SQL, saving 56 analyst hours per month.",
+    "work[1].company": "Blue Harbor Energy",
+    "work[1].title": "Associate Financial Analyst",
+    "work[1].date": "2017",
+    "work[1].bullets[0]": "Owned the quarterly forecast for a 11 million dollar product line.",
+    "work[1].bullets[1]": "Automated variance reporting in SQL, saving 38 analyst hours per month.",
+    "work[2].company": "Vantage Point Consulting",
+    "work[2].title": "Junior Financial Analyst",
+    "work[2].date": "2016",
+    "work[2].bullets[0]": "Presented monthly results to a committee of 54 executives.",
+    "work[2].bullets[1]": "Automated variance reporting in SQL, saving 5 analyst hours per month.",
+    "work[2].bullets[2]": "Owned the quarterly forecast for a 57 million dollar product line.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

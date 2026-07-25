@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Malik Kowalski",
+    "headline": "Mechanical Engineer",
+    "summary": "Hands-on Mechanical Engineer who has spent 14 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "FEA",
+      "MATLAB",
+      "SolidWorks",
+      "Six Sigma",
+      "AutoCAD"
+    ],
+    "work": [
+      {
+        "company": "Harborview Logistics",
+        "title": "Mechanical Engineer",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Designed 14 injection-moulded assemblies released to production.",
+          "Ran FEA validation on 36 structural components.",
+          "Cut part cost 19% through a design-for-manufacture review."
+        ]
+      },
+      {
+        "company": "Trellis Financial",
+        "title": "Junior Mechanical Engineer",
+        "start_date": "2016",
+        "end_date": "2019",
+        "bullets": [
+          "Ran FEA validation on 41 structural components.",
+          "Designed 18 injection-moulded assemblies released to production.",
+          "Cut part cost 18% through a design-for-manufacture review."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2016"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      14
+    ],
+    "skills[0]": [
+      250,
+      253
+    ],
+    "skills[1]": [
+      255,
+      261
+    ],
+    "skills[2]": [
+      263,
+      273
+    ],
+    "skills[3]": [
+      275,
+      284
+    ],
+    "skills[4]": [
+      286,
+      293
+    ],
+    "work[0].company": [
+      306,
+      326
+    ],
+    "work[0].title": [
+      329,
+      348
+    ],
+    "work[0].date": [
+      350,
+      354
+    ],
+    "work[0].bullets[0]": [
+      363,
+      427
+    ],
+    "work[0].bullets[1]": [
+      430,
+      477
+    ],
+    "work[0].bullets[2]": [
+      480,
+      538
+    ],
+    "work[1].company": [
+      540,
+      557
+    ],
+    "work[1].title": [
+      560,
+      586
+    ],
+    "work[1].date": [
+      588,
+      592
+    ],
+    "work[1].bullets[0]": [
+      601,
+      648
+    ],
+    "work[1].bullets[1]": [
+      651,
+      715
+    ],
+    "work[1].bullets[2]": [
+      718,
+      776
+    ],
+    "education[0].institution": [
+      788,
+      808
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Malik Kowalski",
+    "skills[0]": "FEA",
+    "skills[1]": "MATLAB",
+    "skills[2]": "SolidWorks",
+    "skills[3]": "Six Sigma",
+    "skills[4]": "AutoCAD",
+    "work[0].company": "Harborview Logistics",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Designed 14 injection-moulded assemblies released to production.",
+    "work[0].bullets[1]": "Ran FEA validation on 36 structural components.",
+    "work[0].bullets[2]": "Cut part cost 19% through a design-for-manufacture review.",
+    "work[1].company": "Trellis Financial",
+    "work[1].title": "Junior Mechanical Engineer",
+    "work[1].date": "2016",
+    "work[1].bullets[0]": "Ran FEA validation on 41 structural components.",
+    "work[1].bullets[1]": "Designed 18 injection-moulded assemblies released to production.",
+    "work[1].bullets[2]": "Cut part cost 18% through a design-for-manufacture review.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

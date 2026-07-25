@@ -1,0 +1,104 @@
+{
+  "gold": {
+    "name": "Idris Novak",
+    "headline": "Mechanical Engineer",
+    "summary": "Mechanical Engineer with 7 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Six Sigma",
+      "MATLAB",
+      "SolidWorks",
+      "FEA",
+      "GD&T",
+      "AutoCAD"
+    ],
+    "work": [
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Mechanical Engineer",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Designed 60 injection-moulded assemblies released to production.",
+          "Cut part cost 12% through a design-for-manufacture review."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      232,
+      241
+    ],
+    "skills[1]": [
+      243,
+      249
+    ],
+    "skills[2]": [
+      251,
+      261
+    ],
+    "skills[3]": [
+      263,
+      266
+    ],
+    "skills[4]": [
+      268,
+      272
+    ],
+    "skills[5]": [
+      274,
+      281
+    ],
+    "work[0].company": [
+      302,
+      326
+    ],
+    "work[0].title": [
+      329,
+      348
+    ],
+    "work[0].date": [
+      350,
+      354
+    ],
+    "work[0].bullets[0]": [
+      363,
+      427
+    ],
+    "work[0].bullets[1]": [
+      430,
+      488
+    ],
+    "education[0].institution": [
+      510,
+      526
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Idris Novak",
+    "skills[0]": "Six Sigma",
+    "skills[1]": "MATLAB",
+    "skills[2]": "SolidWorks",
+    "skills[3]": "FEA",
+    "skills[4]": "GD&T",
+    "skills[5]": "AutoCAD",
+    "work[0].company": "Vantage Point Consulting",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Designed 60 injection-moulded assemblies released to production.",
+    "work[0].bullets[1]": "Cut part cost 12% through a design-for-manufacture review.",
+    "education[0].institution": "State University"
+  }
+}

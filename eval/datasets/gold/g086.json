@@ -1,0 +1,92 @@
+{
+  "gold": {
+    "name": "Idris Aubert",
+    "headline": "Financial Analyst",
+    "summary": "Financial Analyst with 11 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "SAP",
+      "Excel",
+      "Tableau",
+      "Forecasting"
+    ],
+    "work": [
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Financial Analyst",
+        "start_date": "2019",
+        "end_date": "2023",
+        "bullets": [
+          "Owned the quarterly forecast for a 21 million dollar product line.",
+          "Automated variance reporting in SQL, saving 30 analyst hours per month."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      12
+    ],
+    "skills[0]": [
+      233,
+      236
+    ],
+    "skills[1]": [
+      238,
+      243
+    ],
+    "skills[2]": [
+      245,
+      252
+    ],
+    "skills[3]": [
+      254,
+      265
+    ],
+    "work[0].company": [
+      286,
+      310
+    ],
+    "work[0].title": [
+      313,
+      330
+    ],
+    "work[0].date": [
+      332,
+      336
+    ],
+    "work[0].bullets[0]": [
+      345,
+      411
+    ],
+    "work[0].bullets[1]": [
+      414,
+      485
+    ],
+    "education[0].institution": [
+      507,
+      529
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Idris Aubert",
+    "skills[0]": "SAP",
+    "skills[1]": "Excel",
+    "skills[2]": "Tableau",
+    "skills[3]": "Forecasting",
+    "work[0].company": "Vantage Point Consulting",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Owned the quarterly forecast for a 21 million dollar product line.",
+    "work[0].bullets[1]": "Automated variance reporting in SQL, saving 30 analyst hours per month.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

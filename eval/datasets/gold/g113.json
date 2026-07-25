@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Rowan Fairbanks",
+    "headline": "Backend Engineer",
+    "summary": "Backend Engineer with 11 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Kafka",
+      "Java",
+      "gRPC",
+      "PostgreSQL",
+      "Redis",
+      "Go"
+    ],
+    "work": [
+      {
+        "company": "Lantern Software",
+        "title": "Backend Engineer",
+        "start_date": "2021",
+        "end_date": "2024",
+        "bullets": [
+          "Reduced p99 latency by 20% by introducing a Redis cache layer.",
+          "Designed a gRPC service handling 19 thousand requests per second."
+        ]
+      },
+      {
+        "company": "Copperfield Retail",
+        "title": "Associate Backend Engineer",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Reduced p99 latency by 14% by introducing a Redis cache layer.",
+          "Led migration of 45 services onto Kubernetes."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      223,
+      228
+    ],
+    "skills[1]": [
+      230,
+      234
+    ],
+    "skills[2]": [
+      236,
+      240
+    ],
+    "skills[3]": [
+      242,
+      252
+    ],
+    "skills[4]": [
+      254,
+      259
+    ],
+    "skills[5]": [
+      261,
+      263
+    ],
+    "work[0].company": [
+      281,
+      297
+    ],
+    "work[0].title": [
+      300,
+      316
+    ],
+    "work[0].date": [
+      318,
+      322
+    ],
+    "work[0].bullets[0]": [
+      331,
+      393
+    ],
+    "work[0].bullets[1]": [
+      396,
+      461
+    ],
+    "work[1].company": [
+      463,
+      481
+    ],
+    "work[1].title": [
+      484,
+      510
+    ],
+    "work[1].date": [
+      512,
+      516
+    ],
+    "work[1].bullets[0]": [
+      525,
+      587
+    ],
+    "work[1].bullets[1]": [
+      590,
+      635
+    ],
+    "education[0].institution": [
+      647,
+      669
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Rowan Fairbanks",
+    "skills[0]": "Kafka",
+    "skills[1]": "Java",
+    "skills[2]": "gRPC",
+    "skills[3]": "PostgreSQL",
+    "skills[4]": "Redis",
+    "skills[5]": "Go",
+    "work[0].company": "Lantern Software",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Reduced p99 latency by 20% by introducing a Redis cache layer.",
+    "work[0].bullets[1]": "Designed a gRPC service handling 19 thousand requests per second.",
+    "work[1].company": "Copperfield Retail",
+    "work[1].title": "Associate Backend Engineer",
+    "work[1].date": "2019",
+    "work[1].bullets[0]": "Reduced p99 latency by 14% by introducing a Redis cache layer.",
+    "work[1].bullets[1]": "Led migration of 45 services onto Kubernetes.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

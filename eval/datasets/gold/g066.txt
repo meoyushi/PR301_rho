@@ -1,0 +1,22 @@
+Priya Hyun
+Data Engineer
+priya.hyun@example.com
+
+SUMMARY
+Hands-on Data Engineer who has spent 10 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+TECHNICAL SKILLS
+Python, AWS, Kafka, SQL
+
+PROFESSIONAL EXPERIENCE
+Vantage Point Consulting — Data Engineer (2022–2025)
+- Built streaming ingestion pipelines processing 9 TB of event data daily.
+- Migrated 44 legacy ETL jobs from cron to Airflow, cutting failures by 41%.
+
+Silverpine Media — Junior Data Engineer (2017–2021)
+- Modelled the warehouse layer in dbt across 39 source systems.
+- Migrated 36 legacy ETL jobs from cron to Airflow, cutting failures by 39%.
+- Built streaming ingestion pipelines processing 43 TB of event data daily.
+
+EDUCATION AND TRAINING
+Lakeshore University — B.S. Information Systems, 2017

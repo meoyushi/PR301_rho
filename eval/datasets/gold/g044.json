@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Malik Castellanos",
+    "headline": "Backend Engineer",
+    "summary": "Backend Engineer with 18 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Redis",
+      "Go",
+      "PostgreSQL",
+      "Java"
+    ],
+    "work": [
+      {
+        "company": "Lantern Software",
+        "title": "Backend Engineer",
+        "start_date": "2019",
+        "end_date": "2023",
+        "bullets": [
+          "Designed a gRPC service handling 21 thousand requests per second.",
+          "Led migration of 36 services onto Kubernetes.",
+          "Reduced p99 latency by 40% by introducing a Redis cache layer."
+        ]
+      },
+      {
+        "company": "Blue Harbor Energy",
+        "title": "Junior Backend Engineer",
+        "start_date": "2014",
+        "end_date": "2018",
+        "bullets": [
+          "Led migration of 53 services onto Kubernetes.",
+          "Designed a gRPC service handling 16 thousand requests per second."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2014"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      17
+    ],
+    "skills[0]": [
+      251,
+      256
+    ],
+    "skills[1]": [
+      258,
+      260
+    ],
+    "skills[2]": [
+      262,
+      272
+    ],
+    "skills[3]": [
+      274,
+      278
+    ],
+    "work[0].company": [
+      304,
+      320
+    ],
+    "work[0].title": [
+      323,
+      339
+    ],
+    "work[0].date": [
+      341,
+      345
+    ],
+    "work[0].bullets[0]": [
+      354,
+      419
+    ],
+    "work[0].bullets[1]": [
+      422,
+      467
+    ],
+    "work[0].bullets[2]": [
+      470,
+      532
+    ],
+    "work[1].company": [
+      534,
+      552
+    ],
+    "work[1].title": [
+      555,
+      578
+    ],
+    "work[1].date": [
+      580,
+      584
+    ],
+    "work[1].bullets[0]": [
+      593,
+      638
+    ],
+    "work[1].bullets[1]": [
+      641,
+      706
+    ],
+    "education[0].institution": [
+      728,
+      748
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Malik Castellanos",
+    "skills[0]": "Redis",
+    "skills[1]": "Go",
+    "skills[2]": "PostgreSQL",
+    "skills[3]": "Java",
+    "work[0].company": "Lantern Software",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Designed a gRPC service handling 21 thousand requests per second.",
+    "work[0].bullets[1]": "Led migration of 36 services onto Kubernetes.",
+    "work[0].bullets[2]": "Reduced p99 latency by 40% by introducing a Redis cache layer.",
+    "work[1].company": "Blue Harbor Energy",
+    "work[1].title": "Junior Backend Engineer",
+    "work[1].date": "2014",
+    "work[1].bullets[0]": "Led migration of 53 services onto Kubernetes.",
+    "work[1].bullets[1]": "Designed a gRPC service handling 16 thousand requests per second.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

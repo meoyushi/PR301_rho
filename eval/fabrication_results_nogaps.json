@@ -1,0 +1,131 @@
+{
+  "pairs": 12,
+  "pairs_scored": 12,
+  "unsourced_shipped_gate_off": 15,
+  "unsourced_shipped_gate_on": 0,
+  "mean_fabrication_rate": 0.5625,
+  "per_pair": [
+    {
+      "id": "backend-k8s",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.5,
+      "rejected": [
+        "Software Engineer II"
+      ]
+    },
+    {
+      "id": "frontend-react",
+      "unsourced_off": 2,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Tech Solutions Inc.",
+        "Junior Web Developer"
+      ]
+    },
+    {
+      "id": "data-ml",
+      "unsourced_off": 2,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "GlobalTech Solutions",
+        "Junior Data Analyst"
+      ]
+    },
+    {
+      "id": "devops-cloud",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.5,
+      "rejected": [
+        "GlobalTech Solutions"
+      ]
+    },
+    {
+      "id": "mobile-ios",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": []
+    },
+    {
+      "id": "security-eng",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.5,
+      "rejected": [
+        "Acme Corp"
+      ]
+    },
+    {
+      "id": "fullstack-node",
+      "unsourced_off": 3,
+      "unsourced_on": 0,
+      "total_edits": 4,
+      "fabrication_rate": 0.75,
+      "rejected": [
+        "Acme Corp",
+        "Software Engineer I",
+        "Beta Solutions"
+      ]
+    },
+    {
+      "id": "qa-automation",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.5,
+      "rejected": [
+        "Acme Software Solutions"
+      ]
+    },
+    {
+      "id": "pm-technical",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.5,
+      "rejected": [
+        "Capstone Technologies"
+      ]
+    },
+    {
+      "id": "data-engineer",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.5,
+      "rejected": [
+        "Data Solutions Inc."
+      ]
+    },
+    {
+      "id": "sre-platform",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.5,
+      "rejected": [
+        "DataStream Solutions"
+      ]
+    },
+    {
+      "id": "embedded-firmware",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.5,
+      "rejected": [
+        "Apex Electronics"
+      ]
+    }
+  ]
+}

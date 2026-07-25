@@ -1,0 +1,22 @@
+Malik Hyun
+Registered Nurse
+malik.hyun@example.com
+
+PROFILE
+Hands-on Registered Nurse who has spent 17 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+TECHNICAL SKILLS
+IV Therapy, Triage, EPIC, ACLS
+
+EMPLOYMENT HISTORY
+Northwind Systems — Registered Nurse (2020–2023)
+- Trained 40 new graduate nurses on EPIC charting workflows.
+- Managed a 5 bed unit across rotating night shifts.
+- Maintained medication accuracy above 42% across audits.
+
+Blue Harbor Energy — Junior Registered Nurse (2017–2020)
+- Managed a 15 bed unit across rotating night shifts.
+- Maintained medication accuracy above 17% across audits.
+
+EDUCATION AND TRAINING
+State University — B.A. Economics, 2017

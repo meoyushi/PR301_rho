@@ -1,0 +1,17 @@
+Aiko Kowalski
+Data Engineer
+aiko.kowalski@example.com
+
+PROFILE
+Data Engineer with 6 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+SKILL HIGHLIGHTS
+Airflow, Python, Spark, SQL
+
+PROFESSIONAL EXPERIENCE
+Blue Harbor Energy — Data Engineer (2019–2021)
+- Built streaming ingestion pipelines processing 7 TB of event data daily.
+- Migrated 41 legacy ETL jobs from cron to Airflow, cutting failures by 21%.
+
+ACADEMIC BACKGROUND
+Lakeshore University — B.S. Computer Science, 2019

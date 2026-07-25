@@ -1,0 +1,331 @@
+{
+  "backend": "gemini",
+  "pairs": 30,
+  "pairs_scored": 30,
+  "pairs_failed": 0,
+  "unsourced_shipped_gate_off": 40,
+  "unsourced_shipped_gate_on": 0,
+  "mean_fabrication_rate": 0.2477777777777778,
+  "per_pair": [
+    {
+      "id": "corpus-0-0",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 1,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 2.4
+    },
+    {
+      "id": "corpus-0-1",
+      "unsourced_off": 8,
+      "unsourced_on": 0,
+      "total_edits": 10,
+      "fabrication_rate": 0.8,
+      "rejected": [
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "Customer Service",
+        "Communication",
+        "Personal Computer Proficiency",
+        "Provided high-level customer service and professional communication as a Placement Agent.",
+        "Utilized personal computer software including all Microsoft Office products (expert in Excel, proficient in Word and Outlook)."
+      ],
+      "seconds": 2.2
+    },
+    {
+      "id": "corpus-0-2",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 1,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 1.9
+    },
+    {
+      "id": "corpus-0-3",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 2.3
+    },
+    {
+      "id": "corpus-0-4",
+      "unsourced_off": 2,
+      "unsourced_on": 0,
+      "total_edits": 5,
+      "fabrication_rate": 0.4,
+      "rejected": [
+        "Performed tasks requiring basic math and numerical proficiency using 10-key.",
+        "Managed operational efficiency and payroll processes."
+      ],
+      "seconds": 2.1
+    },
+    {
+      "id": "corpus-0-5",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 2.6
+    },
+    {
+      "id": "corpus-0-6",
+      "unsourced_off": 8,
+      "unsourced_on": 0,
+      "total_edits": 8,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Project Management",
+        "Construction Practices",
+        "Microsoft Office",
+        "MS Project",
+        "Construction Practices: Extensive experience in land development, grading, infrastructure, street utility improvements, and public works.",
+        "Microsoft Office: Proficient in Word, Excel, Power Point, and Outlook.",
+        "MS Project: Utilized Microsoft Project for scheduling and project tracking.",
+        "Financial analysis: Track record of estimating and managing project budgets up to $225M."
+      ],
+      "seconds": 3.3
+    },
+    {
+      "id": "corpus-0-7",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 2.5
+    },
+    {
+      "id": "corpus-0-8",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 2.0
+    },
+    {
+      "id": "corpus-0-9",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 4,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 2.3
+    },
+    {
+      "id": "corpus-0-10",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 1,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Transitioned legacy IBM mainframe systems to distributed environments to improve scalability and cost efficiency."
+      ],
+      "seconds": 2.3
+    },
+    {
+      "id": "corpus-0-11",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 3,
+      "fabrication_rate": 0.3333333333333333,
+      "rejected": [
+        "Customer service"
+      ],
+      "seconds": 2.5
+    },
+    {
+      "id": "corpus-0-12",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 10.8
+    },
+    {
+      "id": "corpus-0-13",
+      "unsourced_off": 6,
+      "unsourced_on": 0,
+      "total_edits": 6,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Institutional kitchen operations",
+        "Kitchen sanitation and health code compliance",
+        "Team leadership and communication",
+        "Administrative management",
+        "Led entire Banquet and Garde Manger kitchen operations across 3 kitchens and 40,000 sq. ft. of banquet/meeting space, ensuring adherence to high-standard kitchen sanitation and health code regulations.",
+        "Demonstrated institutional kitchen experience by managing operations for a flagship property including a 24-hour room service operation and large-scale event venues."
+      ],
+      "seconds": 3.0
+    },
+    {
+      "id": "corpus-0-14",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 11.1
+    },
+    {
+      "id": "corpus-0-15",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 1,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 11.9
+    },
+    {
+      "id": "corpus-0-16",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 6.8
+    },
+    {
+      "id": "corpus-0-17",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 4.8
+    },
+    {
+      "id": "corpus-0-18",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 1.7
+    },
+    {
+      "id": "corpus-0-19",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 4,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 3.0
+    },
+    {
+      "id": "corpus-0-20",
+      "unsourced_off": 9,
+      "unsourced_on": 0,
+      "total_edits": 10,
+      "fabrication_rate": 0.9,
+      "rejected": [
+        "Marketing Event Coordination",
+        "Team Leadership",
+        "Team Collaboration",
+        "Coaching",
+        "Training",
+        "Data Tracking",
+        "Interpersonal Skills",
+        "Coordinated and executed creative social activations and live events such as Fan Appreciation, demonstrating strong event setup and management capabilities.",
+        "Demonstrated interpersonal skills by working with diverse stakeholders including executive producers and show talent."
+      ],
+      "seconds": 2.7
+    },
+    {
+      "id": "corpus-0-21",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 3.5
+    },
+    {
+      "id": "corpus-0-22",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 2.3
+    },
+    {
+      "id": "corpus-0-23",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 2.3
+    },
+    {
+      "id": "corpus-0-24",
+      "unsourced_off": 2,
+      "unsourced_on": 0,
+      "total_edits": 3,
+      "fabrication_rate": 0.6666666666666666,
+      "rejected": [
+        "Communication",
+        "Collaborative team player with diverse knowledge and communication skills."
+      ],
+      "seconds": 2.1
+    },
+    {
+      "id": "corpus-0-25",
+      "unsourced_off": 2,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Salesforce (CRM)",
+        "Experienced with CRM tools including Salesforce"
+      ],
+      "seconds": 3.1
+    },
+    {
+      "id": "corpus-0-26",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 3,
+      "fabrication_rate": 0.3333333333333333,
+      "rejected": [
+        "Oversaw hardware and software upgrade planning."
+      ],
+      "seconds": 3.2
+    },
+    {
+      "id": "corpus-0-27",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 3.7
+    },
+    {
+      "id": "corpus-0-28",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 2.7
+    },
+    {
+      "id": "corpus-0-29",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 3.2
+    }
+  ]
+}

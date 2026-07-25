@@ -1,0 +1,156 @@
+{
+  "seed": 3,
+  "n": 30,
+  "items": [
+    {
+      "id": "r000",
+      "file": "r000.txt",
+      "category": "APPAREL"
+    },
+    {
+      "id": "r001",
+      "file": "r001.txt",
+      "category": "TEACHER"
+    },
+    {
+      "id": "r002",
+      "file": "r002.txt",
+      "category": "DESIGNER"
+    },
+    {
+      "id": "r003",
+      "file": "r003.txt",
+      "category": "SALES"
+    },
+    {
+      "id": "r004",
+      "file": "r004.txt",
+      "category": "CHEF"
+    },
+    {
+      "id": "r005",
+      "file": "r005.txt",
+      "category": "DIGITAL-MEDIA"
+    },
+    {
+      "id": "r006",
+      "file": "r006.txt",
+      "category": "AGRICULTURE"
+    },
+    {
+      "id": "r007",
+      "file": "r007.txt",
+      "category": "BANKING"
+    },
+    {
+      "id": "r008",
+      "file": "r008.txt",
+      "category": "CONSULTANT"
+    },
+    {
+      "id": "r009",
+      "file": "r009.txt",
+      "category": "CONSTRUCTION"
+    },
+    {
+      "id": "r010",
+      "file": "r010.txt",
+      "category": "FINANCE"
+    },
+    {
+      "id": "r011",
+      "file": "r011.txt",
+      "category": "PUBLIC-RELATIONS"
+    },
+    {
+      "id": "r012",
+      "file": "r012.txt",
+      "category": "ARTS"
+    },
+    {
+      "id": "r013",
+      "file": "r013.txt",
+      "category": "DESIGNER"
+    },
+    {
+      "id": "r014",
+      "file": "r014.txt",
+      "category": "AUTOMOBILE"
+    },
+    {
+      "id": "r015",
+      "file": "r015.txt",
+      "category": "CONSTRUCTION"
+    },
+    {
+      "id": "r016",
+      "file": "r016.txt",
+      "category": "CONSTRUCTION"
+    },
+    {
+      "id": "r017",
+      "file": "r017.txt",
+      "category": "ACCOUNTANT"
+    },
+    {
+      "id": "r018",
+      "file": "r018.txt",
+      "category": "ENGINEERING"
+    },
+    {
+      "id": "r019",
+      "file": "r019.txt",
+      "category": "CONSTRUCTION"
+    },
+    {
+      "id": "r020",
+      "file": "r020.txt",
+      "category": "FITNESS"
+    },
+    {
+      "id": "r021",
+      "file": "r021.txt",
+      "category": "SALES"
+    },
+    {
+      "id": "r022",
+      "file": "r022.txt",
+      "category": "AVIATION"
+    },
+    {
+      "id": "r023",
+      "file": "r023.txt",
+      "category": "ADVOCATE"
+    },
+    {
+      "id": "r024",
+      "file": "r024.txt",
+      "category": "BPO"
+    },
+    {
+      "id": "r025",
+      "file": "r025.txt",
+      "category": "INFORMATION-TECHNOLOGY"
+    },
+    {
+      "id": "r026",
+      "file": "r026.txt",
+      "category": "BUSINESS-DEVELOPMENT"
+    },
+    {
+      "id": "r027",
+      "file": "r027.txt",
+      "category": "HR"
+    },
+    {
+      "id": "r028",
+      "file": "r028.txt",
+      "category": "HEALTHCARE"
+    },
+    {
+      "id": "r029",
+      "file": "r029.txt",
+      "category": "CONSTRUCTION"
+    }
+  ]
+}

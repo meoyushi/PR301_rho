@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Nadia Castellanos",
+    "headline": "Data Engineer",
+    "summary": "Data Engineer with 8 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "SQL",
+      "Python",
+      "dbt",
+      "Snowflake",
+      "Spark",
+      "AWS"
+    ],
+    "work": [
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Data Engineer",
+        "start_date": "2022",
+        "end_date": "2025",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 44 source systems.",
+          "Built streaming ingestion pipelines processing 30 TB of event data daily."
+        ]
+      },
+      {
+        "company": "Silverpine Media",
+        "title": "Junior Data Engineer",
+        "start_date": "2020",
+        "end_date": "2022",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 22 TB of event data daily.",
+          "Migrated 37 legacy ETL jobs from cron to Airflow, cutting failures by 18%.",
+          "Modelled the warehouse layer in dbt across 31 source systems."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      17
+    ],
+    "skills[0]": [
+      244,
+      247
+    ],
+    "skills[1]": [
+      249,
+      255
+    ],
+    "skills[2]": [
+      257,
+      260
+    ],
+    "skills[3]": [
+      262,
+      271
+    ],
+    "skills[4]": [
+      273,
+      278
+    ],
+    "skills[5]": [
+      280,
+      283
+    ],
+    "work[0].company": [
+      304,
+      328
+    ],
+    "work[0].title": [
+      331,
+      344
+    ],
+    "work[0].date": [
+      346,
+      350
+    ],
+    "work[0].bullets[0]": [
+      359,
+      420
+    ],
+    "work[0].bullets[1]": [
+      423,
+      496
+    ],
+    "work[1].company": [
+      498,
+      514
+    ],
+    "work[1].title": [
+      517,
+      537
+    ],
+    "work[1].date": [
+      539,
+      543
+    ],
+    "work[1].bullets[0]": [
+      552,
+      625
+    ],
+    "work[1].bullets[1]": [
+      628,
+      702
+    ],
+    "work[1].bullets[2]": [
+      705,
+      766
+    ],
+    "education[0].institution": [
+      791,
+      808
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Nadia Castellanos",
+    "skills[0]": "SQL",
+    "skills[1]": "Python",
+    "skills[2]": "dbt",
+    "skills[3]": "Snowflake",
+    "skills[4]": "Spark",
+    "skills[5]": "AWS",
+    "work[0].company": "Vantage Point Consulting",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Modelled the warehouse layer in dbt across 44 source systems.",
+    "work[0].bullets[1]": "Built streaming ingestion pipelines processing 30 TB of event data daily.",
+    "work[1].company": "Silverpine Media",
+    "work[1].title": "Junior Data Engineer",
+    "work[1].date": "2020",
+    "work[1].bullets[0]": "Built streaming ingestion pipelines processing 22 TB of event data daily.",
+    "work[1].bullets[1]": "Migrated 37 legacy ETL jobs from cron to Airflow, cutting failures by 18%.",
+    "work[1].bullets[2]": "Modelled the warehouse layer in dbt across 31 source systems.",
+    "education[0].institution": "Northgate College"
+  }
+}

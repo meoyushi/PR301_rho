@@ -1,0 +1,98 @@
+{
+  "gold": {
+    "name": "Ingrid Castellanos",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 10 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Salesforce",
+      "SEO",
+      "HubSpot",
+      "Copywriting",
+      "Google Analytics"
+    ],
+    "work": [
+      {
+        "company": "Trellis Financial",
+        "title": "Marketing Manager",
+        "start_date": "2017",
+        "end_date": "2021",
+        "bullets": [
+          "Managed a 10 million dollar annual paid media budget.",
+          "Ran 19 A/B tests on lifecycle email, lifting conversion 24%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2017"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      18
+    ],
+    "skills[0]": [
+      230,
+      240
+    ],
+    "skills[1]": [
+      242,
+      245
+    ],
+    "skills[2]": [
+      247,
+      254
+    ],
+    "skills[3]": [
+      256,
+      267
+    ],
+    "skills[4]": [
+      269,
+      285
+    ],
+    "work[0].company": [
+      311,
+      328
+    ],
+    "work[0].title": [
+      331,
+      348
+    ],
+    "work[0].date": [
+      350,
+      354
+    ],
+    "work[0].bullets[0]": [
+      363,
+      416
+    ],
+    "work[0].bullets[1]": [
+      419,
+      479
+    ],
+    "education[0].institution": [
+      491,
+      508
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Ingrid Castellanos",
+    "skills[0]": "Salesforce",
+    "skills[1]": "SEO",
+    "skills[2]": "HubSpot",
+    "skills[3]": "Copywriting",
+    "skills[4]": "Google Analytics",
+    "work[0].company": "Trellis Financial",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2017",
+    "work[0].bullets[0]": "Managed a 10 million dollar annual paid media budget.",
+    "work[0].bullets[1]": "Ran 19 A/B tests on lifecycle email, lifting conversion 24%.",
+    "education[0].institution": "Northgate College"
+  }
+}

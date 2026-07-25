@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Omar Fairbanks",
+    "headline": "Data Engineer",
+    "summary": "Hands-on Data Engineer who has spent 13 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Airflow",
+      "Kafka",
+      "SQL",
+      "Snowflake",
+      "Spark"
+    ],
+    "work": [
+      {
+        "company": "Brightline Analytics",
+        "title": "Data Engineer",
+        "start_date": "2018",
+        "end_date": "2021",
+        "bullets": [
+          "Migrated 22 legacy ETL jobs from cron to Airflow, cutting failures by 31%.",
+          "Built streaming ingestion pipelines processing 18 TB of event data daily."
+        ]
+      },
+      {
+        "company": "Lantern Software",
+        "title": "Associate Data Engineer",
+        "start_date": "2014",
+        "end_date": "2017",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 59 source systems.",
+          "Migrated 37 legacy ETL jobs from cron to Airflow, cutting failures by 11%.",
+          "Built streaming ingestion pipelines processing 18 TB of event data daily."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2014"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      14
+    ],
+    "skills[0]": [
+      225,
+      232
+    ],
+    "skills[1]": [
+      234,
+      239
+    ],
+    "skills[2]": [
+      241,
+      244
+    ],
+    "skills[3]": [
+      246,
+      255
+    ],
+    "skills[4]": [
+      257,
+      262
+    ],
+    "work[0].company": [
+      283,
+      303
+    ],
+    "work[0].title": [
+      306,
+      319
+    ],
+    "work[0].date": [
+      321,
+      325
+    ],
+    "work[0].bullets[0]": [
+      334,
+      408
+    ],
+    "work[0].bullets[1]": [
+      411,
+      484
+    ],
+    "work[1].company": [
+      486,
+      502
+    ],
+    "work[1].title": [
+      505,
+      528
+    ],
+    "work[1].date": [
+      530,
+      534
+    ],
+    "work[1].bullets[0]": [
+      543,
+      604
+    ],
+    "work[1].bullets[1]": [
+      607,
+      681
+    ],
+    "work[1].bullets[2]": [
+      684,
+      757
+    ],
+    "education[0].institution": [
+      782,
+      798
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Omar Fairbanks",
+    "skills[0]": "Airflow",
+    "skills[1]": "Kafka",
+    "skills[2]": "SQL",
+    "skills[3]": "Snowflake",
+    "skills[4]": "Spark",
+    "work[0].company": "Brightline Analytics",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2018",
+    "work[0].bullets[0]": "Migrated 22 legacy ETL jobs from cron to Airflow, cutting failures by 31%.",
+    "work[0].bullets[1]": "Built streaming ingestion pipelines processing 18 TB of event data daily.",
+    "work[1].company": "Lantern Software",
+    "work[1].title": "Associate Data Engineer",
+    "work[1].date": "2014",
+    "work[1].bullets[0]": "Modelled the warehouse layer in dbt across 59 source systems.",
+    "work[1].bullets[1]": "Migrated 37 legacy ETL jobs from cron to Airflow, cutting failures by 11%.",
+    "work[1].bullets[2]": "Built streaming ingestion pipelines processing 18 TB of event data daily.",
+    "education[0].institution": "State University"
+  }
+}

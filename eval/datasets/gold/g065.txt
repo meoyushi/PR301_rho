@@ -1,0 +1,22 @@
+Amara Hyun
+Data Engineer
+amara.hyun@example.com
+
+SUMMARY
+Data Engineer with 7 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+CORE COMPETENCIES
+dbt, Python, Kafka, Spark, AWS
+
+EXPERIENCE
+Harborview Logistics — Data Engineer (2019–2022)
+- Migrated 16 legacy ETL jobs from cron to Airflow, cutting failures by 11%.
+- Modelled the warehouse layer in dbt across 20 source systems.
+
+Copperfield Retail — Associate Data Engineer (2016–2019)
+- Modelled the warehouse layer in dbt across 19 source systems.
+- Built streaming ingestion pipelines processing 6 TB of event data daily.
+- Migrated 45 legacy ETL jobs from cron to Airflow, cutting failures by 39%.
+
+EDUCATION
+Ashford Polytechnic — B.A. Economics, 2016

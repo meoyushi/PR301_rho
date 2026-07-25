@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Rowan Lindqvist",
+    "headline": "Backend Engineer",
+    "summary": "Backend Engineer with 16 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Docker",
+      "PostgreSQL",
+      "Kafka",
+      "Redis"
+    ],
+    "work": [
+      {
+        "company": "Silverpine Media",
+        "title": "Backend Engineer",
+        "start_date": "2018",
+        "end_date": "2021",
+        "bullets": [
+          "Reduced p99 latency by 15% by introducing a Redis cache layer.",
+          "Led migration of 45 services onto Kubernetes."
+        ]
+      },
+      {
+        "company": "Silverpine Media",
+        "title": "Associate Backend Engineer",
+        "start_date": "2014",
+        "end_date": "2017",
+        "bullets": [
+          "Reduced p99 latency by 35% by introducing a Redis cache layer.",
+          "Led migration of 15 services onto Kubernetes.",
+          "Designed a gRPC service handling 59 thousand requests per second."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2014"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      235,
+      241
+    ],
+    "skills[1]": [
+      243,
+      253
+    ],
+    "skills[2]": [
+      255,
+      260
+    ],
+    "skills[3]": [
+      262,
+      267
+    ],
+    "work[0].company": [
+      280,
+      296
+    ],
+    "work[0].title": [
+      299,
+      315
+    ],
+    "work[0].date": [
+      317,
+      321
+    ],
+    "work[0].bullets[0]": [
+      330,
+      392
+    ],
+    "work[0].bullets[1]": [
+      395,
+      440
+    ],
+    "work[1].company": [
+      442,
+      458
+    ],
+    "work[1].title": [
+      461,
+      487
+    ],
+    "work[1].date": [
+      489,
+      493
+    ],
+    "work[1].bullets[0]": [
+      502,
+      564
+    ],
+    "work[1].bullets[1]": [
+      567,
+      612
+    ],
+    "work[1].bullets[2]": [
+      615,
+      680
+    ],
+    "education[0].institution": [
+      692,
+      714
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Rowan Lindqvist",
+    "skills[0]": "Docker",
+    "skills[1]": "PostgreSQL",
+    "skills[2]": "Kafka",
+    "skills[3]": "Redis",
+    "work[0].company": "Silverpine Media",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2018",
+    "work[0].bullets[0]": "Reduced p99 latency by 15% by introducing a Redis cache layer.",
+    "work[0].bullets[1]": "Led migration of 45 services onto Kubernetes.",
+    "work[1].company": "Silverpine Media",
+    "work[1].title": "Associate Backend Engineer",
+    "work[1].date": "2014",
+    "work[1].bullets[0]": "Reduced p99 latency by 35% by introducing a Redis cache layer.",
+    "work[1].bullets[1]": "Led migration of 15 services onto Kubernetes.",
+    "work[1].bullets[2]": "Designed a gRPC service handling 59 thousand requests per second.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

@@ -1,0 +1,21 @@
+Aiko Kowalski
+Backend Engineer
+aiko.kowalski@example.com
+
+PROFILE
+Hands-on Backend Engineer who has spent 11 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+TECHNICAL SKILLS
+Go, Redis, Kubernetes, Kafka, Java, PostgreSQL
+
+PROFESSIONAL EXPERIENCE
+Harborview Logistics — Backend Engineer (2022–2025)
+- Reduced p99 latency by 20% by introducing a Redis cache layer.
+- Led migration of 41 services onto Kubernetes.
+
+Copperfield Retail — Junior Backend Engineer (2019–2022)
+- Reduced p99 latency by 30% by introducing a Redis cache layer.
+- Designed a gRPC service handling 19 thousand requests per second.
+
+ACADEMIC BACKGROUND
+Riverside Institute of Technology — B.S. Computer Science, 2019

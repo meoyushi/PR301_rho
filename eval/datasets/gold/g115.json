@@ -1,0 +1,110 @@
+{
+  "gold": {
+    "name": "Ingrid Lindqvist",
+    "headline": "Financial Analyst",
+    "summary": "Hands-on Financial Analyst who has spent 17 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "SQL",
+      "SAP",
+      "Forecasting",
+      "Tableau",
+      "Excel",
+      "Variance Analysis"
+    ],
+    "work": [
+      {
+        "company": "Silverpine Media",
+        "title": "Financial Analyst",
+        "start_date": "2022",
+        "end_date": "2024",
+        "bullets": [
+          "Owned the quarterly forecast for a 52 million dollar product line.",
+          "Automated variance reporting in SQL, saving 48 analyst hours per month.",
+          "Presented monthly results to a committee of 24 executives."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2022"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      16
+    ],
+    "skills[0]": [
+      238,
+      241
+    ],
+    "skills[1]": [
+      243,
+      246
+    ],
+    "skills[2]": [
+      248,
+      259
+    ],
+    "skills[3]": [
+      261,
+      268
+    ],
+    "skills[4]": [
+      270,
+      275
+    ],
+    "skills[5]": [
+      277,
+      294
+    ],
+    "work[0].company": [
+      312,
+      328
+    ],
+    "work[0].title": [
+      331,
+      348
+    ],
+    "work[0].date": [
+      350,
+      354
+    ],
+    "work[0].bullets[0]": [
+      363,
+      429
+    ],
+    "work[0].bullets[1]": [
+      432,
+      503
+    ],
+    "work[0].bullets[2]": [
+      506,
+      564
+    ],
+    "education[0].institution": [
+      576,
+      609
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Ingrid Lindqvist",
+    "skills[0]": "SQL",
+    "skills[1]": "SAP",
+    "skills[2]": "Forecasting",
+    "skills[3]": "Tableau",
+    "skills[4]": "Excel",
+    "skills[5]": "Variance Analysis",
+    "work[0].company": "Silverpine Media",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Owned the quarterly forecast for a 52 million dollar product line.",
+    "work[0].bullets[1]": "Automated variance reporting in SQL, saving 48 analyst hours per month.",
+    "work[0].bullets[2]": "Presented monthly results to a committee of 24 executives.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

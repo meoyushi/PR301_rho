@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Beatriz Mbeki",
+    "headline": "Financial Analyst",
+    "summary": "Financial Analyst with 13 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "SQL",
+      "Variance Analysis",
+      "Forecasting",
+      "Excel",
+      "Tableau"
+    ],
+    "work": [
+      {
+        "company": "Trellis Financial",
+        "title": "Financial Analyst",
+        "start_date": "2018",
+        "end_date": "2021",
+        "bullets": [
+          "Automated variance reporting in SQL, saving 6 analyst hours per month.",
+          "Presented monthly results to a committee of 51 executives."
+        ]
+      },
+      {
+        "company": "Ironwood Robotics",
+        "title": "Associate Financial Analyst",
+        "start_date": "2016",
+        "end_date": "2017",
+        "bullets": [
+          "Automated variance reporting in SQL, saving 29 analyst hours per month.",
+          "Presented monthly results to a committee of 30 executives.",
+          "Owned the quarterly forecast for a 25 million dollar product line."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2016"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      220,
+      223
+    ],
+    "skills[1]": [
+      225,
+      242
+    ],
+    "skills[2]": [
+      244,
+      255
+    ],
+    "skills[3]": [
+      257,
+      262
+    ],
+    "skills[4]": [
+      264,
+      271
+    ],
+    "work[0].company": [
+      284,
+      301
+    ],
+    "work[0].title": [
+      304,
+      321
+    ],
+    "work[0].date": [
+      323,
+      327
+    ],
+    "work[0].bullets[0]": [
+      336,
+      406
+    ],
+    "work[0].bullets[1]": [
+      409,
+      467
+    ],
+    "work[1].company": [
+      469,
+      486
+    ],
+    "work[1].title": [
+      489,
+      516
+    ],
+    "work[1].date": [
+      518,
+      522
+    ],
+    "work[1].bullets[0]": [
+      531,
+      602
+    ],
+    "work[1].bullets[1]": [
+      605,
+      663
+    ],
+    "work[1].bullets[2]": [
+      666,
+      732
+    ],
+    "education[0].institution": [
+      744,
+      763
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Beatriz Mbeki",
+    "skills[0]": "SQL",
+    "skills[1]": "Variance Analysis",
+    "skills[2]": "Forecasting",
+    "skills[3]": "Excel",
+    "skills[4]": "Tableau",
+    "work[0].company": "Trellis Financial",
+    "work[0].title": "Financial Analyst",
+    "work[0].date": "2018",
+    "work[0].bullets[0]": "Automated variance reporting in SQL, saving 6 analyst hours per month.",
+    "work[0].bullets[1]": "Presented monthly results to a committee of 51 executives.",
+    "work[1].company": "Ironwood Robotics",
+    "work[1].title": "Associate Financial Analyst",
+    "work[1].date": "2016",
+    "work[1].bullets[0]": "Automated variance reporting in SQL, saving 29 analyst hours per month.",
+    "work[1].bullets[1]": "Presented monthly results to a committee of 30 executives.",
+    "work[1].bullets[2]": "Owned the quarterly forecast for a 25 million dollar product line.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

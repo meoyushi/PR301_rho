@@ -1,0 +1,26 @@
+Rowan Mbeki
+Backend Engineer
+rowan.mbeki@example.com
+
+PROFILE
+Backend Engineer with 5 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+SKILLS
+Kubernetes, Docker, gRPC, Go, Kafka
+
+EMPLOYMENT HISTORY
+Cobalt Interactive — Backend Engineer (2019–2022)
+- Led migration of 50 services onto Kubernetes.
+- Reduced p99 latency by 26% by introducing a Redis cache layer.
+- Designed a gRPC service handling 34 thousand requests per second.
+
+Meridian Health Group — Associate Backend Engineer (2018–2019)
+- Reduced p99 latency by 28% by introducing a Redis cache layer.
+- Designed a gRPC service handling 13 thousand requests per second.
+
+Meridian Health Group — Junior Backend Engineer (2016–2018)
+- Designed a gRPC service handling 31 thousand requests per second.
+- Reduced p99 latency by 39% by introducing a Redis cache layer.
+
+EDUCATION
+Fairmont State College — B.S. Mechanical Engineering, 2016

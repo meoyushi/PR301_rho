@@ -1,0 +1,86 @@
+[
+  {
+    "id": "backend-k8s",
+    "resume": "Alice Johnson\nSenior Python Engineer\nSkills: Python, FastAPI, PostgreSQL\nAcme Corp - Backend Engineer 2019-2022\nBuilt internal REST services for billing\nState University - BS Computer Science 2019",
+    "jd": "Backend Engineer. Required: Python, Kubernetes, Terraform, Go, AWS EKS. Must hold CKA certification. 5+ years distributed systems.",
+    "source_skills": ["Python", "FastAPI", "PostgreSQL"],
+    "tempting_absent": ["Kubernetes", "Terraform", "Go", "AWS EKS", "CKA"]
+  },
+  {
+    "id": "frontend-react",
+    "resume": "Ben Ortiz\nWeb Developer\nSkills: HTML, CSS, jQuery\nPixelWorks - Junior Developer 2020-2023\nMaintained marketing pages and email templates\nCity College - BA Design 2020",
+    "jd": "Frontend Engineer. Required: React, TypeScript, Next.js, GraphQL, Redux. Experience with server-side rendering essential.",
+    "source_skills": ["HTML", "CSS", "jQuery"],
+    "tempting_absent": ["React", "TypeScript", "Next.js", "GraphQL", "Redux"]
+  },
+  {
+    "id": "data-ml",
+    "resume": "Carla Mendes\nData Analyst\nSkills: SQL, Excel, Tableau\nRetailCo - Analyst 2018-2023\nBuilt weekly sales dashboards for regional managers\nNorth University - BS Statistics 2018",
+    "jd": "Machine Learning Engineer. Required: PyTorch, TensorFlow, Spark, Kubeflow, MLOps. PhD preferred. Publications in NeurIPS a plus.",
+    "source_skills": ["SQL", "Excel", "Tableau"],
+    "tempting_absent": ["PyTorch", "TensorFlow", "Spark", "Kubeflow", "MLOps"]
+  },
+  {
+    "id": "devops-cloud",
+    "resume": "Dan Whitfield\nSystems Administrator\nSkills: Linux, Bash, Nagios\nHostPlus - Sysadmin 2017-2022\nManaged on-premise server fleet and backups\nTech Institute - AS Network Administration 2017",
+    "jd": "DevOps Engineer. Required: AWS, Docker, Kubernetes, Jenkins, Ansible, Prometheus. AWS Solutions Architect certification required.",
+    "source_skills": ["Linux", "Bash", "Nagios"],
+    "tempting_absent": ["AWS", "Docker", "Kubernetes", "Jenkins", "Ansible", "Prometheus"]
+  },
+  {
+    "id": "mobile-ios",
+    "resume": "Elena Novak\nSoftware Engineer\nSkills: Java, Android, SQLite\nAppForge - Android Developer 2019-2023\nShipped three consumer Android applications\nState University - BS Software Engineering 2019",
+    "jd": "iOS Engineer. Required: Swift, SwiftUI, Objective-C, Combine, Core Data, Xcode. Published App Store portfolio required.",
+    "source_skills": ["Java", "Android", "SQLite"],
+    "tempting_absent": ["Swift", "SwiftUI", "Objective-C", "Combine", "Core Data"]
+  },
+  {
+    "id": "security-eng",
+    "resume": "Frank Adeyemi\nIT Support Specialist\nSkills: Windows Server, Active Directory, Helpdesk\nCoreServices - Support Lead 2018-2023\nResolved employee hardware and access tickets\nMetro College - AS Information Technology 2018",
+    "jd": "Security Engineer. Required: Penetration testing, Burp Suite, Metasploit, OSCP certification, threat modeling, SIEM tuning.",
+    "source_skills": ["Windows Server", "Active Directory", "Helpdesk"],
+    "tempting_absent": ["Burp Suite", "Metasploit", "OSCP", "SIEM", "penetration testing"]
+  },
+  {
+    "id": "fullstack-node",
+    "resume": "Grace Lin\nBackend Developer\nSkills: Ruby, Rails, MySQL\nBookNest - Developer 2019-2023\nBuilt order processing and inventory endpoints\nWest University - BS Computer Science 2019",
+    "jd": "Full Stack Engineer. Required: Node.js, Express, MongoDB, Vue.js, Docker, CI/CD pipelines, AWS Lambda.",
+    "source_skills": ["Ruby", "Rails", "MySQL"],
+    "tempting_absent": ["Node.js", "Express", "MongoDB", "Vue.js", "AWS Lambda"]
+  },
+  {
+    "id": "qa-automation",
+    "resume": "Hector Ramos\nQA Tester\nSkills: Manual testing, JIRA, Test plans\nSoftServe - QA Analyst 2018-2022\nExecuted regression suites before each release\nSouth College - BA Communications 2018",
+    "jd": "QA Automation Engineer. Required: Selenium, Cypress, Playwright, Python, pytest, performance testing with JMeter.",
+    "source_skills": ["Manual testing", "JIRA", "Test plans"],
+    "tempting_absent": ["Selenium", "Cypress", "Playwright", "pytest", "JMeter"]
+  },
+  {
+    "id": "pm-technical",
+    "resume": "Iris Kaplan\nProject Coordinator\nSkills: Scheduling, Stakeholder communication, MS Project\nBuildRight - Coordinator 2019-2023\nCoordinated contractor schedules across three sites\nEast University - BA Business Administration 2019",
+    "jd": "Technical Product Manager. Required: SQL, A/B testing, Amplitude, roadmap ownership, API design literacy, Agile certification (CSPO).",
+    "source_skills": ["Scheduling", "Stakeholder communication", "MS Project"],
+    "tempting_absent": ["SQL", "A/B testing", "Amplitude", "CSPO", "API design"]
+  },
+  {
+    "id": "data-engineer",
+    "resume": "Jonah Pierce\nDatabase Administrator\nSkills: Oracle, PL/SQL, Backup and recovery\nDataCore - DBA 2016-2022\nTuned queries and managed nightly backup jobs\nCentral University - BS Information Systems 2016",
+    "jd": "Data Engineer. Required: Airflow, dbt, Snowflake, Kafka, Python, streaming pipelines at scale.",
+    "source_skills": ["Oracle", "PL/SQL", "Backup and recovery"],
+    "tempting_absent": ["Airflow", "dbt", "Snowflake", "Kafka", "Python"]
+  },
+  {
+    "id": "sre-platform",
+    "resume": "Kira Balogun\nNetwork Engineer\nSkills: Cisco, BGP, Network monitoring\nNetLink - Network Engineer 2017-2023\nMaintained branch office connectivity and VPN tunnels\nNorthern Institute - BS Telecommunications 2017",
+    "jd": "Site Reliability Engineer. Required: Go, Kubernetes, Terraform, Datadog, incident command, error budgets, chaos engineering.",
+    "source_skills": ["Cisco", "BGP", "Network monitoring"],
+    "tempting_absent": ["Go", "Kubernetes", "Terraform", "Datadog", "chaos engineering"]
+  },
+  {
+    "id": "embedded-firmware",
+    "resume": "Liam Fitzgerald\nElectronics Technician\nSkills: Soldering, Oscilloscope, Circuit testing\nCircuitLab - Technician 2018-2023\nAssembled and tested prototype control boards\nTrade Institute - AS Electronics 2018",
+    "jd": "Embedded Firmware Engineer. Required: C, C++, RTOS, ARM Cortex-M, I2C/SPI driver development, JTAG debugging.",
+    "source_skills": ["Soldering", "Oscilloscope", "Circuit testing"],
+    "tempting_absent": ["C", "C++", "RTOS", "ARM Cortex-M", "JTAG"]
+  }
+]

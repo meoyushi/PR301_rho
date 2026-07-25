@@ -1,0 +1,104 @@
+{
+  "gold": {
+    "name": "Beatriz Delgado",
+    "headline": "Registered Nurse",
+    "summary": "Registered Nurse with 15 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Patient Care",
+      "EPIC",
+      "ACLS",
+      "Phlebotomy",
+      "IV Therapy"
+    ],
+    "work": [
+      {
+        "company": "Silverpine Media",
+        "title": "Registered Nurse",
+        "start_date": "2021",
+        "end_date": "2023",
+        "bullets": [
+          "Maintained medication accuracy above 42% across audits.",
+          "Managed a 48 bed unit across rotating night shifts.",
+          "Trained 12 new graduate nurses on EPIC charting workflows."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2021"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      235,
+      247
+    ],
+    "skills[1]": [
+      249,
+      253
+    ],
+    "skills[2]": [
+      255,
+      259
+    ],
+    "skills[3]": [
+      261,
+      271
+    ],
+    "skills[4]": [
+      273,
+      283
+    ],
+    "work[0].company": [
+      309,
+      325
+    ],
+    "work[0].title": [
+      328,
+      344
+    ],
+    "work[0].date": [
+      346,
+      350
+    ],
+    "work[0].bullets[0]": [
+      359,
+      414
+    ],
+    "work[0].bullets[1]": [
+      417,
+      468
+    ],
+    "work[0].bullets[2]": [
+      471,
+      529
+    ],
+    "education[0].institution": [
+      541,
+      561
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Beatriz Delgado",
+    "skills[0]": "Patient Care",
+    "skills[1]": "EPIC",
+    "skills[2]": "ACLS",
+    "skills[3]": "Phlebotomy",
+    "skills[4]": "IV Therapy",
+    "work[0].company": "Silverpine Media",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Maintained medication accuracy above 42% across audits.",
+    "work[0].bullets[1]": "Managed a 48 bed unit across rotating night shifts.",
+    "work[0].bullets[2]": "Trained 12 new graduate nurses on EPIC charting workflows.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

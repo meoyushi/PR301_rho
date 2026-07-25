@@ -1,0 +1,174 @@
+{
+  "gold": {
+    "name": "Aiko Lindqvist",
+    "headline": "Registered Nurse",
+    "summary": "Registered Nurse with 7 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Phlebotomy",
+      "ACLS",
+      "Triage",
+      "IV Therapy"
+    ],
+    "work": [
+      {
+        "company": "Blue Harbor Energy",
+        "title": "Registered Nurse",
+        "start_date": "2024",
+        "end_date": "2025",
+        "bullets": [
+          "Managed a 58 bed unit across rotating night shifts.",
+          "Trained 45 new graduate nurses on EPIC charting workflows."
+        ]
+      },
+      {
+        "company": "Harborview Logistics",
+        "title": "Associate Registered Nurse",
+        "start_date": "2023",
+        "end_date": "2024",
+        "bullets": [
+          "Maintained medication accuracy above 26% across audits.",
+          "Managed a 7 bed unit across rotating night shifts.",
+          "Trained 26 new graduate nurses on EPIC charting workflows."
+        ]
+      },
+      {
+        "company": "Copperfield Retail",
+        "title": "Associate Registered Nurse",
+        "start_date": "2018",
+        "end_date": "2022",
+        "bullets": [
+          "Maintained medication accuracy above 23% across audits.",
+          "Managed a 54 bed unit across rotating night shifts.",
+          "Trained 25 new graduate nurses on EPIC charting workflows."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2018"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      14
+    ],
+    "skills[0]": [
+      209,
+      219
+    ],
+    "skills[1]": [
+      221,
+      225
+    ],
+    "skills[2]": [
+      227,
+      233
+    ],
+    "skills[3]": [
+      235,
+      245
+    ],
+    "work[0].company": [
+      258,
+      276
+    ],
+    "work[0].title": [
+      279,
+      295
+    ],
+    "work[0].date": [
+      297,
+      301
+    ],
+    "work[0].bullets[0]": [
+      310,
+      361
+    ],
+    "work[0].bullets[1]": [
+      364,
+      422
+    ],
+    "work[1].company": [
+      424,
+      444
+    ],
+    "work[1].title": [
+      447,
+      473
+    ],
+    "work[1].date": [
+      475,
+      479
+    ],
+    "work[1].bullets[0]": [
+      488,
+      543
+    ],
+    "work[1].bullets[1]": [
+      546,
+      596
+    ],
+    "work[1].bullets[2]": [
+      599,
+      657
+    ],
+    "work[2].company": [
+      659,
+      677
+    ],
+    "work[2].title": [
+      680,
+      706
+    ],
+    "work[2].date": [
+      708,
+      712
+    ],
+    "work[2].bullets[0]": [
+      721,
+      776
+    ],
+    "work[2].bullets[1]": [
+      779,
+      830
+    ],
+    "work[2].bullets[2]": [
+      833,
+      891
+    ],
+    "education[0].institution": [
+      913,
+      935
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Aiko Lindqvist",
+    "skills[0]": "Phlebotomy",
+    "skills[1]": "ACLS",
+    "skills[2]": "Triage",
+    "skills[3]": "IV Therapy",
+    "work[0].company": "Blue Harbor Energy",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2024",
+    "work[0].bullets[0]": "Managed a 58 bed unit across rotating night shifts.",
+    "work[0].bullets[1]": "Trained 45 new graduate nurses on EPIC charting workflows.",
+    "work[1].company": "Harborview Logistics",
+    "work[1].title": "Associate Registered Nurse",
+    "work[1].date": "2023",
+    "work[1].bullets[0]": "Maintained medication accuracy above 26% across audits.",
+    "work[1].bullets[1]": "Managed a 7 bed unit across rotating night shifts.",
+    "work[1].bullets[2]": "Trained 26 new graduate nurses on EPIC charting workflows.",
+    "work[2].company": "Copperfield Retail",
+    "work[2].title": "Associate Registered Nurse",
+    "work[2].date": "2018",
+    "work[2].bullets[0]": "Maintained medication accuracy above 23% across audits.",
+    "work[2].bullets[1]": "Managed a 54 bed unit across rotating night shifts.",
+    "work[2].bullets[2]": "Trained 25 new graduate nurses on EPIC charting workflows.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

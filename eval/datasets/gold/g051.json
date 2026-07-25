@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Dana Okonkwo",
+    "headline": "Data Engineer",
+    "summary": "Data Engineer with 15 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Spark",
+      "Snowflake",
+      "Python",
+      "SQL"
+    ],
+    "work": [
+      {
+        "company": "Northwind Systems",
+        "title": "Data Engineer",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 39 source systems.",
+          "Built streaming ingestion pipelines processing 55 TB of event data daily."
+        ]
+      },
+      {
+        "company": "Brightline Analytics",
+        "title": "Associate Data Engineer",
+        "start_date": "2020",
+        "end_date": "2021",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 48 source systems.",
+          "Migrated 47 legacy ETL jobs from cron to Airflow, cutting failures by 37%.",
+          "Built streaming ingestion pipelines processing 54 TB of event data daily."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      12
+    ],
+    "skills[0]": [
+      210,
+      215
+    ],
+    "skills[1]": [
+      217,
+      226
+    ],
+    "skills[2]": [
+      228,
+      234
+    ],
+    "skills[3]": [
+      236,
+      239
+    ],
+    "work[0].company": [
+      252,
+      269
+    ],
+    "work[0].title": [
+      272,
+      285
+    ],
+    "work[0].date": [
+      287,
+      291
+    ],
+    "work[0].bullets[0]": [
+      300,
+      361
+    ],
+    "work[0].bullets[1]": [
+      364,
+      437
+    ],
+    "work[1].company": [
+      439,
+      459
+    ],
+    "work[1].title": [
+      462,
+      485
+    ],
+    "work[1].date": [
+      487,
+      491
+    ],
+    "work[1].bullets[0]": [
+      500,
+      561
+    ],
+    "work[1].bullets[1]": [
+      564,
+      638
+    ],
+    "work[1].bullets[2]": [
+      641,
+      714
+    ],
+    "education[0].institution": [
+      739,
+      759
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Dana Okonkwo",
+    "skills[0]": "Spark",
+    "skills[1]": "Snowflake",
+    "skills[2]": "Python",
+    "skills[3]": "SQL",
+    "work[0].company": "Northwind Systems",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Modelled the warehouse layer in dbt across 39 source systems.",
+    "work[0].bullets[1]": "Built streaming ingestion pipelines processing 55 TB of event data daily.",
+    "work[1].company": "Brightline Analytics",
+    "work[1].title": "Associate Data Engineer",
+    "work[1].date": "2020",
+    "work[1].bullets[0]": "Modelled the warehouse layer in dbt across 48 source systems.",
+    "work[1].bullets[1]": "Migrated 47 legacy ETL jobs from cron to Airflow, cutting failures by 37%.",
+    "work[1].bullets[2]": "Built streaming ingestion pipelines processing 54 TB of event data daily.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

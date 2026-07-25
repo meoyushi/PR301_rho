@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Leilani Okonkwo",
+    "headline": "Mechanical Engineer",
+    "summary": "Mechanical Engineer with 6 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "SolidWorks",
+      "GD&T",
+      "MATLAB",
+      "AutoCAD"
+    ],
+    "work": [
+      {
+        "company": "Meridian Health Group",
+        "title": "Mechanical Engineer",
+        "start_date": "2023",
+        "end_date": "2024",
+        "bullets": [
+          "Ran FEA validation on 52 structural components.",
+          "Cut part cost 32% through a design-for-manufacture review."
+        ]
+      },
+      {
+        "company": "Northwind Systems",
+        "title": "Associate Mechanical Engineer",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Designed 18 injection-moulded assemblies released to production.",
+          "Cut part cost 45% through a design-for-manufacture review.",
+          "Ran FEA validation on 3 structural components."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2022"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      227,
+      237
+    ],
+    "skills[1]": [
+      239,
+      243
+    ],
+    "skills[2]": [
+      245,
+      251
+    ],
+    "skills[3]": [
+      253,
+      260
+    ],
+    "work[0].company": [
+      281,
+      302
+    ],
+    "work[0].title": [
+      305,
+      324
+    ],
+    "work[0].date": [
+      326,
+      330
+    ],
+    "work[0].bullets[0]": [
+      339,
+      386
+    ],
+    "work[0].bullets[1]": [
+      389,
+      447
+    ],
+    "work[1].company": [
+      449,
+      466
+    ],
+    "work[1].title": [
+      469,
+      498
+    ],
+    "work[1].date": [
+      500,
+      504
+    ],
+    "work[1].bullets[0]": [
+      513,
+      577
+    ],
+    "work[1].bullets[1]": [
+      580,
+      638
+    ],
+    "work[1].bullets[2]": [
+      641,
+      687
+    ],
+    "education[0].institution": [
+      709,
+      731
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Leilani Okonkwo",
+    "skills[0]": "SolidWorks",
+    "skills[1]": "GD&T",
+    "skills[2]": "MATLAB",
+    "skills[3]": "AutoCAD",
+    "work[0].company": "Meridian Health Group",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2023",
+    "work[0].bullets[0]": "Ran FEA validation on 52 structural components.",
+    "work[0].bullets[1]": "Cut part cost 32% through a design-for-manufacture review.",
+    "work[1].company": "Northwind Systems",
+    "work[1].title": "Associate Mechanical Engineer",
+    "work[1].date": "2022",
+    "work[1].bullets[0]": "Designed 18 injection-moulded assemblies released to production.",
+    "work[1].bullets[1]": "Cut part cost 45% through a design-for-manufacture review.",
+    "work[1].bullets[2]": "Ran FEA validation on 3 structural components.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

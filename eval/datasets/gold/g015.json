@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Ellis Lindqvist",
+    "headline": "Data Engineer",
+    "summary": "Hands-on Data Engineer who has spent 15 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Airflow",
+      "Python",
+      "dbt",
+      "SQL",
+      "AWS"
+    ],
+    "work": [
+      {
+        "company": "Meridian Health Group",
+        "title": "Data Engineer",
+        "start_date": "2021",
+        "end_date": "2023",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 57 source systems.",
+          "Built streaming ingestion pipelines processing 22 TB of event data daily.",
+          "Migrated 50 legacy ETL jobs from cron to Airflow, cutting failures by 31%."
+        ]
+      },
+      {
+        "company": "Brightline Analytics",
+        "title": "Junior Data Engineer",
+        "start_date": "2018",
+        "end_date": "2021",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 37 TB of event data daily.",
+          "Migrated 58 legacy ETL jobs from cron to Airflow, cutting failures by 29%.",
+          "Modelled the warehouse layer in dbt across 30 source systems."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2018"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      228,
+      235
+    ],
+    "skills[1]": [
+      237,
+      243
+    ],
+    "skills[2]": [
+      245,
+      248
+    ],
+    "skills[3]": [
+      250,
+      253
+    ],
+    "skills[4]": [
+      255,
+      258
+    ],
+    "work[0].company": [
+      276,
+      297
+    ],
+    "work[0].title": [
+      300,
+      313
+    ],
+    "work[0].date": [
+      315,
+      319
+    ],
+    "work[0].bullets[0]": [
+      328,
+      389
+    ],
+    "work[0].bullets[1]": [
+      392,
+      465
+    ],
+    "work[0].bullets[2]": [
+      468,
+      542
+    ],
+    "work[1].company": [
+      544,
+      564
+    ],
+    "work[1].title": [
+      567,
+      587
+    ],
+    "work[1].date": [
+      589,
+      593
+    ],
+    "work[1].bullets[0]": [
+      602,
+      675
+    ],
+    "work[1].bullets[1]": [
+      678,
+      752
+    ],
+    "work[1].bullets[2]": [
+      755,
+      816
+    ],
+    "education[0].institution": [
+      838,
+      857
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Ellis Lindqvist",
+    "skills[0]": "Airflow",
+    "skills[1]": "Python",
+    "skills[2]": "dbt",
+    "skills[3]": "SQL",
+    "skills[4]": "AWS",
+    "work[0].company": "Meridian Health Group",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Modelled the warehouse layer in dbt across 57 source systems.",
+    "work[0].bullets[1]": "Built streaming ingestion pipelines processing 22 TB of event data daily.",
+    "work[0].bullets[2]": "Migrated 50 legacy ETL jobs from cron to Airflow, cutting failures by 31%.",
+    "work[1].company": "Brightline Analytics",
+    "work[1].title": "Junior Data Engineer",
+    "work[1].date": "2018",
+    "work[1].bullets[0]": "Built streaming ingestion pipelines processing 37 TB of event data daily.",
+    "work[1].bullets[1]": "Migrated 58 legacy ETL jobs from cron to Airflow, cutting failures by 29%.",
+    "work[1].bullets[2]": "Modelled the warehouse layer in dbt across 30 source systems.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

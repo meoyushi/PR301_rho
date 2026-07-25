@@ -1,0 +1,168 @@
+{
+  "gold": {
+    "name": "Priya Fairbanks",
+    "headline": "Data Engineer",
+    "summary": "Data Engineer with 7 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Airflow",
+      "SQL",
+      "AWS",
+      "Python"
+    ],
+    "work": [
+      {
+        "company": "Blue Harbor Energy",
+        "title": "Data Engineer",
+        "start_date": "2017",
+        "end_date": "2021",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 52 TB of event data daily.",
+          "Modelled the warehouse layer in dbt across 43 source systems.",
+          "Migrated 9 legacy ETL jobs from cron to Airflow, cutting failures by 40%."
+        ]
+      },
+      {
+        "company": "Silverpine Media",
+        "title": "Associate Data Engineer",
+        "start_date": "2014",
+        "end_date": "2016",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 5 TB of event data daily.",
+          "Migrated 42 legacy ETL jobs from cron to Airflow, cutting failures by 43%."
+        ]
+      },
+      {
+        "company": "Brightline Analytics",
+        "title": "Junior Data Engineer",
+        "start_date": "2010",
+        "end_date": "2014",
+        "bullets": [
+          "Built streaming ingestion pipelines processing 30 TB of event data daily.",
+          "Modelled the warehouse layer in dbt across 45 source systems."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2010"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      253,
+      260
+    ],
+    "skills[1]": [
+      262,
+      265
+    ],
+    "skills[2]": [
+      267,
+      270
+    ],
+    "skills[3]": [
+      272,
+      278
+    ],
+    "work[0].company": [
+      299,
+      317
+    ],
+    "work[0].title": [
+      320,
+      333
+    ],
+    "work[0].date": [
+      335,
+      339
+    ],
+    "work[0].bullets[0]": [
+      348,
+      421
+    ],
+    "work[0].bullets[1]": [
+      424,
+      485
+    ],
+    "work[0].bullets[2]": [
+      488,
+      561
+    ],
+    "work[1].company": [
+      563,
+      579
+    ],
+    "work[1].title": [
+      582,
+      605
+    ],
+    "work[1].date": [
+      607,
+      611
+    ],
+    "work[1].bullets[0]": [
+      620,
+      692
+    ],
+    "work[1].bullets[1]": [
+      695,
+      769
+    ],
+    "work[2].company": [
+      771,
+      791
+    ],
+    "work[2].title": [
+      794,
+      814
+    ],
+    "work[2].date": [
+      816,
+      820
+    ],
+    "work[2].bullets[0]": [
+      829,
+      902
+    ],
+    "work[2].bullets[1]": [
+      905,
+      966
+    ],
+    "education[0].institution": [
+      991,
+      1013
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Priya Fairbanks",
+    "skills[0]": "Airflow",
+    "skills[1]": "SQL",
+    "skills[2]": "AWS",
+    "skills[3]": "Python",
+    "work[0].company": "Blue Harbor Energy",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2017",
+    "work[0].bullets[0]": "Built streaming ingestion pipelines processing 52 TB of event data daily.",
+    "work[0].bullets[1]": "Modelled the warehouse layer in dbt across 43 source systems.",
+    "work[0].bullets[2]": "Migrated 9 legacy ETL jobs from cron to Airflow, cutting failures by 40%.",
+    "work[1].company": "Silverpine Media",
+    "work[1].title": "Associate Data Engineer",
+    "work[1].date": "2014",
+    "work[1].bullets[0]": "Built streaming ingestion pipelines processing 5 TB of event data daily.",
+    "work[1].bullets[1]": "Migrated 42 legacy ETL jobs from cron to Airflow, cutting failures by 43%.",
+    "work[2].company": "Brightline Analytics",
+    "work[2].title": "Junior Data Engineer",
+    "work[2].date": "2010",
+    "work[2].bullets[0]": "Built streaming ingestion pipelines processing 30 TB of event data daily.",
+    "work[2].bullets[1]": "Modelled the warehouse layer in dbt across 45 source systems.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

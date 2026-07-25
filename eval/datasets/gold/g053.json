@@ -1,0 +1,180 @@
+{
+  "gold": {
+    "name": "Malik Whitfield",
+    "headline": "Registered Nurse",
+    "summary": "Hands-on Registered Nurse who has spent 16 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "ACLS",
+      "Patient Care",
+      "EPIC",
+      "Triage",
+      "IV Therapy",
+      "Phlebotomy"
+    ],
+    "work": [
+      {
+        "company": "Ironwood Robotics",
+        "title": "Registered Nurse",
+        "start_date": "2020",
+        "end_date": "2023",
+        "bullets": [
+          "Managed a 54 bed unit across rotating night shifts.",
+          "Trained 54 new graduate nurses on EPIC charting workflows."
+        ]
+      },
+      {
+        "company": "Meridian Health Group",
+        "title": "Associate Registered Nurse",
+        "start_date": "2019",
+        "end_date": "2020",
+        "bullets": [
+          "Trained 33 new graduate nurses on EPIC charting workflows.",
+          "Maintained medication accuracy above 19% across audits."
+        ]
+      },
+      {
+        "company": "Meridian Health Group",
+        "title": "Associate Registered Nurse",
+        "start_date": "2015",
+        "end_date": "2018",
+        "bullets": [
+          "Maintained medication accuracy above 17% across audits.",
+          "Managed a 60 bed unit across rotating night shifts.",
+          "Trained 22 new graduate nurses on EPIC charting workflows."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2015"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      223,
+      227
+    ],
+    "skills[1]": [
+      229,
+      241
+    ],
+    "skills[2]": [
+      243,
+      247
+    ],
+    "skills[3]": [
+      249,
+      255
+    ],
+    "skills[4]": [
+      257,
+      267
+    ],
+    "skills[5]": [
+      269,
+      279
+    ],
+    "work[0].company": [
+      297,
+      314
+    ],
+    "work[0].title": [
+      317,
+      333
+    ],
+    "work[0].date": [
+      335,
+      339
+    ],
+    "work[0].bullets[0]": [
+      348,
+      399
+    ],
+    "work[0].bullets[1]": [
+      402,
+      460
+    ],
+    "work[1].company": [
+      462,
+      483
+    ],
+    "work[1].title": [
+      486,
+      512
+    ],
+    "work[1].date": [
+      514,
+      518
+    ],
+    "work[1].bullets[0]": [
+      527,
+      585
+    ],
+    "work[1].bullets[1]": [
+      588,
+      643
+    ],
+    "work[2].company": [
+      645,
+      666
+    ],
+    "work[2].title": [
+      669,
+      695
+    ],
+    "work[2].date": [
+      697,
+      701
+    ],
+    "work[2].bullets[0]": [
+      710,
+      765
+    ],
+    "work[2].bullets[1]": [
+      768,
+      819
+    ],
+    "work[2].bullets[2]": [
+      822,
+      880
+    ],
+    "education[0].institution": [
+      905,
+      938
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Malik Whitfield",
+    "skills[0]": "ACLS",
+    "skills[1]": "Patient Care",
+    "skills[2]": "EPIC",
+    "skills[3]": "Triage",
+    "skills[4]": "IV Therapy",
+    "skills[5]": "Phlebotomy",
+    "work[0].company": "Ironwood Robotics",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Managed a 54 bed unit across rotating night shifts.",
+    "work[0].bullets[1]": "Trained 54 new graduate nurses on EPIC charting workflows.",
+    "work[1].company": "Meridian Health Group",
+    "work[1].title": "Associate Registered Nurse",
+    "work[1].date": "2019",
+    "work[1].bullets[0]": "Trained 33 new graduate nurses on EPIC charting workflows.",
+    "work[1].bullets[1]": "Maintained medication accuracy above 19% across audits.",
+    "work[2].company": "Meridian Health Group",
+    "work[2].title": "Associate Registered Nurse",
+    "work[2].date": "2015",
+    "work[2].bullets[0]": "Maintained medication accuracy above 17% across audits.",
+    "work[2].bullets[1]": "Managed a 60 bed unit across rotating night shifts.",
+    "work[2].bullets[2]": "Trained 22 new graduate nurses on EPIC charting workflows.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Beatriz Lindqvist",
+    "headline": "Mechanical Engineer",
+    "summary": "Mechanical Engineer with 4 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "AutoCAD",
+      "Six Sigma",
+      "MATLAB",
+      "GD&T",
+      "FEA",
+      "SolidWorks"
+    ],
+    "work": [
+      {
+        "company": "Trellis Financial",
+        "title": "Mechanical Engineer",
+        "start_date": "2020",
+        "end_date": "2023",
+        "bullets": [
+          "Ran FEA validation on 31 structural components.",
+          "Cut part cost 15% through a design-for-manufacture review."
+        ]
+      },
+      {
+        "company": "Harborview Logistics",
+        "title": "Junior Mechanical Engineer",
+        "start_date": "2017",
+        "end_date": "2019",
+        "bullets": [
+          "Designed 53 injection-moulded assemblies released to production.",
+          "Cut part cost 29% through a design-for-manufacture review.",
+          "Ran FEA validation on 37 structural components."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2017"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      17
+    ],
+    "skills[0]": [
+      245,
+      252
+    ],
+    "skills[1]": [
+      254,
+      263
+    ],
+    "skills[2]": [
+      265,
+      271
+    ],
+    "skills[3]": [
+      273,
+      277
+    ],
+    "skills[4]": [
+      279,
+      282
+    ],
+    "skills[5]": [
+      284,
+      294
+    ],
+    "work[0].company": [
+      315,
+      332
+    ],
+    "work[0].title": [
+      335,
+      354
+    ],
+    "work[0].date": [
+      356,
+      360
+    ],
+    "work[0].bullets[0]": [
+      369,
+      416
+    ],
+    "work[0].bullets[1]": [
+      419,
+      477
+    ],
+    "work[1].company": [
+      479,
+      499
+    ],
+    "work[1].title": [
+      502,
+      528
+    ],
+    "work[1].date": [
+      530,
+      534
+    ],
+    "work[1].bullets[0]": [
+      543,
+      607
+    ],
+    "work[1].bullets[1]": [
+      610,
+      668
+    ],
+    "work[1].bullets[2]": [
+      671,
+      718
+    ],
+    "education[0].institution": [
+      730,
+      763
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Beatriz Lindqvist",
+    "skills[0]": "AutoCAD",
+    "skills[1]": "Six Sigma",
+    "skills[2]": "MATLAB",
+    "skills[3]": "GD&T",
+    "skills[4]": "FEA",
+    "skills[5]": "SolidWorks",
+    "work[0].company": "Trellis Financial",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Ran FEA validation on 31 structural components.",
+    "work[0].bullets[1]": "Cut part cost 15% through a design-for-manufacture review.",
+    "work[1].company": "Harborview Logistics",
+    "work[1].title": "Junior Mechanical Engineer",
+    "work[1].date": "2017",
+    "work[1].bullets[0]": "Designed 53 injection-moulded assemblies released to production.",
+    "work[1].bullets[1]": "Cut part cost 29% through a design-for-manufacture review.",
+    "work[1].bullets[2]": "Ran FEA validation on 37 structural components.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

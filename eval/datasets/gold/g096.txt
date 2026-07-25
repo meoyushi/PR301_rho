@@ -1,0 +1,18 @@
+Ellis Novak
+Data Engineer
+ellis.novak@example.com
+
+PROFILE
+Hands-on Data Engineer who has spent 15 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+CORE COMPETENCIES
+Airflow, Snowflake, Kafka, SQL, Python, dbt
+
+EMPLOYMENT HISTORY
+Cobalt Interactive — Data Engineer (2021–2024)
+- Modelled the warehouse layer in dbt across 26 source systems.
+- Built streaming ingestion pipelines processing 17 TB of event data daily.
+- Migrated 40 legacy ETL jobs from cron to Airflow, cutting failures by 25%.
+
+EDUCATION AND TRAINING
+Ashford Polytechnic — B.S. Computer Science, 2021

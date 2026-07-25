@@ -1,0 +1,104 @@
+{
+  "gold": {
+    "name": "Dana Fairbanks",
+    "headline": "Registered Nurse",
+    "summary": "Hands-on Registered Nurse who has spent 8 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Phlebotomy",
+      "IV Therapy",
+      "Patient Care",
+      "EPIC",
+      "ACLS"
+    ],
+    "work": [
+      {
+        "company": "Blue Harbor Energy",
+        "title": "Registered Nurse",
+        "start_date": "2019",
+        "end_date": "2022",
+        "bullets": [
+          "Managed a 51 bed unit across rotating night shifts.",
+          "Maintained medication accuracy above 17% across audits.",
+          "Trained 6 new graduate nurses on EPIC charting workflows."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      14
+    ],
+    "skills[0]": [
+      243,
+      253
+    ],
+    "skills[1]": [
+      255,
+      265
+    ],
+    "skills[2]": [
+      267,
+      279
+    ],
+    "skills[3]": [
+      281,
+      285
+    ],
+    "skills[4]": [
+      287,
+      291
+    ],
+    "work[0].company": [
+      304,
+      322
+    ],
+    "work[0].title": [
+      325,
+      341
+    ],
+    "work[0].date": [
+      343,
+      347
+    ],
+    "work[0].bullets[0]": [
+      356,
+      407
+    ],
+    "work[0].bullets[1]": [
+      410,
+      465
+    ],
+    "work[0].bullets[2]": [
+      468,
+      525
+    ],
+    "education[0].institution": [
+      547,
+      564
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Dana Fairbanks",
+    "skills[0]": "Phlebotomy",
+    "skills[1]": "IV Therapy",
+    "skills[2]": "Patient Care",
+    "skills[3]": "EPIC",
+    "skills[4]": "ACLS",
+    "work[0].company": "Blue Harbor Energy",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Managed a 51 bed unit across rotating night shifts.",
+    "work[0].bullets[1]": "Maintained medication accuracy above 17% across audits.",
+    "work[0].bullets[2]": "Trained 6 new graduate nurses on EPIC charting workflows.",
+    "education[0].institution": "Northgate College"
+  }
+}

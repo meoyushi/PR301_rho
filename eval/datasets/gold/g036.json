@@ -1,0 +1,92 @@
+{
+  "gold": {
+    "name": "Ingrid Aubert",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 11 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Salesforce",
+      "SEO",
+      "Google Analytics",
+      "A/B Testing"
+    ],
+    "work": [
+      {
+        "company": "Copperfield Retail",
+        "title": "Marketing Manager",
+        "start_date": "2024",
+        "end_date": "2025",
+        "bullets": [
+          "Managed a 4 million dollar annual paid media budget.",
+          "Ran 34 A/B tests on lifecycle email, lifting conversion 13%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2024"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      221,
+      231
+    ],
+    "skills[1]": [
+      233,
+      236
+    ],
+    "skills[2]": [
+      238,
+      254
+    ],
+    "skills[3]": [
+      256,
+      267
+    ],
+    "work[0].company": [
+      285,
+      303
+    ],
+    "work[0].title": [
+      306,
+      323
+    ],
+    "work[0].date": [
+      325,
+      329
+    ],
+    "work[0].bullets[0]": [
+      338,
+      390
+    ],
+    "work[0].bullets[1]": [
+      393,
+      453
+    ],
+    "education[0].institution": [
+      465,
+      484
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Ingrid Aubert",
+    "skills[0]": "Salesforce",
+    "skills[1]": "SEO",
+    "skills[2]": "Google Analytics",
+    "skills[3]": "A/B Testing",
+    "work[0].company": "Copperfield Retail",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2024",
+    "work[0].bullets[0]": "Managed a 4 million dollar annual paid media budget.",
+    "work[0].bullets[1]": "Ran 34 A/B tests on lifecycle email, lifting conversion 13%.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

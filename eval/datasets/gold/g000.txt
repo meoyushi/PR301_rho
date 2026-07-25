@@ -1,0 +1,25 @@
+Malik Delgado
+Marketing Manager
+malik.delgado@example.com
+
+SUMMARY
+Marketing Manager with 6 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+TECHNICAL SKILLS
+Salesforce, A/B Testing, HubSpot, Copywriting
+
+PROFESSIONAL EXPERIENCE
+Cobalt Interactive — Marketing Manager (2022–2024)
+- Managed a 54 million dollar annual paid media budget.
+- Ran 5 A/B tests on lifecycle email, lifting conversion 11%.
+
+Brightline Analytics — Junior Marketing Manager (2020–2021)
+- Managed a 10 million dollar annual paid media budget.
+- Ran 19 A/B tests on lifecycle email, lifting conversion 29%.
+
+Cobalt Interactive — Junior Marketing Manager (2019–2020)
+- Ran 58 A/B tests on lifecycle email, lifting conversion 18%.
+- Managed a 20 million dollar annual paid media budget.
+
+EDUCATION AND TRAINING
+Lakeshore University — B.S. Computer Science, 2019

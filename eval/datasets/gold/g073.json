@@ -1,0 +1,180 @@
+{
+  "gold": {
+    "name": "Dana Castellanos",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 3 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "Google Analytics",
+      "HubSpot",
+      "Salesforce",
+      "Copywriting"
+    ],
+    "work": [
+      {
+        "company": "Ironwood Robotics",
+        "title": "Marketing Manager",
+        "start_date": "2018",
+        "end_date": "2021",
+        "bullets": [
+          "Ran 2 A/B tests on lifecycle email, lifting conversion 38%.",
+          "Managed a 49 million dollar annual paid media budget.",
+          "Grew organic traffic 35% year over year through an SEO content programme."
+        ]
+      },
+      {
+        "company": "Meridian Health Group",
+        "title": "Junior Marketing Manager",
+        "start_date": "2016",
+        "end_date": "2018",
+        "bullets": [
+          "Grew organic traffic 30% year over year through an SEO content programme.",
+          "Managed a 8 million dollar annual paid media budget.",
+          "Ran 20 A/B tests on lifecycle email, lifting conversion 11%."
+        ]
+      },
+      {
+        "company": "Silverpine Media",
+        "title": "Junior Marketing Manager",
+        "start_date": "2011",
+        "end_date": "2015",
+        "bullets": [
+          "Managed a 27 million dollar annual paid media budget.",
+          "Ran 46 A/B tests on lifecycle email, lifting conversion 38%.",
+          "Grew organic traffic 16% year over year through an SEO content programme."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "B.S.",
+        "field": "Information Systems",
+        "end_year": "2011"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      16
+    ],
+    "skills[0]": [
+      225,
+      241
+    ],
+    "skills[1]": [
+      243,
+      250
+    ],
+    "skills[2]": [
+      252,
+      262
+    ],
+    "skills[3]": [
+      264,
+      275
+    ],
+    "work[0].company": [
+      293,
+      310
+    ],
+    "work[0].title": [
+      313,
+      330
+    ],
+    "work[0].date": [
+      332,
+      336
+    ],
+    "work[0].bullets[0]": [
+      345,
+      404
+    ],
+    "work[0].bullets[1]": [
+      407,
+      460
+    ],
+    "work[0].bullets[2]": [
+      463,
+      536
+    ],
+    "work[1].company": [
+      538,
+      559
+    ],
+    "work[1].title": [
+      562,
+      586
+    ],
+    "work[1].date": [
+      588,
+      592
+    ],
+    "work[1].bullets[0]": [
+      601,
+      674
+    ],
+    "work[1].bullets[1]": [
+      677,
+      729
+    ],
+    "work[1].bullets[2]": [
+      732,
+      792
+    ],
+    "work[2].company": [
+      794,
+      810
+    ],
+    "work[2].title": [
+      813,
+      837
+    ],
+    "work[2].date": [
+      839,
+      843
+    ],
+    "work[2].bullets[0]": [
+      852,
+      905
+    ],
+    "work[2].bullets[1]": [
+      908,
+      968
+    ],
+    "work[2].bullets[2]": [
+      971,
+      1044
+    ],
+    "education[0].institution": [
+      1056,
+      1078
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Dana Castellanos",
+    "skills[0]": "Google Analytics",
+    "skills[1]": "HubSpot",
+    "skills[2]": "Salesforce",
+    "skills[3]": "Copywriting",
+    "work[0].company": "Ironwood Robotics",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2018",
+    "work[0].bullets[0]": "Ran 2 A/B tests on lifecycle email, lifting conversion 38%.",
+    "work[0].bullets[1]": "Managed a 49 million dollar annual paid media budget.",
+    "work[0].bullets[2]": "Grew organic traffic 35% year over year through an SEO content programme.",
+    "work[1].company": "Meridian Health Group",
+    "work[1].title": "Junior Marketing Manager",
+    "work[1].date": "2016",
+    "work[1].bullets[0]": "Grew organic traffic 30% year over year through an SEO content programme.",
+    "work[1].bullets[1]": "Managed a 8 million dollar annual paid media budget.",
+    "work[1].bullets[2]": "Ran 20 A/B tests on lifecycle email, lifting conversion 11%.",
+    "work[2].company": "Silverpine Media",
+    "work[2].title": "Junior Marketing Manager",
+    "work[2].date": "2011",
+    "work[2].bullets[0]": "Managed a 27 million dollar annual paid media budget.",
+    "work[2].bullets[1]": "Ran 46 A/B tests on lifecycle email, lifting conversion 38%.",
+    "work[2].bullets[2]": "Grew organic traffic 16% year over year through an SEO content programme.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

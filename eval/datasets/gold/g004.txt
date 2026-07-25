@@ -1,0 +1,27 @@
+Soren Kowalski
+Mechanical Engineer
+soren.kowalski@example.com
+
+PROFESSIONAL SUMMARY
+Hands-on Mechanical Engineer who has spent 17 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+CORE COMPETENCIES
+Six Sigma, AutoCAD, FEA, SolidWorks, GD&T
+
+WORK EXPERIENCE
+Trellis Financial — Mechanical Engineer (2021–2024)
+- Ran FEA validation on 36 structural components.
+- Cut part cost 43% through a design-for-manufacture review.
+
+Harborview Logistics — Associate Mechanical Engineer (2017–2020)
+- Cut part cost 19% through a design-for-manufacture review.
+- Designed 24 injection-moulded assemblies released to production.
+- Ran FEA validation on 28 structural components.
+
+Brightline Analytics — Associate Mechanical Engineer (2012–2016)
+- Cut part cost 38% through a design-for-manufacture review.
+- Ran FEA validation on 45 structural components.
+- Designed 44 injection-moulded assemblies released to production.
+
+EDUCATION AND TRAINING
+Fairmont State College — M.S. Data Science, 2012

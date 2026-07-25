@@ -1,0 +1,98 @@
+{
+  "gold": {
+    "name": "Rowan Mbeki",
+    "headline": "Registered Nurse",
+    "summary": "Registered Nurse with 9 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "IV Therapy",
+      "Phlebotomy",
+      "Patient Care",
+      "EPIC"
+    ],
+    "work": [
+      {
+        "company": "Meridian Health Group",
+        "title": "Registered Nurse",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Managed a 54 bed unit across rotating night shifts.",
+          "Trained 10 new graduate nurses on EPIC charting workflows.",
+          "Maintained medication accuracy above 28% across audits."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2022"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      238,
+      248
+    ],
+    "skills[1]": [
+      250,
+      260
+    ],
+    "skills[2]": [
+      262,
+      274
+    ],
+    "skills[3]": [
+      276,
+      280
+    ],
+    "work[0].company": [
+      298,
+      319
+    ],
+    "work[0].title": [
+      322,
+      338
+    ],
+    "work[0].date": [
+      340,
+      344
+    ],
+    "work[0].bullets[0]": [
+      353,
+      404
+    ],
+    "work[0].bullets[1]": [
+      407,
+      465
+    ],
+    "work[0].bullets[2]": [
+      468,
+      523
+    ],
+    "education[0].institution": [
+      548,
+      581
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Rowan Mbeki",
+    "skills[0]": "IV Therapy",
+    "skills[1]": "Phlebotomy",
+    "skills[2]": "Patient Care",
+    "skills[3]": "EPIC",
+    "work[0].company": "Meridian Health Group",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Managed a 54 bed unit across rotating night shifts.",
+    "work[0].bullets[1]": "Trained 10 new graduate nurses on EPIC charting workflows.",
+    "work[0].bullets[2]": "Maintained medication accuracy above 28% across audits.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

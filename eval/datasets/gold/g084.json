@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Omar Ramachandran",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 7 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "SEO",
+      "Google Analytics",
+      "Copywriting",
+      "HubSpot",
+      "Salesforce"
+    ],
+    "work": [
+      {
+        "company": "Northwind Systems",
+        "title": "Marketing Manager",
+        "start_date": "2017",
+        "end_date": "2021",
+        "bullets": [
+          "Ran 60 A/B tests on lifecycle email, lifting conversion 21%.",
+          "Managed a 48 million dollar annual paid media budget.",
+          "Grew organic traffic 11% year over year through an SEO content programme."
+        ]
+      },
+      {
+        "company": "Northwind Systems",
+        "title": "Associate Marketing Manager",
+        "start_date": "2015",
+        "end_date": "2016",
+        "bullets": [
+          "Ran 36 A/B tests on lifecycle email, lifting conversion 16%.",
+          "Grew organic traffic 29% year over year through an SEO content programme.",
+          "Managed a 26 million dollar annual paid media budget."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2015"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      17
+    ],
+    "skills[0]": [
+      265,
+      268
+    ],
+    "skills[1]": [
+      270,
+      286
+    ],
+    "skills[2]": [
+      288,
+      299
+    ],
+    "skills[3]": [
+      301,
+      308
+    ],
+    "skills[4]": [
+      310,
+      320
+    ],
+    "work[0].company": [
+      338,
+      355
+    ],
+    "work[0].title": [
+      358,
+      375
+    ],
+    "work[0].date": [
+      377,
+      381
+    ],
+    "work[0].bullets[0]": [
+      390,
+      450
+    ],
+    "work[0].bullets[1]": [
+      453,
+      506
+    ],
+    "work[0].bullets[2]": [
+      509,
+      582
+    ],
+    "work[1].company": [
+      584,
+      601
+    ],
+    "work[1].title": [
+      604,
+      631
+    ],
+    "work[1].date": [
+      633,
+      637
+    ],
+    "work[1].bullets[0]": [
+      646,
+      706
+    ],
+    "work[1].bullets[1]": [
+      709,
+      782
+    ],
+    "work[1].bullets[2]": [
+      785,
+      838
+    ],
+    "education[0].institution": [
+      863,
+      883
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Omar Ramachandran",
+    "skills[0]": "SEO",
+    "skills[1]": "Google Analytics",
+    "skills[2]": "Copywriting",
+    "skills[3]": "HubSpot",
+    "skills[4]": "Salesforce",
+    "work[0].company": "Northwind Systems",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2017",
+    "work[0].bullets[0]": "Ran 60 A/B tests on lifecycle email, lifting conversion 21%.",
+    "work[0].bullets[1]": "Managed a 48 million dollar annual paid media budget.",
+    "work[0].bullets[2]": "Grew organic traffic 11% year over year through an SEO content programme.",
+    "work[1].company": "Northwind Systems",
+    "work[1].title": "Associate Marketing Manager",
+    "work[1].date": "2015",
+    "work[1].bullets[0]": "Ran 36 A/B tests on lifecycle email, lifting conversion 16%.",
+    "work[1].bullets[1]": "Grew organic traffic 29% year over year through an SEO content programme.",
+    "work[1].bullets[2]": "Managed a 26 million dollar annual paid media budget.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

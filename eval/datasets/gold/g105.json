@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Malik Hyun",
+    "headline": "Registered Nurse",
+    "summary": "Hands-on Registered Nurse who has spent 17 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "IV Therapy",
+      "Triage",
+      "EPIC",
+      "ACLS"
+    ],
+    "work": [
+      {
+        "company": "Northwind Systems",
+        "title": "Registered Nurse",
+        "start_date": "2020",
+        "end_date": "2023",
+        "bullets": [
+          "Trained 40 new graduate nurses on EPIC charting workflows.",
+          "Managed a 5 bed unit across rotating night shifts.",
+          "Maintained medication accuracy above 42% across audits."
+        ]
+      },
+      {
+        "company": "Blue Harbor Energy",
+        "title": "Junior Registered Nurse",
+        "start_date": "2017",
+        "end_date": "2020",
+        "bullets": [
+          "Managed a 15 bed unit across rotating night shifts.",
+          "Maintained medication accuracy above 17% across audits."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2017"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      10
+    ],
+    "skills[0]": [
+      223,
+      233
+    ],
+    "skills[1]": [
+      235,
+      241
+    ],
+    "skills[2]": [
+      243,
+      247
+    ],
+    "skills[3]": [
+      249,
+      253
+    ],
+    "work[0].company": [
+      274,
+      291
+    ],
+    "work[0].title": [
+      294,
+      310
+    ],
+    "work[0].date": [
+      312,
+      316
+    ],
+    "work[0].bullets[0]": [
+      325,
+      383
+    ],
+    "work[0].bullets[1]": [
+      386,
+      436
+    ],
+    "work[0].bullets[2]": [
+      439,
+      494
+    ],
+    "work[1].company": [
+      496,
+      514
+    ],
+    "work[1].title": [
+      517,
+      540
+    ],
+    "work[1].date": [
+      542,
+      546
+    ],
+    "work[1].bullets[0]": [
+      555,
+      606
+    ],
+    "work[1].bullets[1]": [
+      609,
+      664
+    ],
+    "education[0].institution": [
+      689,
+      705
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Malik Hyun",
+    "skills[0]": "IV Therapy",
+    "skills[1]": "Triage",
+    "skills[2]": "EPIC",
+    "skills[3]": "ACLS",
+    "work[0].company": "Northwind Systems",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Trained 40 new graduate nurses on EPIC charting workflows.",
+    "work[0].bullets[1]": "Managed a 5 bed unit across rotating night shifts.",
+    "work[0].bullets[2]": "Maintained medication accuracy above 42% across audits.",
+    "work[1].company": "Blue Harbor Energy",
+    "work[1].title": "Junior Registered Nurse",
+    "work[1].date": "2017",
+    "work[1].bullets[0]": "Managed a 15 bed unit across rotating night shifts.",
+    "work[1].bullets[1]": "Maintained medication accuracy above 17% across audits.",
+    "education[0].institution": "State University"
+  }
+}

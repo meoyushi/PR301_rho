@@ -1,0 +1,110 @@
+{
+  "gold": {
+    "name": "Ellis Novak",
+    "headline": "Data Engineer",
+    "summary": "Hands-on Data Engineer who has spent 15 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Airflow",
+      "Snowflake",
+      "Kafka",
+      "SQL",
+      "Python",
+      "dbt"
+    ],
+    "work": [
+      {
+        "company": "Cobalt Interactive",
+        "title": "Data Engineer",
+        "start_date": "2021",
+        "end_date": "2024",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 26 source systems.",
+          "Built streaming ingestion pipelines processing 17 TB of event data daily.",
+          "Migrated 40 legacy ETL jobs from cron to Airflow, cutting failures by 25%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2021"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      220,
+      227
+    ],
+    "skills[1]": [
+      229,
+      238
+    ],
+    "skills[2]": [
+      240,
+      245
+    ],
+    "skills[3]": [
+      247,
+      250
+    ],
+    "skills[4]": [
+      252,
+      258
+    ],
+    "skills[5]": [
+      260,
+      263
+    ],
+    "work[0].company": [
+      284,
+      302
+    ],
+    "work[0].title": [
+      305,
+      318
+    ],
+    "work[0].date": [
+      320,
+      324
+    ],
+    "work[0].bullets[0]": [
+      333,
+      394
+    ],
+    "work[0].bullets[1]": [
+      397,
+      470
+    ],
+    "work[0].bullets[2]": [
+      473,
+      547
+    ],
+    "education[0].institution": [
+      572,
+      591
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Ellis Novak",
+    "skills[0]": "Airflow",
+    "skills[1]": "Snowflake",
+    "skills[2]": "Kafka",
+    "skills[3]": "SQL",
+    "skills[4]": "Python",
+    "skills[5]": "dbt",
+    "work[0].company": "Cobalt Interactive",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2021",
+    "work[0].bullets[0]": "Modelled the warehouse layer in dbt across 26 source systems.",
+    "work[0].bullets[1]": "Built streaming ingestion pipelines processing 17 TB of event data daily.",
+    "work[0].bullets[2]": "Migrated 40 legacy ETL jobs from cron to Airflow, cutting failures by 25%.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

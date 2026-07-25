@@ -1,0 +1,133 @@
+{
+  "gold": {
+    "name": "Aiko Castellanos",
+    "headline": "Data Engineer",
+    "summary": "Hands-on Data Engineer who has spent 16 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "dbt",
+      "Python",
+      "Airflow",
+      "AWS"
+    ],
+    "work": [
+      {
+        "company": "Copperfield Retail",
+        "title": "Data Engineer",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Migrated 53 legacy ETL jobs from cron to Airflow, cutting failures by 21%.",
+          "Built streaming ingestion pipelines processing 37 TB of event data daily.",
+          "Modelled the warehouse layer in dbt across 43 source systems."
+        ]
+      },
+      {
+        "company": "Copperfield Retail",
+        "title": "Associate Data Engineer",
+        "start_date": "2016",
+        "end_date": "2019",
+        "bullets": [
+          "Migrated 36 legacy ETL jobs from cron to Airflow, cutting failures by 34%.",
+          "Modelled the warehouse layer in dbt across 58 source systems."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2016"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      16
+    ],
+    "skills[0]": [
+      243,
+      246
+    ],
+    "skills[1]": [
+      248,
+      254
+    ],
+    "skills[2]": [
+      256,
+      263
+    ],
+    "skills[3]": [
+      265,
+      268
+    ],
+    "work[0].company": [
+      289,
+      307
+    ],
+    "work[0].title": [
+      310,
+      323
+    ],
+    "work[0].date": [
+      325,
+      329
+    ],
+    "work[0].bullets[0]": [
+      338,
+      412
+    ],
+    "work[0].bullets[1]": [
+      415,
+      488
+    ],
+    "work[0].bullets[2]": [
+      491,
+      552
+    ],
+    "work[1].company": [
+      554,
+      572
+    ],
+    "work[1].title": [
+      575,
+      598
+    ],
+    "work[1].date": [
+      600,
+      604
+    ],
+    "work[1].bullets[0]": [
+      613,
+      687
+    ],
+    "work[1].bullets[1]": [
+      690,
+      751
+    ],
+    "education[0].institution": [
+      763,
+      796
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Aiko Castellanos",
+    "skills[0]": "dbt",
+    "skills[1]": "Python",
+    "skills[2]": "Airflow",
+    "skills[3]": "AWS",
+    "work[0].company": "Copperfield Retail",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Migrated 53 legacy ETL jobs from cron to Airflow, cutting failures by 21%.",
+    "work[0].bullets[1]": "Built streaming ingestion pipelines processing 37 TB of event data daily.",
+    "work[0].bullets[2]": "Modelled the warehouse layer in dbt across 43 source systems.",
+    "work[1].company": "Copperfield Retail",
+    "work[1].title": "Associate Data Engineer",
+    "work[1].date": "2016",
+    "work[1].bullets[0]": "Migrated 36 legacy ETL jobs from cron to Airflow, cutting failures by 34%.",
+    "work[1].bullets[1]": "Modelled the warehouse layer in dbt across 58 source systems.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

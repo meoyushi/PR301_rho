@@ -1,0 +1,98 @@
+{
+  "gold": {
+    "name": "Priya Lindqvist",
+    "headline": "Mechanical Engineer",
+    "summary": "Hands-on Mechanical Engineer who has spent 13 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "FEA",
+      "AutoCAD",
+      "SolidWorks",
+      "MATLAB",
+      "GD&T"
+    ],
+    "work": [
+      {
+        "company": "Meridian Health Group",
+        "title": "Mechanical Engineer",
+        "start_date": "2019",
+        "end_date": "2023",
+        "bullets": [
+          "Cut part cost 43% through a design-for-manufacture review.",
+          "Designed 25 injection-moulded assemblies released to production."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Lakeshore University",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      240,
+      243
+    ],
+    "skills[1]": [
+      245,
+      252
+    ],
+    "skills[2]": [
+      254,
+      264
+    ],
+    "skills[3]": [
+      266,
+      272
+    ],
+    "skills[4]": [
+      274,
+      278
+    ],
+    "work[0].company": [
+      291,
+      312
+    ],
+    "work[0].title": [
+      315,
+      334
+    ],
+    "work[0].date": [
+      336,
+      340
+    ],
+    "work[0].bullets[0]": [
+      349,
+      407
+    ],
+    "work[0].bullets[1]": [
+      410,
+      474
+    ],
+    "education[0].institution": [
+      486,
+      506
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Priya Lindqvist",
+    "skills[0]": "FEA",
+    "skills[1]": "AutoCAD",
+    "skills[2]": "SolidWorks",
+    "skills[3]": "MATLAB",
+    "skills[4]": "GD&T",
+    "work[0].company": "Meridian Health Group",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Cut part cost 43% through a design-for-manufacture review.",
+    "work[0].bullets[1]": "Designed 25 injection-moulded assemblies released to production.",
+    "education[0].institution": "Lakeshore University"
+  }
+}

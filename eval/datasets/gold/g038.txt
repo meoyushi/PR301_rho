@@ -1,0 +1,27 @@
+Omar Whitfield
+Backend Engineer
+omar.whitfield@example.com
+
+PROFILE
+Hands-on Backend Engineer who has spent 6 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+SKILLS
+PostgreSQL, Java, Docker, Kubernetes
+
+EXPERIENCE
+Harborview Logistics — Backend Engineer (2023–2024)
+- Led migration of 36 services onto Kubernetes.
+- Designed a gRPC service handling 7 thousand requests per second.
+- Reduced p99 latency by 22% by introducing a Redis cache layer.
+
+Lantern Software — Junior Backend Engineer (2021–2022)
+- Led migration of 23 services onto Kubernetes.
+- Reduced p99 latency by 18% by introducing a Redis cache layer.
+
+Northwind Systems — Associate Backend Engineer (2019–2020)
+- Reduced p99 latency by 44% by introducing a Redis cache layer.
+- Designed a gRPC service handling 7 thousand requests per second.
+- Led migration of 37 services onto Kubernetes.
+
+EDUCATION
+Riverside Institute of Technology — B.A. Economics, 2019

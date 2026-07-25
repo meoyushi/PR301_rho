@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Idris Okonkwo",
+    "headline": "Backend Engineer",
+    "summary": "Backend Engineer with 4 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Java",
+      "Kafka",
+      "gRPC",
+      "Go",
+      "Docker"
+    ],
+    "work": [
+      {
+        "company": "Ironwood Robotics",
+        "title": "Backend Engineer",
+        "start_date": "2023",
+        "end_date": "2025",
+        "bullets": [
+          "Designed a gRPC service handling 40 thousand requests per second.",
+          "Led migration of 24 services onto Kubernetes."
+        ]
+      },
+      {
+        "company": "Brightline Analytics",
+        "title": "Associate Backend Engineer",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Designed a gRPC service handling 44 thousand requests per second.",
+          "Led migration of 28 services onto Kubernetes.",
+          "Reduced p99 latency by 14% by introducing a Redis cache layer."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "M.S.",
+        "field": "Data Science",
+        "end_year": "2022"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      13
+    ],
+    "skills[0]": [
+      243,
+      247
+    ],
+    "skills[1]": [
+      249,
+      254
+    ],
+    "skills[2]": [
+      256,
+      260
+    ],
+    "skills[3]": [
+      262,
+      264
+    ],
+    "skills[4]": [
+      266,
+      272
+    ],
+    "work[0].company": [
+      285,
+      302
+    ],
+    "work[0].title": [
+      305,
+      321
+    ],
+    "work[0].date": [
+      323,
+      327
+    ],
+    "work[0].bullets[0]": [
+      336,
+      401
+    ],
+    "work[0].bullets[1]": [
+      404,
+      449
+    ],
+    "work[1].company": [
+      451,
+      471
+    ],
+    "work[1].title": [
+      474,
+      500
+    ],
+    "work[1].date": [
+      502,
+      506
+    ],
+    "work[1].bullets[0]": [
+      515,
+      580
+    ],
+    "work[1].bullets[1]": [
+      583,
+      628
+    ],
+    "work[1].bullets[2]": [
+      631,
+      693
+    ],
+    "education[0].institution": [
+      705,
+      724
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Idris Okonkwo",
+    "skills[0]": "Java",
+    "skills[1]": "Kafka",
+    "skills[2]": "gRPC",
+    "skills[3]": "Go",
+    "skills[4]": "Docker",
+    "work[0].company": "Ironwood Robotics",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2023",
+    "work[0].bullets[0]": "Designed a gRPC service handling 40 thousand requests per second.",
+    "work[0].bullets[1]": "Led migration of 24 services onto Kubernetes.",
+    "work[1].company": "Brightline Analytics",
+    "work[1].title": "Associate Backend Engineer",
+    "work[1].date": "2022",
+    "work[1].bullets[0]": "Designed a gRPC service handling 44 thousand requests per second.",
+    "work[1].bullets[1]": "Led migration of 28 services onto Kubernetes.",
+    "work[1].bullets[2]": "Reduced p99 latency by 14% by introducing a Redis cache layer.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "gold": {
+    "name": "Malik Fairbanks",
+    "headline": "Marketing Manager",
+    "summary": "Marketing Manager with 7 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "A/B Testing",
+      "HubSpot",
+      "Google Analytics",
+      "Copywriting"
+    ],
+    "work": [
+      {
+        "company": "Meridian Health Group",
+        "title": "Marketing Manager",
+        "start_date": "2022",
+        "end_date": "2025",
+        "bullets": [
+          "Grew organic traffic 15% year over year through an SEO content programme.",
+          "Managed a 27 million dollar annual paid media budget."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Riverside Institute of Technology",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2022"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      248,
+      259
+    ],
+    "skills[1]": [
+      261,
+      268
+    ],
+    "skills[2]": [
+      270,
+      286
+    ],
+    "skills[3]": [
+      288,
+      299
+    ],
+    "work[0].company": [
+      320,
+      341
+    ],
+    "work[0].title": [
+      344,
+      361
+    ],
+    "work[0].date": [
+      363,
+      367
+    ],
+    "work[0].bullets[0]": [
+      376,
+      449
+    ],
+    "work[0].bullets[1]": [
+      452,
+      505
+    ],
+    "education[0].institution": [
+      517,
+      550
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Malik Fairbanks",
+    "skills[0]": "A/B Testing",
+    "skills[1]": "HubSpot",
+    "skills[2]": "Google Analytics",
+    "skills[3]": "Copywriting",
+    "work[0].company": "Meridian Health Group",
+    "work[0].title": "Marketing Manager",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Grew organic traffic 15% year over year through an SEO content programme.",
+    "work[0].bullets[1]": "Managed a 27 million dollar annual paid media budget.",
+    "education[0].institution": "Riverside Institute of Technology"
+  }
+}

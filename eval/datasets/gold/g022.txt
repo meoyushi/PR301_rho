@@ -1,0 +1,17 @@
+Ellis Hyun
+Backend Engineer
+ellis.hyun@example.com
+
+SUMMARY
+Hands-on Backend Engineer who has spent 16 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+TECHNICAL SKILLS
+Kubernetes, Kafka, Java, Go, Redis, PostgreSQL
+
+EXPERIENCE
+Silverpine Media — Backend Engineer (2019–2021)
+- Led migration of 59 services onto Kubernetes.
+- Designed a gRPC service handling 40 thousand requests per second.
+
+EDUCATION AND TRAINING
+Ashford Polytechnic — M.B.A. Business Administration, 2019

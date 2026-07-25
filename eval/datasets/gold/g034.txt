@@ -1,0 +1,22 @@
+Amara Aubert
+Backend Engineer
+amara.aubert@example.com
+
+PROFESSIONAL SUMMARY
+Backend Engineer with 3 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+SKILLS
+PostgreSQL, Docker, gRPC, Go, Kubernetes
+
+WORK EXPERIENCE
+Harborview Logistics — Backend Engineer (2022–2025)
+- Reduced p99 latency by 29% by introducing a Redis cache layer.
+- Designed a gRPC service handling 4 thousand requests per second.
+
+Blue Harbor Energy — Junior Backend Engineer (2019–2021)
+- Designed a gRPC service handling 45 thousand requests per second.
+- Reduced p99 latency by 30% by introducing a Redis cache layer.
+- Led migration of 5 services onto Kubernetes.
+
+ACADEMIC BACKGROUND
+State University — M.B.A. Business Administration, 2019

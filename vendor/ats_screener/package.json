@@ -1,0 +1,6 @@
+{
+  "name": "rho-ats-screener-runner",
+  "private": true,
+  "type": "module",
+  "description": "Vendored ats-screener scoring rules + headless runner. See COMMIT.txt for upstream revision."
+}

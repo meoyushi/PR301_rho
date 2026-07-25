@@ -1,0 +1,21 @@
+Dana Delgado
+Mechanical Engineer
+dana.delgado@example.com
+
+PROFESSIONAL SUMMARY
+Mechanical Engineer with 17 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+CORE COMPETENCIES
+AutoCAD, Six Sigma, GD&T, MATLAB, FEA
+
+WORK EXPERIENCE
+Northwind Systems — Mechanical Engineer (2019–2023)
+- Ran FEA validation on 13 structural components.
+- Designed 9 injection-moulded assemblies released to production.
+
+Ironwood Robotics — Junior Mechanical Engineer (2015–2019)
+- Ran FEA validation on 26 structural components.
+- Designed 12 injection-moulded assemblies released to production.
+
+EDUCATION
+Northgate College — B.A. Economics, 2015

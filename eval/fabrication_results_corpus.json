@@ -1,0 +1,326 @@
+{
+  "backend": "ollama",
+  "pairs": 30,
+  "pairs_scored": 30,
+  "pairs_failed": 0,
+  "unsourced_shipped_gate_off": 31,
+  "unsourced_shipped_gate_on": 0,
+  "mean_fabrication_rate": 0.40703703703703703,
+  "per_pair": [
+    {
+      "id": "corpus-0-0",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 243.5
+    },
+    {
+      "id": "corpus-0-1",
+      "unsourced_off": 7,
+      "unsourced_on": 0,
+      "total_edits": 9,
+      "fabrication_rate": 0.7777777777777778,
+      "rejected": [
+        "Organizational skills",
+        "Communication",
+        "Customer service",
+        "Proficient in Excel and other Microsoft Office products, supporting detailed financial analysis and reporting.",
+        "Led the development of a private banking group focused on Act 20 and Act 22 clients, emphasizing confidentiality and discretion in handling sensitive information.",
+        "Communicated effectively with diverse stakeholders to manage customer service needs, ensuring high satisfaction levels.",
+        "Utilized Microsoft Outlook for scheduling and communication, showcasing reliable team setting collaboration."
+      ],
+      "seconds": 244.7
+    },
+    {
+      "id": "corpus-0-2",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 222.4
+    },
+    {
+      "id": "corpus-0-3",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 1,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        ">// Emphasize content creation as it's closest to the target requirements of social media, video production and print publications."
+      ],
+      "seconds": 196.2
+    },
+    {
+      "id": "corpus-0-4",
+      "unsourced_off": 5,
+      "unsourced_on": 0,
+      "total_edits": 5,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Microsoft Access",
+        "Maintained strict confidentiality regarding sensitive information related to default management.",
+        "Operated standard office equipment such as 10-key calculator for cash handling and accuracy in financial data entry.",
+        "Demonstrated strong decision-making skills by resolving complex customer issues.",
+        "Ensured team attendance and adherence to operational guidelines."
+      ],
+      "seconds": 221.8
+    },
+    {
+      "id": "corpus-0-5",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 187.5
+    },
+    {
+      "id": "corpus-0-6",
+      "unsourced_off": 2,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Microsoft Office Suite",
+        "MS Project"
+      ],
+      "seconds": 211.2
+    },
+    {
+      "id": "corpus-0-7",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 283.3
+    },
+    {
+      "id": "corpus-0-8",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 179.9
+    },
+    {
+      "id": "corpus-0-9",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 215.2
+    },
+    {
+      "id": "corpus-0-10",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 268.8
+    },
+    {
+      "id": "corpus-0-11",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 229.1
+    },
+    {
+      "id": "corpus-0-12",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 208.2
+    },
+    {
+      "id": "corpus-0-13",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 1,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Managed the entire Banquet and Garde Manger kitchen operations with over 40,000 sq. ft. of banquet space."
+      ],
+      "seconds": 165.4
+    },
+    {
+      "id": "corpus-0-14",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 3,
+      "fabrication_rate": 0.3333333333333333,
+      "rejected": [
+        "content creation"
+      ],
+      "seconds": 193.0
+    },
+    {
+      "id": "corpus-0-15",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 1,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 215.2
+    },
+    {
+      "id": "corpus-0-16",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 244.8
+    },
+    {
+      "id": "corpus-0-17",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 230.6
+    },
+    {
+      "id": "corpus-0-18",
+      "unsourced_off": 2,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Client assessment and analysis",
+        "Top producing sales professional and expert in the aerospace industry, utilizing Salesforce for client management."
+      ],
+      "seconds": 224.5
+    },
+    {
+      "id": "corpus-0-19",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 1,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Managed proposals, sales support, and customer feedback effectively."
+      ],
+      "seconds": 256.3
+    },
+    {
+      "id": "corpus-0-20",
+      "unsourced_off": 2,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Strengthened the strategic direction leading to a 31% year-to-date growth in social community with over 7.7 billion impressions across 112 communities on Facebook, Twitter, YouTube, Instagram.",
+        "Developed high-impact events such as the Psych Slumber Party, which achieved significant engagement and ratings improvement."
+      ],
+      "seconds": 246.8
+    },
+    {
+      "id": "corpus-0-21",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 276.6
+    },
+    {
+      "id": "corpus-0-22",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 207.6
+    },
+    {
+      "id": "corpus-0-23",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 1,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Coordinated with outside vendors to facilitate smooth operations within the office environment."
+      ],
+      "seconds": 180.4
+    },
+    {
+      "id": "corpus-0-24",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 2,
+      "fabrication_rate": 0.5,
+      "rejected": [
+        "Proven skills in sales and project management, indicating a capacity for critical thinking and communication."
+      ],
+      "seconds": 161.4
+    },
+    {
+      "id": "corpus-0-25",
+      "unsourced_off": 1,
+      "unsourced_on": 0,
+      "total_edits": 1,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Strong solution-driven problem solving skills"
+      ],
+      "seconds": 200.0
+    },
+    {
+      "id": "corpus-0-26",
+      "unsourced_off": 3,
+      "unsourced_on": 0,
+      "total_edits": 3,
+      "fabrication_rate": 1.0,
+      "rejected": [
+        "Certified Information Security Manager (CISM)",
+        "Certified Information Security Manager (CISM)",
+        "University of Houston (Master's Degree), University of Maryland University College (Bachelor's Degree)"
+      ],
+      "seconds": 212.9
+    },
+    {
+      "id": "corpus-0-27",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 236.0
+    },
+    {
+      "id": "corpus-0-28",
+      "unsourced_off": 3,
+      "unsourced_on": 0,
+      "total_edits": 5,
+      "fabrication_rate": 0.6,
+      "rejected": [
+        "Interpersonal communication",
+        "Jagjog National Training Certificate",
+        "Brainwise Certificate"
+      ],
+      "seconds": 178.8
+    },
+    {
+      "id": "corpus-0-29",
+      "unsourced_off": 0,
+      "unsourced_on": 0,
+      "total_edits": 0,
+      "fabrication_rate": 0.0,
+      "rejected": [],
+      "seconds": 237.8
+    }
+  ]
+}

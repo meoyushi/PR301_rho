@@ -1,0 +1,110 @@
+{
+  "gold": {
+    "name": "Malik Novak",
+    "headline": "Mechanical Engineer",
+    "summary": "Mechanical Engineer with 7 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "FEA",
+      "GD&T",
+      "MATLAB",
+      "AutoCAD",
+      "Six Sigma",
+      "SolidWorks"
+    ],
+    "work": [
+      {
+        "company": "Harborview Logistics",
+        "title": "Mechanical Engineer",
+        "start_date": "2020",
+        "end_date": "2021",
+        "bullets": [
+          "Ran FEA validation on 35 structural components.",
+          "Cut part cost 34% through a design-for-manufacture review.",
+          "Designed 7 injection-moulded assemblies released to production."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Fairmont State College",
+        "degree": "M.B.A.",
+        "field": "Business Administration",
+        "end_year": "2020"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      11
+    ],
+    "skills[0]": [
+      244,
+      247
+    ],
+    "skills[1]": [
+      249,
+      253
+    ],
+    "skills[2]": [
+      255,
+      261
+    ],
+    "skills[3]": [
+      263,
+      270
+    ],
+    "skills[4]": [
+      272,
+      281
+    ],
+    "skills[5]": [
+      283,
+      293
+    ],
+    "work[0].company": [
+      311,
+      331
+    ],
+    "work[0].title": [
+      334,
+      353
+    ],
+    "work[0].date": [
+      355,
+      359
+    ],
+    "work[0].bullets[0]": [
+      368,
+      415
+    ],
+    "work[0].bullets[1]": [
+      418,
+      476
+    ],
+    "work[0].bullets[2]": [
+      479,
+      542
+    ],
+    "education[0].institution": [
+      554,
+      576
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Malik Novak",
+    "skills[0]": "FEA",
+    "skills[1]": "GD&T",
+    "skills[2]": "MATLAB",
+    "skills[3]": "AutoCAD",
+    "skills[4]": "Six Sigma",
+    "skills[5]": "SolidWorks",
+    "work[0].company": "Harborview Logistics",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2020",
+    "work[0].bullets[0]": "Ran FEA validation on 35 structural components.",
+    "work[0].bullets[1]": "Cut part cost 34% through a design-for-manufacture review.",
+    "work[0].bullets[2]": "Designed 7 injection-moulded assemblies released to production.",
+    "education[0].institution": "Fairmont State College"
+  }
+}

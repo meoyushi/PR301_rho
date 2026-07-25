@@ -1,0 +1,145 @@
+{
+  "gold": {
+    "name": "Malik Aubert",
+    "headline": "Backend Engineer",
+    "summary": "Hands-on Backend Engineer who has spent 5 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Kubernetes",
+      "PostgreSQL",
+      "Go",
+      "gRPC",
+      "Docker"
+    ],
+    "work": [
+      {
+        "company": "Vantage Point Consulting",
+        "title": "Backend Engineer",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Designed a gRPC service handling 5 thousand requests per second.",
+          "Reduced p99 latency by 33% by introducing a Redis cache layer.",
+          "Led migration of 38 services onto Kubernetes."
+        ]
+      },
+      {
+        "company": "Cobalt Interactive",
+        "title": "Junior Backend Engineer",
+        "start_date": "2016",
+        "end_date": "2018",
+        "bullets": [
+          "Led migration of 45 services onto Kubernetes.",
+          "Reduced p99 latency by 27% by introducing a Redis cache layer.",
+          "Designed a gRPC service handling 53 thousand requests per second."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2016"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      12
+    ],
+    "skills[0]": [
+      216,
+      226
+    ],
+    "skills[1]": [
+      228,
+      238
+    ],
+    "skills[2]": [
+      240,
+      242
+    ],
+    "skills[3]": [
+      244,
+      248
+    ],
+    "skills[4]": [
+      250,
+      256
+    ],
+    "work[0].company": [
+      277,
+      301
+    ],
+    "work[0].title": [
+      304,
+      320
+    ],
+    "work[0].date": [
+      322,
+      326
+    ],
+    "work[0].bullets[0]": [
+      335,
+      399
+    ],
+    "work[0].bullets[1]": [
+      402,
+      464
+    ],
+    "work[0].bullets[2]": [
+      467,
+      512
+    ],
+    "work[1].company": [
+      514,
+      532
+    ],
+    "work[1].title": [
+      535,
+      558
+    ],
+    "work[1].date": [
+      560,
+      564
+    ],
+    "work[1].bullets[0]": [
+      573,
+      618
+    ],
+    "work[1].bullets[1]": [
+      621,
+      683
+    ],
+    "work[1].bullets[2]": [
+      686,
+      751
+    ],
+    "education[0].institution": [
+      776,
+      792
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Malik Aubert",
+    "skills[0]": "Kubernetes",
+    "skills[1]": "PostgreSQL",
+    "skills[2]": "Go",
+    "skills[3]": "gRPC",
+    "skills[4]": "Docker",
+    "work[0].company": "Vantage Point Consulting",
+    "work[0].title": "Backend Engineer",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Designed a gRPC service handling 5 thousand requests per second.",
+    "work[0].bullets[1]": "Reduced p99 latency by 33% by introducing a Redis cache layer.",
+    "work[0].bullets[2]": "Led migration of 38 services onto Kubernetes.",
+    "work[1].company": "Cobalt Interactive",
+    "work[1].title": "Junior Backend Engineer",
+    "work[1].date": "2016",
+    "work[1].bullets[0]": "Led migration of 45 services onto Kubernetes.",
+    "work[1].bullets[1]": "Reduced p99 latency by 27% by introducing a Redis cache layer.",
+    "work[1].bullets[2]": "Designed a gRPC service handling 53 thousand requests per second.",
+    "education[0].institution": "State University"
+  }
+}

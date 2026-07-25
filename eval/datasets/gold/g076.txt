@@ -1,0 +1,22 @@
+Idris Okonkwo
+Backend Engineer
+idris.okonkwo@example.com
+
+PROFILE
+Backend Engineer with 4 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.
+
+CORE COMPETENCIES
+Java, Kafka, gRPC, Go, Docker
+
+EXPERIENCE
+Ironwood Robotics — Backend Engineer (2023–2025)
+- Designed a gRPC service handling 40 thousand requests per second.
+- Led migration of 24 services onto Kubernetes.
+
+Brightline Analytics — Associate Backend Engineer (2022–2023)
+- Designed a gRPC service handling 44 thousand requests per second.
+- Led migration of 28 services onto Kubernetes.
+- Reduced p99 latency by 14% by introducing a Redis cache layer.
+
+EDUCATION
+Ashford Polytechnic — M.S. Data Science, 2022

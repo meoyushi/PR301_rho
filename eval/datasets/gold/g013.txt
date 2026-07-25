@@ -1,0 +1,23 @@
+Malik Aubert
+Backend Engineer
+malik.aubert@example.com
+
+PROFILE
+Hands-on Backend Engineer who has spent 5 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.
+
+SKILLS
+Kubernetes, PostgreSQL, Go, gRPC, Docker
+
+EMPLOYMENT HISTORY
+Vantage Point Consulting — Backend Engineer (2019–2021)
+- Designed a gRPC service handling 5 thousand requests per second.
+- Reduced p99 latency by 33% by introducing a Redis cache layer.
+- Led migration of 38 services onto Kubernetes.
+
+Cobalt Interactive — Junior Backend Engineer (2016–2018)
+- Led migration of 45 services onto Kubernetes.
+- Reduced p99 latency by 27% by introducing a Redis cache layer.
+- Designed a gRPC service handling 53 thousand requests per second.
+
+EDUCATION AND TRAINING
+State University — B.A. Economics, 2016

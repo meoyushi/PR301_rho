@@ -1,0 +1,22 @@
+Beatriz Mbeki
+Financial Analyst
+beatriz.mbeki@example.com
+
+PROFILE
+Financial Analyst with 13 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.
+
+TECHNICAL SKILLS
+SQL, Variance Analysis, Forecasting, Excel, Tableau
+
+EXPERIENCE
+Trellis Financial — Financial Analyst (2018–2021)
+- Automated variance reporting in SQL, saving 6 analyst hours per month.
+- Presented monthly results to a committee of 51 executives.
+
+Ironwood Robotics — Associate Financial Analyst (2016–2017)
+- Automated variance reporting in SQL, saving 29 analyst hours per month.
+- Presented monthly results to a committee of 30 executives.
+- Owned the quarterly forecast for a 25 million dollar product line.
+
+EDUCATION
+Ashford Polytechnic — B.S. Computer Science, 2016

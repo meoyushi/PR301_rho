@@ -1,0 +1,186 @@
+{
+  "gold": {
+    "name": "Amara Lindqvist",
+    "headline": "Mechanical Engineer",
+    "summary": "Hands-on Mechanical Engineer who has spent 14 years shipping and maintaining systems used daily by large teams. Comfortable owning work end to end.",
+    "skills": [
+      "Six Sigma",
+      "FEA",
+      "GD&T",
+      "MATLAB",
+      "SolidWorks",
+      "AutoCAD"
+    ],
+    "work": [
+      {
+        "company": "Cobalt Interactive",
+        "title": "Mechanical Engineer",
+        "start_date": "2023",
+        "end_date": "2024",
+        "bullets": [
+          "Designed 18 injection-moulded assemblies released to production.",
+          "Cut part cost 41% through a design-for-manufacture review.",
+          "Ran FEA validation on 27 structural components."
+        ]
+      },
+      {
+        "company": "Copperfield Retail",
+        "title": "Associate Mechanical Engineer",
+        "start_date": "2022",
+        "end_date": "2023",
+        "bullets": [
+          "Ran FEA validation on 42 structural components.",
+          "Designed 58 injection-moulded assemblies released to production.",
+          "Cut part cost 24% through a design-for-manufacture review."
+        ]
+      },
+      {
+        "company": "Meridian Health Group",
+        "title": "Junior Mechanical Engineer",
+        "start_date": "2018",
+        "end_date": "2021",
+        "bullets": [
+          "Designed 13 injection-moulded assemblies released to production.",
+          "Cut part cost 45% through a design-for-manufacture review."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "B.S.",
+        "field": "Computer Science",
+        "end_year": "2018"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      15
+    ],
+    "skills[0]": [
+      240,
+      249
+    ],
+    "skills[1]": [
+      251,
+      254
+    ],
+    "skills[2]": [
+      256,
+      260
+    ],
+    "skills[3]": [
+      262,
+      268
+    ],
+    "skills[4]": [
+      270,
+      280
+    ],
+    "skills[5]": [
+      282,
+      289
+    ],
+    "work[0].company": [
+      307,
+      325
+    ],
+    "work[0].title": [
+      328,
+      347
+    ],
+    "work[0].date": [
+      349,
+      353
+    ],
+    "work[0].bullets[0]": [
+      362,
+      426
+    ],
+    "work[0].bullets[1]": [
+      429,
+      487
+    ],
+    "work[0].bullets[2]": [
+      490,
+      537
+    ],
+    "work[1].company": [
+      539,
+      557
+    ],
+    "work[1].title": [
+      560,
+      589
+    ],
+    "work[1].date": [
+      591,
+      595
+    ],
+    "work[1].bullets[0]": [
+      604,
+      651
+    ],
+    "work[1].bullets[1]": [
+      654,
+      718
+    ],
+    "work[1].bullets[2]": [
+      721,
+      779
+    ],
+    "work[2].company": [
+      781,
+      802
+    ],
+    "work[2].title": [
+      805,
+      831
+    ],
+    "work[2].date": [
+      833,
+      837
+    ],
+    "work[2].bullets[0]": [
+      846,
+      910
+    ],
+    "work[2].bullets[1]": [
+      913,
+      971
+    ],
+    "education[0].institution": [
+      993,
+      1010
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Amara Lindqvist",
+    "skills[0]": "Six Sigma",
+    "skills[1]": "FEA",
+    "skills[2]": "GD&T",
+    "skills[3]": "MATLAB",
+    "skills[4]": "SolidWorks",
+    "skills[5]": "AutoCAD",
+    "work[0].company": "Cobalt Interactive",
+    "work[0].title": "Mechanical Engineer",
+    "work[0].date": "2023",
+    "work[0].bullets[0]": "Designed 18 injection-moulded assemblies released to production.",
+    "work[0].bullets[1]": "Cut part cost 41% through a design-for-manufacture review.",
+    "work[0].bullets[2]": "Ran FEA validation on 27 structural components.",
+    "work[1].company": "Copperfield Retail",
+    "work[1].title": "Associate Mechanical Engineer",
+    "work[1].date": "2022",
+    "work[1].bullets[0]": "Ran FEA validation on 42 structural components.",
+    "work[1].bullets[1]": "Designed 58 injection-moulded assemblies released to production.",
+    "work[1].bullets[2]": "Cut part cost 24% through a design-for-manufacture review.",
+    "work[2].company": "Meridian Health Group",
+    "work[2].title": "Junior Mechanical Engineer",
+    "work[2].date": "2018",
+    "work[2].bullets[0]": "Designed 13 injection-moulded assemblies released to production.",
+    "work[2].bullets[1]": "Cut part cost 45% through a design-for-manufacture review.",
+    "education[0].institution": "Northgate College"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "gold": {
+    "name": "Dana Ramachandran",
+    "headline": "Registered Nurse",
+    "summary": "Registered Nurse with 12 years of experience delivering production systems in regulated environments. Focused on reliability, measurement, and clear handover.",
+    "skills": [
+      "Triage",
+      "EPIC",
+      "ACLS",
+      "IV Therapy",
+      "Phlebotomy",
+      "Patient Care"
+    ],
+    "work": [
+      {
+        "company": "Northwind Systems",
+        "title": "Registered Nurse",
+        "start_date": "2022",
+        "end_date": "2024",
+        "bullets": [
+          "Managed a 27 bed unit across rotating night shifts.",
+          "Maintained medication accuracy above 43% across audits.",
+          "Trained 49 new graduate nurses on EPIC charting workflows."
+        ]
+      },
+      {
+        "company": "Ironwood Robotics",
+        "title": "Junior Registered Nurse",
+        "start_date": "2019",
+        "end_date": "2021",
+        "bullets": [
+          "Trained 4 new graduate nurses on EPIC charting workflows.",
+          "Maintained medication accuracy above 13% across audits.",
+          "Managed a 43 bed unit across rotating night shifts."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Northgate College",
+        "degree": "B.S.",
+        "field": "Mechanical Engineering",
+        "end_year": "2019"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      17
+    ],
+    "skills[0]": [
+      251,
+      257
+    ],
+    "skills[1]": [
+      259,
+      263
+    ],
+    "skills[2]": [
+      265,
+      269
+    ],
+    "skills[3]": [
+      271,
+      281
+    ],
+    "skills[4]": [
+      283,
+      293
+    ],
+    "skills[5]": [
+      295,
+      307
+    ],
+    "work[0].company": [
+      333,
+      350
+    ],
+    "work[0].title": [
+      353,
+      369
+    ],
+    "work[0].date": [
+      371,
+      375
+    ],
+    "work[0].bullets[0]": [
+      384,
+      435
+    ],
+    "work[0].bullets[1]": [
+      438,
+      493
+    ],
+    "work[0].bullets[2]": [
+      496,
+      554
+    ],
+    "work[1].company": [
+      556,
+      573
+    ],
+    "work[1].title": [
+      576,
+      599
+    ],
+    "work[1].date": [
+      601,
+      605
+    ],
+    "work[1].bullets[0]": [
+      614,
+      671
+    ],
+    "work[1].bullets[1]": [
+      674,
+      729
+    ],
+    "work[1].bullets[2]": [
+      732,
+      783
+    ],
+    "education[0].institution": [
+      795,
+      812
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Dana Ramachandran",
+    "skills[0]": "Triage",
+    "skills[1]": "EPIC",
+    "skills[2]": "ACLS",
+    "skills[3]": "IV Therapy",
+    "skills[4]": "Phlebotomy",
+    "skills[5]": "Patient Care",
+    "work[0].company": "Northwind Systems",
+    "work[0].title": "Registered Nurse",
+    "work[0].date": "2022",
+    "work[0].bullets[0]": "Managed a 27 bed unit across rotating night shifts.",
+    "work[0].bullets[1]": "Maintained medication accuracy above 43% across audits.",
+    "work[0].bullets[2]": "Trained 49 new graduate nurses on EPIC charting workflows.",
+    "work[1].company": "Ironwood Robotics",
+    "work[1].title": "Junior Registered Nurse",
+    "work[1].date": "2019",
+    "work[1].bullets[0]": "Trained 4 new graduate nurses on EPIC charting workflows.",
+    "work[1].bullets[1]": "Maintained medication accuracy above 13% across audits.",
+    "work[1].bullets[2]": "Managed a 43 bed unit across rotating night shifts.",
+    "education[0].institution": "Northgate College"
+  }
+}

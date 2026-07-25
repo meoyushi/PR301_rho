@@ -1,0 +1,139 @@
+{
+  "gold": {
+    "name": "Amara Hyun",
+    "headline": "Data Engineer",
+    "summary": "Data Engineer with 7 years across startups and enterprise. Known for turning vague requirements into scoped, measurable delivery.",
+    "skills": [
+      "dbt",
+      "Python",
+      "Kafka",
+      "Spark",
+      "AWS"
+    ],
+    "work": [
+      {
+        "company": "Harborview Logistics",
+        "title": "Data Engineer",
+        "start_date": "2019",
+        "end_date": "2022",
+        "bullets": [
+          "Migrated 16 legacy ETL jobs from cron to Airflow, cutting failures by 11%.",
+          "Modelled the warehouse layer in dbt across 20 source systems."
+        ]
+      },
+      {
+        "company": "Copperfield Retail",
+        "title": "Associate Data Engineer",
+        "start_date": "2016",
+        "end_date": "2019",
+        "bullets": [
+          "Modelled the warehouse layer in dbt across 19 source systems.",
+          "Built streaming ingestion pipelines processing 6 TB of event data daily.",
+          "Migrated 45 legacy ETL jobs from cron to Airflow, cutting failures by 39%."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Ashford Polytechnic",
+        "degree": "B.A.",
+        "field": "Economics",
+        "end_year": "2016"
+      }
+    ]
+  },
+  "gold_prov": {
+    "name": [
+      0,
+      10
+    ],
+    "skills[0]": [
+      206,
+      209
+    ],
+    "skills[1]": [
+      211,
+      217
+    ],
+    "skills[2]": [
+      219,
+      224
+    ],
+    "skills[3]": [
+      226,
+      231
+    ],
+    "skills[4]": [
+      233,
+      236
+    ],
+    "work[0].company": [
+      249,
+      269
+    ],
+    "work[0].title": [
+      272,
+      285
+    ],
+    "work[0].date": [
+      287,
+      291
+    ],
+    "work[0].bullets[0]": [
+      300,
+      374
+    ],
+    "work[0].bullets[1]": [
+      377,
+      438
+    ],
+    "work[1].company": [
+      440,
+      458
+    ],
+    "work[1].title": [
+      461,
+      484
+    ],
+    "work[1].date": [
+      486,
+      490
+    ],
+    "work[1].bullets[0]": [
+      499,
+      560
+    ],
+    "work[1].bullets[1]": [
+      563,
+      635
+    ],
+    "work[1].bullets[2]": [
+      638,
+      712
+    ],
+    "education[0].institution": [
+      724,
+      743
+    ]
+  },
+  "gold_prov_values": {
+    "name": "Amara Hyun",
+    "skills[0]": "dbt",
+    "skills[1]": "Python",
+    "skills[2]": "Kafka",
+    "skills[3]": "Spark",
+    "skills[4]": "AWS",
+    "work[0].company": "Harborview Logistics",
+    "work[0].title": "Data Engineer",
+    "work[0].date": "2019",
+    "work[0].bullets[0]": "Migrated 16 legacy ETL jobs from cron to Airflow, cutting failures by 11%.",
+    "work[0].bullets[1]": "Modelled the warehouse layer in dbt across 20 source systems.",
+    "work[1].company": "Copperfield Retail",
+    "work[1].title": "Associate Data Engineer",
+    "work[1].date": "2016",
+    "work[1].bullets[0]": "Modelled the warehouse layer in dbt across 19 source systems.",
+    "work[1].bullets[1]": "Built streaming ingestion pipelines processing 6 TB of event data daily.",
+    "work[1].bullets[2]": "Migrated 45 legacy ETL jobs from cron to Airflow, cutting failures by 39%.",
+    "education[0].institution": "Ashford Polytechnic"
+  }
+}
