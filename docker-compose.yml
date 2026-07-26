@@ -1,0 +1,47 @@
+# rho — full stack: Gemini-backed FastAPI backend + Next.js frontend.
+#
+#   1. Put your key in .env at the repo root:  GEMINI_API_KEY=your-key-here
+#   2. docker compose up --build
+#   3. Open http://localhost:3000  (backend on http://localhost:8000)
+#
+# The browser calls the backend directly at http://localhost:8000, so that URL
+# is baked into the frontend at build time (api_url below) and the backend's
+# CORS already allows http://localhost:3000.
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    image: rho-backend
+    environment:
+      extraction_backend: gemini
+      GEMINI_API_KEY: ${GEMINI_API_KEY:?set GEMINI_API_KEY in .env or the shell}
+    ports:
+      - "8000:8000"
+    # Model weights (sentence-transformers) download on first use; persist them
+    # so a container restart doesn't re-download.
+    volumes:
+      - rho-models:/models
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request,sys; sys.exit(0 if urllib.request.urlopen('http://localhost:8000/docs').status==200 else 1)"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 40s
+
+  frontend:
+    build:
+      context: ./web
+      dockerfile: Dockerfile
+      args:
+        # Browser-facing backend URL, baked into the client bundle at build time.
+        NEXT_PUBLIC_API_URL: ${NEXT_PUBLIC_API_URL:-http://localhost:8000}
+    image: rho-frontend
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  rho-models:

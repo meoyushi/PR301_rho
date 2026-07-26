@@ -1,0 +1,30 @@
+# Backend build context (repo root). Keep the image lean and the build fast.
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+
+# Frontend is built from its own context (./web) — never ship it into the backend.
+web/
+node_modules/
+
+# Local secrets, data, docs, evaluation scratch — none belong in the backend image.
+.env
+.git/
+docs/
+eval/
+# ...except the fitted calibrator, which is a runtime dependency, not scratch:
+# score_node loads eval/calibrator.joblib, and without it every predicted_score
+# falls back to 0.0 (the UI showed "MATCH SCORE 0/100"). It is ~600 bytes.
+!eval/calibrator.joblib
+!eval/calibrator_gemini.joblib
+tests/
+scratchpad/
+vendor/
+*.csv
+report.md
+Dockerfile*
+docker-compose.yml

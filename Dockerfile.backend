@@ -1,0 +1,62 @@
+# ── rho backend (FastAPI) ─────────────────────────────────────────────────────
+# Gemini extraction/rewrite backend + ATS-friendly DOCX export.
+#
+# The Gemini client reads GEMINI_API_KEY from a .env file in the working dir
+# (rho.llm.gemini.load_api_keys_from_file). We do NOT bake the key into the
+# image — the entrypoint materialises .env from the GEMINI_API_KEY env var at
+# container start, so the key is supplied at run time via -e / env_file.
+FROM python:3.11-slim AS base
+
+# TORCHDYNAMO_DISABLE: docling's layout model runs under torch.compile, whose
+# inductor backend shells out to a C++ compiler to JIT the generated kernels.
+# This image has no g++, so conversion died with "InvalidCxxCompiler: No working
+# C++ compiler found". Disabling dynamo runs the model eagerly instead — correct
+# results, no compiler, and no ~200MB build-essential layer.
+ENV PYTHONUNBUFFERED=1 \
+    PIP_NO_CACHE_DIR=1 \
+    PIP_DISABLE_PIP_VERSION_CHECK=1 \
+    HF_HOME=/models \
+    TORCHDYNAMO_DISABLE=1 \
+    extraction_backend=gemini
+
+# libgomp1: required by onnxruntime/torch pulled in by docling + sentence-transformers.
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends libgomp1 \
+    && rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+# Dependency layer: copy only what pip needs to resolve deps, so the (slow,
+# multi-GB torch/docling) install layer caches across source-only changes.
+COPY pyproject.toml README.md ./
+COPY src ./src
+
+# Install the package. python-docx lives in the [dev] extra but the /export/docx
+# route needs it at runtime, so pull it in explicitly for the prod image.
+# Upgrade pip first: the base image's pip (24.0) backtracks badly on this
+# dependency set (docling + torch + sentence-transformers) and can fail to
+# resolve langgraph; a newer resolver installs it cleanly.
+RUN pip install --upgrade pip && pip install . "python-docx>=1.1"
+
+# docling's OCR stack (rapidocr) depends on opencv-python, which bundles Qt GUI
+# bindings linked against X11 — absent from this headless image, so the first
+# import died with "libxcb.so.1: cannot open shared object file", surfacing to
+# the UI as a 422 "parse failed". opencv-python-headless is the same library
+# without the GUI plugins. Both ship the same `cv2` package directory, so the
+# GUI build must be removed *before* the headless one is installed — doing it in
+# the other order leaves pip deleting shared files and no importable cv2.
+RUN pip uninstall -y opencv-python \
+    && pip install --no-cache-dir "opencv-python-headless>=4.9"
+
+# The fitted calibrator turns the raw match vector into a predicted score.
+# Without it score_node falls back to 0.0 for every résumé, which surfaced as
+# "MATCH SCORE 0/100" in the UI. Copied after the pip layers so refitting the
+# calibrator doesn't invalidate the multi-GB dependency cache.
+COPY eval/calibrator.joblib eval/calibrator_gemini.joblib /app/eval/
+
+COPY docker/backend-entrypoint.sh /usr/local/bin/backend-entrypoint.sh
+RUN chmod +x /usr/local/bin/backend-entrypoint.sh
+
+EXPOSE 8000
+ENTRYPOINT ["backend-entrypoint.sh"]
+CMD ["uvicorn", "rho.api.app:app", "--host", "0.0.0.0", "--port", "8000"]
