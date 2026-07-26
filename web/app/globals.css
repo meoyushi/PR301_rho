@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ── Theme tokens ────────────────────────────────────────────────────────────
+   Two zones with different physics. The DESK (editor chrome) is themeable —
+   dim the workshop with dark mode. The SHEET (the résumé) is always paper:
+   a résumé is never printed on black, so --paper/--sheet-* never change.     */
+:root {
+  --paper: #faf9f6;          /* the sheet — constant across themes */
+  --sheet-ink: #1c1b19;
+  --sheet-ink-muted: #6b6862;
+  --sheet-rule: #d8d5cd;
+
+  --desk: #edebe5;           /* editor background */
+  --surface: #f7f5f1;        /* cards on the desk */
+  --surface-raised: #fffefb;
+  --ink: #1c1b19;
+  --ink-muted: #6b6862;
+  --hairline: #dcd9d1;
+  --studio: #b5482a;
+  --studio-soft: #b5482a1a;
+  --shadow-sheet: 0 1px 2px rgba(28,27,25,0.06), 0 20px 48px -20px rgba(28,27,25,0.28);
+
+  --font-tool: ui-sans-serif, "Inter", system-ui, -apple-system, sans-serif;
+  --font-label: ui-monospace, "JetBrains Mono", "SFMono-Regular", Menlo, monospace;
+  --font-sheet: ui-serif, Georgia, "Times New Roman", serif;
+}
+
+:root[data-theme="dark"] {
+  --desk: #1a1917;
+  --surface: #232120;
+  --surface-raised: #2b2926;
+  --ink: #ece9e2;
+  --ink-muted: #9a958b;
+  --hairline: #38352f;
+  --studio: #d2643f;         /* lifted for contrast on dark desk */
+  --studio-soft: #d2643f1f;
+  --shadow-sheet: 0 2px 8px rgba(0,0,0,0.4), 0 24px 60px -20px rgba(0,0,0,0.6);
+}
+
+body {
+  background: var(--desk);
+  color: var(--ink);
+  font-family: var(--font-tool);
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+/* Range/color inputs pick up the (theme-aware) accent */
+input[type="range"] { accent-color: var(--studio); }
+
+/* ── Print ───────────────────────────────────────────────────────────────────
+   Only the sheet, clean — no editor, no before/after diff, no browser-injected
+   header/footer (URL, date, "localhost"). @page margin:0 kills the browser
+   chrome; the sheet carries its own padding for readable margins.            */
+@media print {
+  :root, :root[data-theme="dark"] {   /* always print light — it's paper */
+    --desk: #ffffff;
+  }
+  .no-print { display: none !important; }
+  .print-hide { display: none !important; }
+  .print-area {
+    overflow: visible !important;
+    padding: 0 !important;
+    display: block !important;
+  }
+  .print-area * { box-shadow: none !important; }
+  .print-sheet {
+    padding: 0.6in !important;
+    box-shadow: none !important;
+    max-width: none !important;
+  }
+  @page { margin: 0; }
+}
